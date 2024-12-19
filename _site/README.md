@@ -23,3 +23,8 @@ Welcome to the **Digital Library for Digital Sri Lanka**. This repository hosts 
    ```bash
    git clone https://github.com/ICTASL/capacity-building.git
    cd capacity-building
+   bundle install
+   bundle exec jekyll serve
+
+Visit http://localhost:4000 to view the site locally.
+
