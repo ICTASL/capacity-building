@@ -1,0 +1,78 @@
+<!-- _layouts/home.html -->
+---
+layout: default
+---
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="container">
+    <h1>Welcome to the Digital Library</h1>
+    <p>Your comprehensive resource for enhancing digital literacy and fostering a vibrant digital economy.</p>
+    <a href="#featured-personas" class="btn btn-primary">Explore Resources</a>
+  </div>
+</section>
+
+<!-- Featured Personas/Categories -->
+<section id="featured-personas" class="featured-personas">
+  <div class="container">
+    <h2>Explore by Your Role</h2>
+    <div class="personas-grid">
+      {% assign featured_personas = site.data.navigation.main | where: "title", "Students" | append: "Professionals" | append: "Entrepreneurs & Startups" %}
+      
+      {% for persona in site.data.navigation.main %}
+        {% if persona.title == "Students" or persona.title == "Professionals" or persona.title == "Entrepreneurs & Startups" %}
+          <div class="persona-card">
+            <a href="{{ persona.url | relative_url }}">
+              <img src="{{ '/assets/images/' | append: persona.title | downcase | replace: ' & ', '-' | replace: ' ', '-' | append: '.png' | relative_url }}" alt="{{ persona.title }} Icon">
+              <h3>{{ persona.title }}</h3>
+            </a>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Latest Resources -->
+<section class="latest-resources">
+  <div class="container">
+    <h2>Latest Resources</h2>
+    <ul class="resources-list">
+      {% for resource in site.collections.resources.docs | sort: 'date' | reverse | limit: 5 %}
+        <li>
+          <a href="{{ resource.url | relative_url }}">{{ resource.title }}</a>
+          <p>{{ resource.description }}</p>
+        </li>
+      {% endfor %}
+    </ul>
+    <a href="/collections/resources/" class="btn btn-secondary">View All Resources</a>
+  </div>
+</section>
+
+<!-- Testimonials (Optional) -->
+<section class="testimonials">
+  <div class="container">
+    <h2>What Our Users Say</h2>
+    <div class="testimonials-grid">
+      {% for testimonial in site.data.testimonials %}
+        <div class="testimonial-card">
+          <blockquote>{{ testimonial.quote }}</blockquote>
+          <p>- {{ testimonial.author }}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Call to Action -->
+<section class="call-to-action">
+  <div class="container">
+    <h2>Get Started Today!</h2>
+    <p>Enhance your digital skills and contribute to a thriving digital economy.</p>
+    <a href="/pages/about/" class="btn btn-primary">Learn More</a>
+    <a href="/volunteers-contributors/contribution-guidelines/" class="btn btn-secondary">Contribute</a>
+  </div>
+</section>
+
+<!-- Footer -->
+{% include footer.html %}

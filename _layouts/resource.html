@@ -1,16 +1,23 @@
+<!-- _layouts/resource.html -->
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="description" content="{{ site.description }}">
+  <meta name="description" content="{{ page.description | escape }}">
   {% seo %}
   <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
 </head>
 <body>
   {% include header.html %}
   <main>
-    {{ content }}
+    <article>
+      <h1>{{ page.title }}</h1>
+      <p>{{ page.description }}</p>
+      {{ content }}
+    </article>
   </main>
   {% include footer.html %}
   <script src="{{ '/assets/js/scripts.js' | relative_url }}"></script>

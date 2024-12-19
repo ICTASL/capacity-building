@@ -1,0 +1,29 @@
+<header>
+    <div class="logo">
+      <a href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Digital Library Logo">
+      </a>
+    </div>
+    <div class="search">
+        <input type="text" id="search-input" placeholder="Search..." />
+        <div id="results-container"></div>
+      </div>
+      
+    <nav>
+      <ul>
+        {% for item in site.data.navigation.main %}
+          <li>
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {% if item.children %}
+              <ul>
+                {% for child in item.children %}
+                  <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+  

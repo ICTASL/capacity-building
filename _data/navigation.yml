@@ -6,7 +6,7 @@ main:
     url: "/students/"
     children:
       - title: "High School"
-        url: "/students/high-school/"
+        url: "/students/high-school/digital-literacy-basics/"
       - title: "Undergraduates"
         url: "/students/undergraduates/"
       - title: "Vocational Programs"

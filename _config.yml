@@ -1,0 +1,10 @@
+title: "Digital Library"
+description: "A comprehensive digital library for Digital Sri Lanka, tailored to diverse user personas."
+baseurl: "" # e.g., /digital-library
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+markdown: kramdown
