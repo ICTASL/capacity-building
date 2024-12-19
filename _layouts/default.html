@@ -1,17 +1,42 @@
+<!-- _layouts/default.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
-  <meta name="description" content="{{ site.description }}">
+  <meta name="description" content="{{ page.description | escape }}">
   {% seo %}
   <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
 </head>
 <body>
   {% include header.html %}
-  <main>
-    {{ content }}
-  </main>
+  <div class="container">
+    {% include sidebar.html %}
+    <main class="content">
+      {% if page.url != site.baseurl %}
+        <nav aria-label="Breadcrumb">
+          <ol class="breadcrumb">
+            <li><a href="{{ site.baseurl }}/">Home</a></li>
+            {% assign path_parts = page.url | remove: site.baseurl | split: "/" %}
+            {% assign path_length = path_parts | size %}
+            {% for part in path_parts %}
+              {% if part != "" %}
+                {% assign current_index = forloop.index0 %}
+                <li>
+                  {% if current_index < path_length %}
+                    <a href="{{ site.baseurl }}/{{ path_parts[0..current_index] | join: "/" }}/">{{ part | capitalize }}</a>
+                  {% else %}
+                    {{ part | capitalize }}
+                  {% endif %}
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ol>
+        </nav>
+      {% endif %}
+      {{ content }}
+    </main>
+  </div>
   {% include footer.html %}
   <script src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
 </body>
