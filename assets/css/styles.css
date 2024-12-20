@@ -108,3 +108,25 @@
     margin-bottom: 30px;
   }
   
+  /* assets/css/styles.css */
+
+body {
+    font-family: 'Noto Sans', sans-serif;
+  }
+  
+  /* For Sinhala */
+  [lang="si"] {
+    font-family: 'Noto Sans Sinhala', sans-serif;
+  }
+  
+  /* For Tamil */
+  [lang="ta"] {
+    font-family: 'Noto Sans Tamil', sans-serif;
+  }
+  
+  /* Active language link styling */
+  .language-switcher a.active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  

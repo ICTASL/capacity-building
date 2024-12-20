@@ -1,12 +1,21 @@
 <!-- _layouts/default.html -->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang | default: 'en' }}">
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="description" content="{{ page.description | escape }}">
   {% seo %}
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Sinhala&family=Noto+Sans+Tamil&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+  
+  <!-- Hreflang Tags -->
+  {% if page.lang %}
+    <link rel="alternate" hreflang="en" href="{{ site.url }}/{{ page.url | remove: site.baseurl }}" />
+    <link rel="alternate" hreflang="si" href="{{ site.url }}/si{{ page.url | remove: site.baseurl }}" />
+    <link rel="alternate" hreflang="ta" href="{{ site.url }}/ta{{ page.url | remove: site.baseurl }}" />
+    <link rel="alternate" hreflang="x-default" href="{{ site.url }}/" />
+  {% endif %}
 </head>
 <body>
   {% include header.html %}

@@ -1,8 +1,16 @@
 <!-- _includes/sidebar.html -->
-<aside class="sidebar">
-    <nav>
+<aside class="sidebar" id="sidebar">
+    <nav aria-label="Sidebar Navigation">
       <ul>
-        {% for item in site.data.navigation.main %}
+        {% assign lang = page.lang | default: "en" %}
+        {% if lang == "si" %}
+          {% assign nav = site.data.navigation-si.main %}
+        {% elsif lang == "ta" %}
+          {% assign nav = site.data.navigation-ta.main %}
+        {% else %}
+          {% assign nav = site.data.navigation.main %}
+        {% endif %}
+        {% for item in nav %}
           <li>
             <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
             {% if item.children %}
