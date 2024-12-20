@@ -1,9 +1,11 @@
 <!-- _includes/header.html -->
 <header>
-    <div class="logo">
+    <div class="logo" style="white-space: nowrap;">
+        <div style="display: inline-block;">
       <a href="{{ site.baseurl }}/">
         <img src="{{ site.baseurl }}/assets/images/logo.png" alt="Digital Library Logo">
-      </a>
+      </a> </div>
+      <div style="display: inline-block;"> <h1> National Digital Capacity Library - Sri Lanka</h1></div>
     </div>
     <div class="language-switcher">
       {% assign lang = page.lang | default: "en" %}
