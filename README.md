@@ -1,4 +1,4 @@
-# Capacity Building - Digital Library
+# National Digital Capacity Library - Sri Lanka
 
 Welcome to the **Digital Library for Digital Sri Lanka**. This repository hosts a comprehensive collection of resources aimed at enhancing digital literacy, professional development, and fostering a vibrant digital economy.
 

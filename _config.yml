@@ -1,6 +1,6 @@
 # _config.yml
 
-title: "Digital Library"
+title: "National Digital Capacity Library - Sri Lanka"
 description: "A comprehensive digital library for Digital Sri Lanka, tailored to diverse user personas."
 baseurl: "/capacity-building" # et to repository name; English is at root 
 url: "https://ictasl.github.io/capacity-building/" # Base hostname & protocol

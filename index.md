@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Digital Library Home"
+title: "National Digital Capacity Library - Sri Lanka"
 ---
 # Welcome to the Digital Library
 
