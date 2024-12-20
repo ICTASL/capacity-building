@@ -130,3 +130,102 @@ body {
     text-decoration: underline;
   }
   
+  :root {
+    --background-color: #FFFFFF;
+    --text-color: #000000;
+    --primary-color: #8B0000; /* Maroon */
+    --secondary-color: #FF8C00; /* Orange */
+    --accent-color: #008000; /* Green */
+    --highlight-color: #FFD700; /* Gold */
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --background-color: #2F2F2F; /* Dark Maroon */
+      --text-color: #FFFFFF;
+      --primary-color: #FF6347; /* Lighter Maroon */
+      --secondary-color: #FFA500; /* Lighter Orange */
+      --accent-color: #32CD32; /* Lighter Green */
+      --highlight-color: #FFD700; /* Gold remains the same */
+    }
+  }
+  
+  /* Manual Theme Toggle */
+  :root[data-theme='dark'] {
+    --background-color: #2F2F2F;
+    --text-color: #FFFFFF;
+    --primary-color: #FF6347;
+    --secondary-color: #FFA500;
+    --accent-color: #32CD32;
+    --highlight-color: #FFD700;
+  }
+  
+  :root[data-theme='light'] {
+    --background-color: #FFFFFF;
+    --text-color: #000000;
+    --primary-color: #8B0000;
+    --secondary-color: #FF8C00;
+    --accent-color: #008000;
+    --highlight-color: #FFD700;
+  }
+
+/* Base styles */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    font-family: 'Noto Sans', sans-serif;
+  }
+  
+  /* Navigation */
+  nav {
+    background-color: var(--primary-color);
+  }
+  
+  nav a {
+    color: var(--text-color);
+  }
+  
+  nav a.active {
+    color: var(--highlight-color);
+  }
+  
+  /* Buttons */
+  button, .btn {
+    background-color: var(--secondary-color);
+    color: var(--text-color);
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button:hover, .btn:hover {
+    background-color: var(--highlight-color);
+  }
+  
+  /* Links */
+  a {
+    color: var(--accent-color);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Language Switcher */
+  .language-switcher a.active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  /* Additional Components */
+  .header, .footer, .sidebar {
+    background-color: var(--primary-color);
+    color: var(--text-color);
+  }
+  
+  /* Dark Mode */
+  @media (prefers-color-scheme: dark) {
+    /* Variables are already set above */
+  }
+  
