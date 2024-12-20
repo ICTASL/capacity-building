@@ -2,7 +2,7 @@
 
 title: "Digital Library"
 description: "A comprehensive digital library for Digital Sri Lanka, tailored to diverse user personas."
-baseurl: "" # English is at root
+baseurl: "/capacity-building" # et to repository name; English is at root 
 url: "https://ictasl.github.io/capacity-building/" # Base hostname & protocol
 
 theme: minima
