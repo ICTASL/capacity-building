@@ -239,7 +239,7 @@ body {
   
   /* Search Input */
   #search-input {
-    width: 100%;
+    width: 40%;
     padding: 10px 15px;
     border: 2px solid var(--primary-color);
     border-radius: 4px;
@@ -283,7 +283,7 @@ body {
   
   /* Hide results by default */
   #results-container {
-    display: none;
+    display: block;
   }
   
   /* Show results when there are results */
