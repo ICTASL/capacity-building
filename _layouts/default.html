@@ -47,6 +47,23 @@
     </main>
   </div>
   {% include footer.html %}
+
+  <!-- Include Simple-Jekyll-Search JS -->
+  <script src="{{ '/assets/js/simple-jekyll-search.min.js' | relative_url }}"></script>
+  
+    <!-- Initialize Simple-Jekyll-Search -->
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+          SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('results-container'),
+            json: '{{ site.baseurl }}/search.json',
+            searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+            noResultsText: 'No results found'
+          });
+        });
+      </script>
+
   <script src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
 </body>
 </html>

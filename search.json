@@ -1,12 +1,15 @@
+---
+layout: null
+permalink: /search.json
+---
+
 [
-    {
-      "title": "Digital Literacy Basics",
-      "url": "/students/high-school/digital-literacy-basics/"
-    },
-    {
-      "title": "Building Digital Businesses",
-      "url": "/entrepreneurs-startups/building-digital-businesses/"
-    }
-    
-  ]
-  
+  {% for page in site.pages %}
+    {% if page.lang and page.lang != "hidden" %}
+      {
+        "title": "{{ page.title | escape }}",
+        "url": "{{ site.baseurl }}{{ page.url }}"
+      }{% unless forloop.last %},{% endunless %}
+    {% endif %}
+  {% endfor %}
+]
