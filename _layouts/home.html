@@ -31,36 +31,7 @@
   </div>
 </section>
 
-<!-- Latest Resources -->
-<section class="latest-resources">
-  <div class="container">
-    <h2>Latest Resources</h2>
-    <ul class="resources-list">
-      {% for resource in site.collections.resources.docs | sort: 'date' | reverse | limit: 5 %}
-        <li>
-          <a href="{{ resource.url | relative_url }}">{{ resource.title }}</a>
-          <p>{{ resource.description }}</p>
-        </li>
-      {% endfor %}
-    </ul>
-    <a href="/collections/resources/" class="btn btn-secondary">View All Resources</a>
-  </div>
-</section>
 
-<!-- Testimonials (Optional) -->
-<section class="testimonials">
-  <div class="container">
-    <h2>What Our Users Say</h2>
-    <div class="testimonials-grid">
-      {% for testimonial in site.data.testimonials %}
-        <div class="testimonial-card">
-          <blockquote>{{ testimonial.quote }}</blockquote>
-          <p>- {{ testimonial.author }}</p>
-        </div>
-      {% endfor %}
-    </div>
-  </div>
-</section>
 
 <!-- Call to Action -->
 <section class="call-to-action">
