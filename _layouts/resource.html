@@ -15,13 +15,16 @@
 </head>
 <body>
   {% include header.html %}
-  <main>
+  <div class="resource-container">
+  {% include sidebar.html %}
+  <main class="content">
     <article>
       <h1>{{ page.title }}</h1>
       <p>{{ page.description }}</p>
       {{ content }}
     </article>
   </main>
+</div>
   {% include footer.html %}
 
   <!-- Include Simple-Jekyll-Search JS -->

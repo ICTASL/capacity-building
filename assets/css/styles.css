@@ -163,7 +163,7 @@ body {
   :root[data-theme='light'] {
     --background-color: #FFFFFF;
     --text-color: #000000;
-    --primary-color: #8B0000;
+    --primary-color: #47e3ff;
     --secondary-color: #FF8C00;
     --accent-color: #008000;
     --highlight-color: #FFD700;
@@ -291,3 +291,55 @@ body {
     display: block;
   }
   
+
+  /* assets/css/styles.css */
+
+/* Resource Container holding sidebar and main content */
+ .resource-container {
+  display: flex;
+  flex-direction: row;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  box-sizing: border-box;
+} 
+
+/* Sidebar Styling */
+.sidebar {
+  width: 250px; /* Fixed width for the sidebar */
+  margin-right: 20px;
+  background-color: var(--primary-color);
+  color: var(--text-color);
+  padding: 20px;
+  box-sizing: border-box;
+  border-radius: 8px;
+  height: fit-content;
+}
+
+/* Sidebar Menu Styling */
+.sidebar-menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-menu li {
+  margin-bottom: 15px;
+}
+
+.sidebar-menu li a {
+  color: var(--text-color);
+  text-decoration: none;
+  font-weight: bold;
+  display: block;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.sidebar-menu li a:hover,
+.sidebar-menu li a.active {
+  background-color: var(--secondary-color);
+  color: var(--background-color);
+}
+
+
