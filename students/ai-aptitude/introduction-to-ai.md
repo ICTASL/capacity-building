@@ -62,8 +62,8 @@ Ready to explore the exciting world of AI? Check out these awesome resources:
 - **[Introduction to Artificial Intelligence (AI) - Google AI Essentials](https://www.youtube.com/watch?v=example)** - Google AI
 
 ## GPT Prompts for Further Learning
-Want to learn even more? Try asking me these questions:
-(nNew to propting? Read our [Guide to Prompting for Learning](../guide-to-prompting-for-learning/) )
+Want to learn even more? Try asking the following questions from a GTP chat bot
+(New to prompting? Read our [Guide to Prompting for Learning](../guide-to-prompting-for-learning/) ) 
 
 ### Understanding AI
 - **"Explain what Artificial Intelligence is in simple words."**
