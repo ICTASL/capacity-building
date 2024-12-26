@@ -49,17 +49,16 @@ AI is a fascinating and rapidly evolving field that's transforming the world aro
 Ready to explore the exciting world of AI? Check out these awesome resources:
 
 ### Websites and Articles
-- **[What is Artificial Intelligence?](https://www.kidsdiscover.com/quick-reads/what-is-artificial-intelligence/)** - Kids Discover
-- **[What is AI?](https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/1)** - Science in the News
-- **[What is AI?](https://www.kids.nationalgeographic.com/technology/ai/)** - National Geographic Kids
+- **[Artificial Intelligence for Beginners - A Curriculum](https://microsoft.github.io/AI-For-Beginners/)** 
+- **[Google’s AI Course for Beginners (in 10 minutes)! - Video](https://www.youtube.com/watch?v=Yq0QkCxoTHM)**
+- **[What is artificial intelligence—and what is it not?](https://www.weforum.org/stories/2023/03/what-is-artificial-intelligence-and-what-is-it-not-ai-machine-learning/)**
+- **[AI skills are becoming more important than job experience. Here’s how job seekers can adapt](https://www.weforum.org/stories/2024/06/ai-skills-rival-job-experience-in-recruitment/)**
 
 ### Guides for Parents and Educators
-- **[How to Introduce AI Concepts to Kids: A Parent’s Guide](https://www.codingal.com/resources/parents)** - CodaKid
+- **[What is AI for Kids? An Introduction to Artificial Intelligence for Kids](https://www.inspiritscholars.com/blog/what-is-ai-for-kids/)** 
 - **[AI4K12 Initiative](https://ai4k12.org/)**
+- **[Generative AI won't kill education — unless we allow it to](https://www.weforum.org/stories/2023/09/navigating-the-rise-of-generative-artificial-intelligence-and-its-implications-for-education/)**
 
-### Videos
-- **[Introduction to Artificial Intelligence - What Is AI?](https://www.youtube.com/watch?v=example)** - Simplilearn
-- **[Artificial Intelligence Tutorial for Beginners](https://www.youtube.com/watch?v=example)** - Simplilearn
 
 ## GPT Prompts for Further Learning
 Want to learn even more? Try asking the following questions from a GTP chat bot

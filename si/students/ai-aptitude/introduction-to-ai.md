@@ -1,93 +1,91 @@
 ---
 layout: resource
-title: "Introduction to AI"
-description: "A simple overview of what Artificial Intelligence is and its basic concepts."
+title: "කෘතිම බුද්ධියට හැඳින්වීම"
+description: "කෘතිම බුද්ධිය යනු කුමක්ද සහ එහි මූලික සංකල්ප පිළිබඳ සරල දළ විශ්ලේෂණයක්."
 permalink: /si/students/ai-aptitude/introduction-to-ai/
 lang: "si"
 ---
 
-# Introduction to AI
+# කෘතිම බුද්ධියට හැඳින්වීම
 
-## Introduction
-Ever wondered how computers can understand what you say, recommend your next favorite song, or even drive cars? That's the power of **Artificial Intelligence (AI)**! It's like giving computers a brain, allowing them to learn, solve problems, and even get creative. Let's explore the exciting world of AI and see how it's changing our lives.
+## හැඳින්වීම
+පරිගණකවලට ඔබ පවසන දේ තේරුම් ගත හැකි ආකාරය, ඔබේ ඊළඟ ප්‍රියතම ගීතය නිර්දේශ කළ හැකි ආකාරය හෝ මෝටර් රථ පැදවිය හැකි ආකාරය ගැන කවදා හෝ කල්පනා කර තිබේද? එය **කෘතිම බුද්ධියේ (AI)** බලයයි! එය පරිගණකවලට මොළයක් ලබා දීම වැනි ය, එමඟින් ඒවාට ඉගෙන ගැනීමට, ගැටළු විසඳීමට සහ නිර්මාණශීලී වීමට පවා ඉඩ සලසයි. අපි AI හි ආකර්ෂණීය ලෝකය ගවේෂණය කර එය අපගේ ජීවිත වෙනස් කරන ආකාරය බලමු.
 
-## What is AI?
-Imagine a computer that can learn from its experiences, just like you do. It can analyze information, find patterns, and use that knowledge to do amazing things. That's what AI is all about—**teaching computers to think, learn, and make decisions**.
+## AI යනු කුමක්ද?
+ඔබ මෙන් තම අත්දැකීම් වලින් ඉගෙන ගත හැකි පරිගණකයක් ගැන සිතන්න. එයට තොරතුරු විශ්ලේෂණය කිරීමට, රටා සොයා ගැනීමට සහ විස්මිත දේවල් කිරීමට එම දැනුම භාවිතා කළ හැකිය. AI යනු එයයි - **පරිගණකවලට සිතීමට, ඉගෙන ගැනීමට සහ තීරණ ගැනීමට ඉගැන්වීම**.
 
-### Everyday Examples of AI
-Here are some examples of AI you might encounter every day:
+### AI හි එදිනෙදා උදාහරණ
+ඔබට දිනපතා හමුවිය හැකි AI හි උදාහරණ කිහිපයක් මෙන්න:
 
-- **Virtual Assistants:** Siri, Alexa, and Google Assistant are like friendly helpers on your phone or smart speaker. They can answer questions, tell you the weather, play music, and even control your smart home devices.
-  
-- **Smart Recommendations:** Netflix suggests movies you might like, and Amazon knows what you might want to buy. That's AI using your past preferences to recommend things you'll enjoy.
-  
-- **Self-Driving Cars:** While still under development, AI is powering the technology that could allow cars to drive themselves, making transportation safer and more efficient.
+- **අතථ්‍ය සහායකයින්:** Siri, Alexa සහ Google Assistant යනු ඔබේ දුරකථනයේ හෝ ස්මාර්ට් ස්පීකරයේ සිටින මිත්‍රශීලී සහායකයින් වැනිය. ඔවුන්ට ප්‍රශ්නවලට පිළිතුරු දිය හැකිය, කාලගුණය ඔබට කියන්න, සංගීතය වාදනය කරන්න, සහ ඔබේ ස්මාර්ට් හෝම් උපාංග පාලනය කළ හැකිය.
 
-## Why is AI Important?
-AI is not just about cool gadgets and futuristic technology; it's also helping us solve some of the world's biggest challenges. Here's how:
+- **ස්මාර්ට් නිර්දේශ:** Netflix ඔබ කැමති චිත්‍රපට නිර්දේශ කරයි, සහ Amazon ඔබ මිලදී ගැනීමට කැමති දේ දනී. එය ඔබ භුක්ති විඳින දේ නිර්දේශ කිරීමට ඔබේ අතීත මනාපයන් භාවිතා කරන AI වේ.
 
-### Solving Global Challenges
-- **Healthcare:** AI can help doctors diagnose diseases earlier and more accurately by analyzing medical images and patient data.
-  
-- **Environmental Protection:** AI can help scientists track endangered species, monitor pollution levels, and develop sustainable solutions for a healthier planet.
-  
-- **Space Exploration:** AI is used in robots and spacecraft to explore distant planets, gather data, and expand our understanding of the universe.
+- **ස්වයං-පැදවීමේ මෝටර් රථ:** තවමත් සංවර්ධනය වෙමින් පවතින අතර, මෝටර් රථවලට තනිවම ධාවනය කිරීමට ඉඩ සලසන තාක්ෂණයට AI බලගන්වයි, ප්‍රවාහනය ආරක්ෂිත සහ වඩා කාර්යක්ෂම කරයි.
 
-### Enhancing Daily Life
-AI is also making our everyday lives easier and more enjoyable:
+## AI වැදගත් වන්නේ ඇයි?
+AI යනු සිසිල් උපකරණ සහ අනාගත තාක්ෂණය පමණක් නොවේ; එය ලෝකයේ විශාලතම අභියෝග කිහිපයක් විසඳීමට ද අපට උපකාර කරයි. මෙන්න කෙසේද:
 
-- **Finding Information:** AI powers search engines, helping us find the information we need quickly and efficiently.
-  
-- **Communication:** AI helps translate languages, making it easier to communicate with people from all over the world.
-  
-- **Entertainment:** AI is used to create realistic video games, personalized music recommendations, and even generate art and stories.
+### ගෝලීය අභියෝග විසඳීම
+- **සෞඛ්‍ය සේවා:** වෛද්‍ය රූප සහ රෝගී දත්ත විශ්ලේෂණය කිරීමෙන් රෝග කලින් සහ වඩාත් නිවැරදිව හඳුනා ගැනීමට AI හට වෛද්‍යවරුන්ට උපකාර කළ හැකිය.
 
-## Conclusion
-AI is a fascinating and rapidly evolving field that's transforming the world around us. From healthcare and environmental protection to entertainment and education, AI is making a positive impact in countless ways. As you learn more about AI, you'll discover its incredible potential to improve our lives and shape the future!
+- **පාරිසරික ආරක්ෂාව:** වඳවී යාමේ තර්ජනයට ලක්ව ඇති විශේෂ නිරීක්ෂණය කිරීමට, දූෂණ මට්ටම් නිරීක්ෂණය කිරීමට සහ සෞඛ්‍ය සම්පන්න ග්‍රහලෝකයක් සඳහා තිරසාර විසඳුම් සංවර්ධනය කිරීමට AI හට විද්‍යාඥයින්ට උපකාර කළ හැකිය.
 
-## Resources for Further Learning
-Ready to explore the exciting world of AI? Check out these awesome resources:
+- **අභ්‍යවකාශ ගවේෂණය:** දුරස්ථ ග්‍රහලෝක ගවේෂණය කිරීමට, දත්ත රැස් කිරීමට සහ විශ්වය පිළිබඳ අපගේ අවබෝධය පුළුල් කිරීමට රොබෝවරුන් සහ අභ්‍යවකාශ යානා වල AI භාවිතා වේ.
 
-### Websites and Articles
-- **[What is Artificial Intelligence?](https://www.kidsdiscover.com/quick-reads/what-is-artificial-intelligence/)** - Kids Discover
-- **[What is AI?](https://sitn.hms.harvard.edu/flash/2017/history-artificial-intelligence/1)** - Science in the News
-- **[What is AI?](https://www.kids.nationalgeographic.com/technology/ai/)** - National Geographic Kids
+### දෛනික ජීවිතය වැඩිදියුණු කිරීම
+AI අපගේ එදිනෙදා ජීවිතය පහසු සහ වඩාත් විනෝදජනක කරයි:
 
-### Guides for Parents and Educators
-- **[How to Introduce AI Concepts to Kids: A Parent’s Guide](https://www.codingal.com/resources/parents)** - CodaKid
-- **[AI4K12 Initiative](https://ai4k12.org/)**
+- **තොරතුරු සොයා ගැනීම:** AI සෙවුම් යන්ත්‍රවලට බලගන්වයි, අපට අවශ්‍ය තොරතුරු ඉක්මනින් සහ කාර්යක්ෂමව සොයා ගැනීමට උපකාරී වේ.
 
-### Videos
-- **[Introduction to Artificial Intelligence | What Is AI?](https://www.youtube.com/watch?v=example)** - Simplilearn
-- **[Artificial Intelligence Tutorial for Beginners](https://www.youtube.com/watch?v=example)** - Simplilearn
-- **[Introduction to Artificial Intelligence (AI) - Google AI Essentials](https://www.youtube.com/watch?v=example)** - Google AI
+- **සන්නිවේදනය:** AI භාෂා පරිවර්තනය කිරීමට උපකාරී වන අතර, ලොව පුරා සිටින පුද්ගලයින් සමඟ සන්නිවේදනය කිරීම පහසු කරයි.
 
-## GPT Prompts for Further Learning
-Want to learn even more? Try asking me these questions:
+- **විනෝදාස්වාදය:** යථාර්ථවාදී වීඩියෝ ක්‍රීඩා, පුද්ගලාරෝපිත සංගීත නිර්දේශ සහ කලාව සහ කථා පවා ජනනය කිරීමට AI භාවිතා කරයි.
 
-### Understanding AI
-- **"Explain what Artificial Intelligence is in simple words."**
+## නිගමනය
+AI යනු අප වටා ඇති ලෝකය පරිවර්තනය කරන ආකර්ෂණීය සහ වේගයෙන් වර්ධනය වන ක්ෂේත්‍රයකි. සෞඛ්‍ය සහ පාරිසරික ආරක්ෂාවේ සිට විනෝදාස්වාදය සහ අධ්‍යාපනය දක්වා, AI ගණන් කළ නොහැකි ආකාරවලින් ධනාත්මක බලපෑමක් ඇති කරයි. ඔබ AI ගැන වැඩිදුර ඉගෙන ගන්නා විට, අපගේ ජීවිත වැඩිදියුණු කිරීමට සහ අනාගතය හැඩගැස්වීමට එහි ඇදහිය නොහැකි හැකියාව ඔබට සොයා ගත හැකිය!
 
-### AI in Daily Life
-- **"Give examples of how AI is used in everyday life."**
+## තවදුරටත් ඉගෙනීම සඳහා සම්පත්
+AI හි ආකර්ෂණීය ලෝකය ගවේෂණය කිරීමට සූදානම්ද? මෙම විශිෂ්ට සම්පත් පරීක්ෂා කරන්න:
 
-### AI Helpers
-- **"How do virtual assistants like Siri or Alexa use AI?"**
+### වෙබ් අඩවි සහ ලිපි
+- **[ආරම්භකයින් සඳහා කෘතිම බුද්ධිය - විෂය මාලාව](https://microsoft.github.io/AI-For-Beginners/)** 
+- **[ආරම්භකයින් සඳහා Google හි AI පාඨමාලාව (මිනිත්තු 10 කින්)! - වීඩියෝ](https://www.youtube.com/watch?v=Yq0QkCxoTHM)**
+- **[කෘතිම බුද්ධිය යනු කුමක්ද - සහ එය කුමක් නොවේද?](https://www.weforum.org/stories/2023/03/what-is-artificial-intelligence-and-what-is-it-not-ai-machine-learning/)**
+- **[රැකියා අත්දැකීම් වලට වඩා AI කුසලතා වැදගත් වෙමින් පවතී. රැකියා සොයන්නන්ට අනුවර්තනය විය හැකි ආකාරය මෙන්න](https://www.weforum.org/stories/2024/06/ai-skills-rival-job-experience-in-recruitment/)**
 
-### Fun with AI
-- **"What are some fun things AI can do?"**
+### දෙමාපියන් සහ අධ්‍යාපනඥයින් සඳහා මාර්ගෝපදේශ
+- **[ළමුන් සඳහා AI යනු කුමක්ද? ළමුන් සඳහා කෘතිම බුද්ධිය පිළිබඳ හැඳින්වීමක්](https://www.inspiritscholars.com/blog/what-is-ai-for-kids/)** 
+- **[AI4K12 මුලපිරීම](https://ai4k12.org/)**
+- **[ජනන AI අධ්‍යාපනය විනාශ නොකරනු ඇත - අපි එයට ඉඩ නොදුන්නොත්](https://www.weforum.org/stories/2023/09/navigating-the-rise-of-generative-artificial-intelligence-and-its-implications-for-education/)**
 
-### Future of AI
-- **"How might AI help us in the future?"**
+## තවදුරටත් ඉගෙනීම සඳහා GPT ඉල්ලීම්
+තවත් ඉගෙන ගැනීමට අවශ්‍යද? GTP chatbot එකකින් පහත සඳහන් ප්‍රශ්න අසන්න
+(ඉල්ලීම් සඳහා අලුත්ද? අපගේ [ඉගෙනීම සඳහා ඉල්ලීම් කිරීමේ මාර්ගෝපදේශය](../guide-to-prompting-for-learning/) කියවන්න)
 
-## Call to Action
-Ready to dive deeper into the world of AI? Try these activities:
+### AI තේරුම් ගැනීම
+- **"කෘතිම බුද්ධිය යනු කුමක්දැයි සරල වචන වලින් පැහැදිලි කරන්න."**
 
-- **Talk to a Virtual Assistant:** Ask Siri, Alexa, or Google Assistant a question and see how they respond!
-  
-- **Explore AI Games and Apps:** There are many fun and educational AI games and apps available. Ask a grown-up to help you find some!
-  
-- **Imagine the Future of AI:** What other amazing things could AI do in the future? How could it help us solve problems and make the world a better place?
+### දෛනික ජීවිතයේ AI
+- **"දෛනික ජීවිතයේදී AI භාවිතා කරන ආකාරය පිළිබඳ උදාහරණ දෙන්න."**
+
+### AI සහායකයින්
+- **"Siri හෝ Alexa වැනි අතථ්‍ය සහායකයින් AI භාවිතා කරන්නේ කෙසේද?"**
+
+### AI සමඟ විනෝද වන්න
+- **"AI කළ හැකි විනෝදජනක දේවල් මොනවාද?"**
+
+### AI හි අනාගතය
+- **"අනාගතයේදී AI අපට උදව් කරන්නේ කෙසේද?"**
+
+## ක්‍රියා කිරීමට කැඳවීම
+AI ලෝකය ගැන ගැඹුරින් සොයා බැලීමට සූදානම්ද? මෙම ක්‍රියාකාරකම් උත්සාහ කරන්න:
+
+- **අතථ්‍ය සහායකයෙකු සමඟ කතා කරන්න:** Siri, Alexa හෝ Google Assistant ගෙන් ප්‍රශ්නයක් අසා ඔවුන් ප්‍රතිචාර දක්වන ආකාරය බලන්න!
+
+- **AI ක්‍රීඩා සහ යෙදුම් ගවේෂණය කරන්න:** විනෝදජනක සහ අධ්‍යාපනික AI ක්‍රීඩා සහ යෙදුම් රාශියක් තිබේ. ඒවා සොයා ගැනීමට වැඩිහිටියෙකුගෙන් උදව් ඉල්ලන්න!
+
+- **AI හි අනාගතය සිතන්න:** අනාගතයේදී AIට තවත් මොනතරම් විස්මිත දේවල් කළ හැකිද? ගැටළු විසඳා ලෝකය වඩා හොඳ තැනක් බවට පත් කිරීමට එයට උපකාර කළ හැක්කේ කෙසේද?
 
 ---
-*Happy Learning!*
+*සුභ ඉගෙනීමක්!*
