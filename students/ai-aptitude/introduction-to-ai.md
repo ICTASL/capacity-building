@@ -3,6 +3,7 @@ layout: resource
 title: "Introduction to AI"
 description: "A simple overview of what Artificial Intelligence is and its basic concepts."
 permalink: /students/ai-aptitude/introduction-to-ai/
+lang: "en"
 ---
 
 # Introduction to AI
@@ -59,7 +60,6 @@ Ready to explore the exciting world of AI? Check out these awesome resources:
 ### Videos
 - **[Introduction to Artificial Intelligence - What Is AI?](https://www.youtube.com/watch?v=example)** - Simplilearn
 - **[Artificial Intelligence Tutorial for Beginners](https://www.youtube.com/watch?v=example)** - Simplilearn
-- **[Introduction to Artificial Intelligence (AI) - Google AI Essentials](https://www.youtube.com/watch?v=example)** - Google AI
 
 ## GPT Prompts for Further Learning
 Want to learn even more? Try asking the following questions from a GTP chat bot

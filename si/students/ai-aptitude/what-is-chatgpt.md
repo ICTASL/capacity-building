@@ -3,6 +3,7 @@ layout: resource
 title: "What is ChatGPT?"
 description: "An introduction to ChatGPT, its purpose, and basic functionalities."
 permalink: /students/ai-aptitude/what-is-chatgpt/
+lang: "si"
 ---
 
 # What is ChatGPT?

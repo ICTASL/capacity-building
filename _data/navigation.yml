@@ -5,8 +5,8 @@ main:
   - title: "Students"
     url: "/students/"
     children:
-      - title: "High School"
-        url: "/students/high-school/"
+      - title: "AI Aptitude"
+        url: "/students/ai-aptitude/"
       - title: "Undergraduates"
         url: "/students/undergraduates/"
       - title: "Vocational Programs"

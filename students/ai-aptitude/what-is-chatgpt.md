@@ -3,6 +3,7 @@ layout: resource
 title: "What is ChatGPT?"
 description: "An introduction to ChatGPT, its purpose, and basic functionalities."
 permalink: /students/ai-aptitude/what-is-chatgpt/
+lang: "en"
 ---
 
 # What is ChatGPT?
@@ -73,7 +74,7 @@ Want to learn even more? Try asking these questions from a GPT chatbot like Chat
 - **"How might AI help us in the future?"**
 
 ## Call to Action
-Discover more about AI tools by visiting our [What is Google Gemini?](..   /what-is-gemini) page!
+Discover more about AI tools by visiting our [What is Google Gemini?](../what-is-gemini) page!
 
 ---
 *Happy Learning!*

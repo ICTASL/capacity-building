@@ -2,7 +2,8 @@
 layout: resource
 title: "What is Google Gemini?"
 description: "An introduction to Google Gemini, its features, and how it differs from other Generative AI tools."
-permalink: /students/ai-aptitude/what-is-gemini/
+permalink: /ta/students/ai-aptitude/what-is-gemini/
+lang: "ta"
 ---
 
 # What is Google Gemini?

@@ -5,8 +5,8 @@ main:
   - title: "ශිෂ්‍යයෝ"
     url: "/si/students/"
     children:
-      - title: "මධ්‍යම පාසල"
-        url: "/si/students/high-school/"
+      - title: "AI යෝග්‍යතා කුසලතා"
+        url: "/si/students/ai-aptitude/"
       - title: "උපාධිධාරීන්"
         url: "/si/students/undergraduates/"
       - title: "වේෂම කාර්යයන්"

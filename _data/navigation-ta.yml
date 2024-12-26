@@ -5,8 +5,8 @@ main:
   - title: "மாணவர்கள்"
     url: "/ta/students/"
     children:
-      - title: "உயர்நிலைப் பள்ளி"
-        url: "/ta/students/high-school/"
+      - title: "AI ஆப்டிட்யூட் திறன்கள்"
+        url: "/ta/students/ai-aptitude/"
       - title: "படிப்புக்குரியவர்கள்"
         url: "/ta/students/undergraduates/"
       - title: "தொழில்முறை திட்டங்கள்"

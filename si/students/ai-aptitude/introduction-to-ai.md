@@ -2,7 +2,8 @@
 layout: resource
 title: "Introduction to AI"
 description: "A simple overview of what Artificial Intelligence is and its basic concepts."
-permalink: /students/ai-aptitude/introduction-to-ai/
+permalink: /si/students/ai-aptitude/introduction-to-ai/
+lang: "si"
 ---
 
 # Introduction to AI
