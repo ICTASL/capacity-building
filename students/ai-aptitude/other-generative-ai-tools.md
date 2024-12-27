@@ -87,7 +87,9 @@ The landscape of Generative AI is constantly evolving, with new tools and applic
 * **Generative AI Tools:** Explore lists and comparisons of various generative AI tools available online.
 * **Understanding Generative AI:** Learn more about the underlying technology and concepts behind generative AI through articles, videos, and online courses.
 
-## GPT Prompts
+## GPT Prompts for Further Learning
+Want to learn even more? Try asking these questions from a GPT chatbot like ChatGPT.
+(New to prompting? Read our [Guide to Prompting for Learning](../guide-to-prompting-for-learning/) ) 
 
 1. **Exploring AI Tools:**
    - "What are some of the latest and most innovative Generative AI tools available?"
