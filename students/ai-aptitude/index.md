@@ -24,6 +24,7 @@ Start with these introductory pages to build a foundational understanding of AI 
 Delve deeper into using AI tools and enhancing your interaction skills.
 - [Introduction to Prompting](./introduction-to-prompting)
 - [AI Aptitude Unlocked: Empowering Students and Citizens in the AI Era](./ai-aptitude-unlocked)
+- [The Essential Non-Technical Skills for AI Success](./non_technical_skills_for_ai/)
 
 ### **Long-Form Pages (Advanced)**
 Master advanced techniques and understand the broader implications of AI.
