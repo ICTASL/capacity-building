@@ -22,11 +22,8 @@ Start with these introductory pages to build a foundational understanding of AI 
 
 ### **Mid-Form Pages (Intermediate)**
 Delve deeper into using AI tools and enhancing your interaction skills.
-- [How to Use ChatGPT](./how-to-use-chatgpt)
-- [How to Use Google Gemini](./how-to-use-gemini)
-- [How to Use Bing Copilot](./how-to-use-bing-copilot)
 - [Introduction to Prompting](./introduction-to-prompting)
-- [Types of Prompting](./types-of-prompting)
+- [AI Aptitude Unlocked: Empowering Students and Citizens in the AI Era](./ai-aptitude-unlocked)
 
 ### **Long-Form Pages (Advanced)**
 Master advanced techniques and understand the broader implications of AI.

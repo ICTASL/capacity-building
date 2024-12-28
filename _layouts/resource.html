@@ -12,6 +12,8 @@
 <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
 <link rel="shortcut icon" href="{{ '/favicon.ico' | relative_url }}">
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
+
 </head>
 <body>
   {% include header.html %}
@@ -47,4 +49,16 @@
       
   <script src="{{ '/assets/js/scripts.js' | relative_url }}"></script>
 </body>
+<script>
+  var config = {
+      startOnLoad:true,
+      theme: 'forest',
+      flowchart:{
+              useMaxWidth:false,
+              htmlLabels:true
+          }
+  };
+  mermaid.initialize(config);
+  window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
+  </script>
 </html>
