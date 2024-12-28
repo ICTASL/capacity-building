@@ -2,7 +2,8 @@
 layout: resource
 title: "Types of Prompting"
 description: "Explore various prompting techniques to maximize the effectiveness of your interactions with Generative AI."
-permalink: /students/ai-aptitude/types-of-prompting/
+permalink: /si/students/ai-aptitude/types-of-prompting/
+lang: "si"
 ---
 
 # Types of Prompting
