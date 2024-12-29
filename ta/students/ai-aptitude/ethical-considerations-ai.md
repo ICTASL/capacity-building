@@ -2,7 +2,8 @@
 layout: resource
 title: "Ethical Considerations in AI"
 description: "Explore the ethical implications of using AI tools and learn responsible AI interaction practices."
-permalink: /students/ai-aptitude/ethical-considerations-ai/
+permalink: /ta/students/ai-aptitude/ethical-considerations-ai/
+lang: "ta"
 ---
 
 # Ethical Considerations in AI

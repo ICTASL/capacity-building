@@ -2,7 +2,8 @@
 layout: resource
 title: "Best Practices for Prompting"
 description: "Comprehensive guide on effective prompting strategies to maximize interactions with Generative AI tools."
-permalink: /students/ai-aptitude/best-practices-prompting/
+permalink: /ta/students/ai-aptitude/best-practices-prompting/
+lang: "ta"
 ---
 
 # Best Practices for Prompting
