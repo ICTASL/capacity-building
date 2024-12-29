@@ -2,7 +2,8 @@
 layout: resource
 title: "AI Use Cases"
 description: "Explore various real-world applications of AI and how they benefit different sectors."
-permalink: /students/ai-aptitude/ai-use-cases/
+permalink: /si/students/ai-aptitude/ai-use-cases/
+lang: "si"
 ---
 
 # AI Use Cases

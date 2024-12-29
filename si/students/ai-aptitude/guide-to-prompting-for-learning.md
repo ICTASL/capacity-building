@@ -2,7 +2,8 @@
 layout: resource
 title: "Our Guide to Prompting for Learning"
 description: "Learn how to effectively use AI chatbots like ChatGPT, Google Gemini, and Bing Copilot to explore new topics and expand your knowledge."
-permalink: /students/ai-aptitude/guide-to-prompting-for-learning/
+permalink: /si/students/ai-aptitude/guide-to-prompting-for-learning/
+lang: "si"
 ---
 
 # Our Guide to Prompting for Learning

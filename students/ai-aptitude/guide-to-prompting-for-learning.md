@@ -3,6 +3,7 @@ layout: resource
 title: "Guide to Prompting for Learning"
 description: "Learn how to effectively use AI chatbots like ChatGPT, Google Gemini, and Bing Copilot to explore new topics and expand your knowledge."
 permalink: /students/ai-aptitude/guide-to-prompting-for-learning/
+lang: "en"
 ---
 
 In simple terms, prompting is like having a conversation with a very smart chatbot. You give it some input or a question (the prompt), and it responds with relevant information or a creative answer. The better and clearer your prompt, the better and more accurate the response you'll get. It’s like a dialogue where you steer the conversation with your questions and commands.
