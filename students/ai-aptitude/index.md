@@ -29,7 +29,6 @@ Delve deeper into using AI tools and enhancing your interaction skills.
 ### **Long-Form Pages (Advanced)**
 Master advanced techniques and understand the broader implications of AI.
 - [Best Practices for Prompting](./best-practices-prompting)
-- [Advanced Prompting Techniques](./advanced-prompting-techniques)
 - [Ethical Considerations in AI](./ethical-considerations-ai)
 - [AI Use Cases](./ai-use-cases)
 - [Future of AI](./future-of-ai)
