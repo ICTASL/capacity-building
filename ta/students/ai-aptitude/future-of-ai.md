@@ -2,7 +2,8 @@
 layout: resource
 title: "Future of AI"
 description: "Insight into upcoming trends and the future impact of AI on society and various industries."
-permalink: /students/ai-aptitude/future-of-ai/
+permalink: /ta/students/ai-aptitude/future-of-ai/
+lang: "ta"
 ---
 
 # Future of AI
