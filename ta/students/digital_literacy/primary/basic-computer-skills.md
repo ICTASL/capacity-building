@@ -2,7 +2,7 @@
 layout: resource
 title: "Basic Computer Skills"
 description: "Introduction to computers, basic typing, and using educational software for primary students."
-permalink: "/students/digital-literacy/primary/basic-computer-skills/"
+permalink: "/ta/students/digital-literacy/primary/basic-computer-skills/"
 lang: "ta"
 ---
 

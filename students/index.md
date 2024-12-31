@@ -8,4 +8,5 @@ permalink: /students/
 
 Welcome to the Students section of the Digital Library. Here, you can find resources tailored to your educational level:
 
+- [Digital Literacy Skills](./digital-literacy/)
 - [AI Aptitude](./ai-aptitude/)

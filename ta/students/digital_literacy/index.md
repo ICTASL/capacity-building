@@ -2,7 +2,7 @@
 layout: resource
 title: "Digital Literacy Skills"
 description: "Comprehensive digital literacy resources tailored for various student levels to build essential digital competencies."
-permalink: "/students/digital-literacy/"
+permalink: "/ta/students/digital-literacy/"
 lang: "ta"
 ---
 

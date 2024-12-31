@@ -2,7 +2,7 @@
 layout: resource
 title: "Digital Literacy Skills"
 description: "Comprehensive digital literacy resources tailored for various student levels to build essential digital competencies."
-permalink: "/students/digital-literacy/"
+permalink: "/si/students/digital-literacy/"
 lang: "si"
 ---
 
@@ -15,7 +15,7 @@ Welcome to the Digital Literacy section. Explore the tailored resources below fo
 
 ### Primary Students
 
-- [Basic Computer Skills](/students/digital-literacy/primary/basic-computer-skills/)
+- [Basic Computer Skills](./primary/basic-computer-skills/)
 - [Internet Safety](/students/digital-literacy/primary/internet-safety/)
 - [Digital Citizenship](/students/digital-literacy/primary/digital-citizenship/)
 

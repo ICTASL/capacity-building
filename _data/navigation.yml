@@ -7,6 +7,8 @@ main:
     children:
       - title: "AI Aptitude"
         url: "/students/ai-aptitude/"
+      - title: "Digital Literacy"
+        url: "/students/digital-literacy/"
   #     - title: "Undergraduates"
   #       url: "/students/undergraduates/"
   #     - title: "Vocational Programs"
