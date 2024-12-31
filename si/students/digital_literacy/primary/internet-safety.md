@@ -2,7 +2,7 @@
 layout: resource
 title: "Internet Safety"
 description: "Understanding online safety practices and recognizing safe websites to ensure a secure online experience."
-permalink: "/students/digital-literacy/primary/internet-safety/"
+permalink: "/si/students/digital-literacy/primary/internet-safety/"
 lang: "si"
 ---
 

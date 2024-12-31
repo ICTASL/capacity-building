@@ -16,7 +16,7 @@ Welcome to the Digital Literacy section. Explore the tailored resources below fo
 ### Primary Students
 
 - [Basic Computer Skills](./primary/basic-computer-skills/)
-- [Internet Safety](/students/digital-literacy/primary/internet-safety/)
+- [Internet Safety](./primary/internet-safety/)
 - [Digital Citizenship](/students/digital-literacy/primary/digital-citizenship/)
 
 ### Secondary Students
