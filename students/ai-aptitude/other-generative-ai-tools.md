@@ -6,7 +6,8 @@ permalink: /students/ai-aptitude/other-generative-ai-tools/
 lang : "en"
 ---
 
-# Other Generative AI Tools
+* TOC
+{:toc}
 
 ## Introduction
 While **ChatGPT**, **Google Gemini**, and **Bing Copilot** are some of the most well-known Generative AI tools, there's a whole universe of AI out there with different strengths and capabilities. These tools can help you with various tasks, from generating creative text formats and composing music to creating stunning visuals and writing code. Let's explore some of these exciting tools and discover how they can enhance your creativity and learning!

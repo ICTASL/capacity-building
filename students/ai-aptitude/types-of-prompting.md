@@ -6,7 +6,8 @@ permalink: /students/ai-aptitude/types-of-prompting/
 lang: en 
 ---
 
-# Types of Prompting
+* TOC
+{:toc}
 
 ## Introduction
 Do you want to become an AI whisperer? Learning different types of prompting techniques is key to unlocking the full potential of Generative AI tools like **ChatGPT**, **Google Gemini**, and **Bing Copilot**. By understanding how to give AI effective instructions, you can get better answers, generate amazing content, and explore new ideas. Let's dive into the exciting world of prompting and discover how you can make the most out of these powerful AI tools!

@@ -6,6 +6,9 @@ permalink: /students/ai-aptitude/best-practices-prompting/
 lang : "en"
 ---
 
+* TOC
+{:toc}
+
 ## Introduction
 
 Large language models (LLMs) are a type of artificial intelligence that can understand and generate human language. They are trained on massive datasets of text and code, allowing them to perform a wide range of tasks, such as writing stories, translating languages, and answering questions 31. Generative AI tools are transforming the way we interact with technology, allowing us to create text, images, code, and more with remarkable ease. However, to fully harness the power of these tools and achieve the desired outcomes, we need to provide them with clear and effective instructions. This is where prompt engineering comes in. Prompt engineering is the process of designing and refining input prompts to guide AI models toward generating specific and useful outputs 1. It involves understanding the model's capabilities and limitations and strategically structuring the prompt to guide the AI towards providing accurate, relevant, and useful responses 2.

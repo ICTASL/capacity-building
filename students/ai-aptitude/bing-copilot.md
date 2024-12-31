@@ -6,7 +6,8 @@ permalink: /students/ai-aptitude/bing-copilot/
 lang: "en"
 ---
 
-# What is Bing Copilot?
+* TOC
+{:toc}
 
 ## Introduction
 Bing Copilot is a smart AI tool developed by Microsoft that integrates with Bing search to help you find information quickly and efficiently. It can assist you with homework, research, and creative projects. Let's learn more about Bing Copilot and how it can enhance productivity!

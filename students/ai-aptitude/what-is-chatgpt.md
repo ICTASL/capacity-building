@@ -6,7 +6,8 @@ permalink: /students/ai-aptitude/what-is-chatgpt/
 lang: "en"
 ---
 
-# What is ChatGPT?
+* TOC
+{:toc}
 
 ## Introduction
 Have you ever talked to Siri, Alexa, or Google Assistant? Or maybe you've used a smart toy that can answer your questions? These are all examples of **Artificial Intelligence (AI)** in action! One of the most exciting AI tools out there is **ChatGPT**. [ChatGPT](https://chatgpt.com/) is like a super-smart friend who can chat with you, help you with your homework, tell you stories, and so much more. Let’s dive in and learn all about ChatGPT!

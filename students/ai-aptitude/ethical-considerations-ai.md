@@ -6,6 +6,9 @@ permalink: /students/ai-aptitude/ethical-considerations-ai/
 language: "en"
 ---
 
+* TOC
+{:toc}
+
 ## Introduction
 
 Artificial intelligence (AI) is rapidly transforming various aspects of our lives, from healthcare and finance to transportation and entertainment. AI offers tremendous potential benefits, such as improving job quality by reducing mundane tasks and improving workplace safety 1. However, it also raises significant ethical concerns that require careful consideration. This article provides a comprehensive overview of the ethical considerations surrounding AI, exploring key areas such as bias and fairness, transparency and explainability, accountability and responsibility, privacy and security, the impact on the labor market, the use of AI in warfare, and the potential for malicious purposes.

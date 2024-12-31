@@ -6,6 +6,9 @@ permalink: /students/ai-aptitude/ai-aptitude-unlocked/
 lang: "en"
 ---
 
+* TOC
+{:toc}
+
 ## Introduction
 
 ### AI is Everywhere!

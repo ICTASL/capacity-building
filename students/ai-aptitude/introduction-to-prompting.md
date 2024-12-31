@@ -6,7 +6,8 @@ permalink: /students/ai-aptitude/introduction-to-prompting/
 lang: "en"
 ---
 
-# Introduction to Prompting
+* TOC
+{:toc}
 
 ## Introduction
 Imagine you have a super-smart robot friend who can answer your questions, write stories, and even generate creative content. But to get the best results from this friend, you need to know how to communicate effectively. That's where **prompting** comes in! Prompting is like giving instructions or asking questions in a way that AI tools like ChatGPT, Google Gemini, and Bing Copilot can understand and respond to accurately.

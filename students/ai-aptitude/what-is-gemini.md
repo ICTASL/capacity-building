@@ -6,7 +6,8 @@ permalink: /students/ai-aptitude/what-is-gemini/
 lang: "en"
 ---
 
-# What is Google Gemini?
+* TOC
+{:toc}
 
 ## Introduction
 [Google Gemini](https://gemini.google.com/) is more than just another smart AI tool similar to ChatGPT. It's Google's next-generation large language model (LLM), designed to be even more capable and versatile.  Think of it as a super-powered AI brain that can understand and generate human-like text in a way that's more natural and informative than ever before.

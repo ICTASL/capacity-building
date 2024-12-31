@@ -6,6 +6,9 @@ permalink: /students/ai-aptitude/future-of-ai/
 lang: "en"
 ---
 
+* TOC
+{:toc}
+
 # The Future of AI: A Glimpse into the Coming Decade and Beyond
 
 Artificial intelligence (AI) is rapidly transforming our world, impacting everything from how we work and communicate to how we solve global challenges. This article delves into the exciting possibilities and potential pitfalls that lie ahead as AI continues to evolve, drawing on recent research and expert opinions to paint a comprehensive picture of the future of AI.

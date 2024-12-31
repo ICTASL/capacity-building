@@ -6,6 +6,9 @@ permalink: /students/ai-aptitude/guide-to-prompting-for-learning/
 lang: "en"
 ---
 
+* TOC
+{:toc}
+
 In simple terms, prompting is like having a conversation with a very smart chatbot. You give it some input or a question (the prompt), and it responds with relevant information or a creative answer. The better and clearer your prompt, the better and more accurate the response you'll get. It’s like a dialogue where you steer the conversation with your questions and commands.
 
 Prompting with GPT (Generative Pre-trained Transformer) refers to the way you interact with the AI by providing input, or "prompts," to generate desired responses. The quality and clarity of your prompt can significantly influence the output of the model. Here’s a bit more detail:

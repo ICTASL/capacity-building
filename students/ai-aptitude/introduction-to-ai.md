@@ -5,8 +5,8 @@ description: "A simple overview of what Artificial Intelligence is and its basic
 permalink: /students/ai-aptitude/introduction-to-ai/
 lang: "en"
 ---
-
-# Introduction to AI
+* TOC
+{:toc}
 
 ## Introduction
 Ever wondered how computers can understand what you say, recommend your next favorite song, or even drive cars? That's the power of **Artificial Intelligence (AI)**! It's like giving computers a brain, allowing them to learn, solve problems, and even get creative. Let's explore the exciting world of AI and see how it's changing our lives.

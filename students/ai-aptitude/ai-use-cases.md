@@ -5,6 +5,9 @@ description: "Explore various real-world applications of AI and how they benefit
 permalink: /students/ai-aptitude/ai-use-cases/
 ---
 
+* TOC
+{:toc}
+
 # **AI Use Cases Across Industries**
 
 Artificial intelligence (AI) is rapidly transforming various sectors, offering innovative solutions and driving efficiency. This article explores AI use cases across a comprehensive range of industries, providing a concise list for each and highlighting their potential benefits.

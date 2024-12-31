@@ -6,6 +6,9 @@ permalink: /students/ai-aptitude/non_technical_skills_for_ai/
 lang: "en"
 ---
 
+* TOC
+{:toc}
+
 ## Introduction
 
 ### The AI Revolution
