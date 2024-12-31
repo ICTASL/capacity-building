@@ -21,6 +21,7 @@ Welcome to the Digital Literacy section. Explore the tailored resources below fo
 
 ### Secondary Students
 
+- [Internet Safety - Advanced](./secondary/internet-safety/)
 - [Intermediate Computer Skills](/students/digital-literacy/secondary/intermediate-computer-skills/)
 - [Cybersecurity Basics](/students/digital-literacy/secondary/cybersecurity-basics/)
 - [Digital Projects](/students/digital-literacy/secondary/digital-projects/)

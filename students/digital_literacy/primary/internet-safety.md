@@ -9,7 +9,7 @@ lang: "en"
 * TOC
 {:toc}
 
-## Internet Safety
+## Online Safety
 
 ### The Online World
 
