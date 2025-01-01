@@ -6,6 +6,9 @@ permalink: /ta/students/ai-aptitude/introduction-to-ai/
 lang: "ta"
 ---
 
+* TOC
+{:toc}
+
 # AI அறிமுகம்
 
 ## அறிமுகம்
