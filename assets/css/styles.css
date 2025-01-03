@@ -156,8 +156,11 @@ body {
     --text-color: #FFFFFF;
     --primary-color: #FF6347;
     --secondary-color: #FFA500;
-    --accent-color: #32CD32;
+    --accent-color: #EEE8AA;
     --highlight-color: #FFD700;
+    --blockquote-border-color: #66afe9; /* Lighter blue */
+    --blockquote-bg-color: #2c2c2c;    /* Dark gray */
+    --blockquote-text-color: #FFEB3B;  /* Light gray */
   }
   
   :root[data-theme='light'] {
@@ -167,6 +170,9 @@ body {
     --secondary-color: #FF8C00;
     --accent-color: #008000;
     --highlight-color: #FFD700;
+    --blockquote-border-color: #007acc; /* Blue */
+    --blockquote-bg-color: #f9f9f9;    /* Light gray */
+    --blockquote-text-color: #007BFF;  /* Dark gray */
   }
 
 /* Base styles */
@@ -361,3 +367,48 @@ th {
   text-align: left;
 }
 
+/* Base Block Quote Styling */
+blockquote {
+  border-left: 4px solid var(--blockquote-border-color);
+  background-color: var(--blockquote-bg-color);
+  color: var(--blockquote-text-color);
+  padding: 1em;
+  margin: 1.5em 10px;
+  quotes: "“" "”" "‘" "’";
+  border-radius: 4px; /* Optional: Rounded corners */
+}
+
+blockquote p {
+  display: inline;
+  margin: 0; /* Remove default margins */
+}
+
+/* Adding Quote Marks */
+blockquote::before {
+  content: open-quote;
+  font-size: 2em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote::after {
+  content: close-quote;
+  font-size: 2em;
+  line-height: 0.1em;
+  margin-left: 0.25em;
+  vertical-align: -0.4em;
+}
+
+/* Responsive Design (Optional) */
+@media (max-width: 600px) {
+  blockquote {
+      margin: 1em 5px;
+      padding: 0.8em;
+  }
+
+  blockquote::before,
+  blockquote::after {
+      font-size: 1.5em;
+  }
+}
