@@ -107,6 +107,91 @@ Access to the latest software, tools, and technologies that support innovation, 
 
 Dedicated support teams to assist users in navigating the library’s resources, utilizing digital tools, and addressing any technical or content-related queries.
 
+
+## Evolution of Capacity Building: From Content to Real-World Experience
+
+```mermaid
+graph TB
+    A[Content - Digital Library] --> B[Training Programs]
+    B --> C[Projects & Mentoring]
+
+    subgraph Capacity Building
+        
+
+        subgraph Level 1
+            A
+        end
+
+        subgraph Level 2
+            B1[Boot-camps]
+            B2[Workshops]
+            B3[Meet-ups]
+            B4[Conferences]
+            B5[Train the Trainer]
+            B --> B1
+            B --> B2
+            B --> B3
+            B --> B4
+            B --> B5
+        end
+
+        subgraph Level 3
+            C1[Internships on Real-World Projects]
+            C2[Government/GovTech Workload]
+            C3[Demand Creation]
+            C4[Mentoring & Hands-on Experience]
+            C --> C1
+            C --> C2
+            C --> C3
+            C --> C4
+        end
+    end
+```
+
+### 1. Level 1: Content - Digital Library
+
+At the foundation of the **National Digital Capacity Library - Sri Lanka** is the **Digital Library**, serving as the single source of truth and a one-stop-shop for all topics related to capacity building. This extensive repository includes a wide range of resources such as e-books, research papers, tutorials, multimedia content, and reference materials. By centralizing knowledge, the Digital Library provides a comprehensive frame of reference for individuals and organizations seeking to enhance their digital skills and understanding.
+
+**Key Features:**
+- **Comprehensive Resources:** Covers diverse subjects essential for digital capacity building.
+- **Accessible Platform:** Easily searchable and user-friendly interface to facilitate seamless access to information.
+- **Updated Content:** Regularly updated to reflect the latest trends, technologies, and best practices in the digital landscape.
+
+### 2. Level 2: Training Programs
+
+Building upon the foundational content, the next layer focuses on **Training Programs** designed to translate theoretical knowledge into practical skills. These programs include **Boot-camps**, **Workshops**, **Meet-ups**, **Conferences**, and **Train the Trainer** initiatives. By leveraging the resources from the Digital Library, training programs provide structured learning experiences that cater to various learning styles and professional needs.
+
+**Components:**
+- **Boot-camps:** Intensive, short-term training sessions that equip participants with specific skills in a condensed timeframe.
+- **Workshops:** Interactive sessions that delve deeper into particular topics, allowing hands-on practice and collaborative learning.
+- **Meet-ups:** Regular gatherings for community members to network, share experiences, and discuss emerging trends.
+- **Conferences:** Larger events featuring keynote speakers, panel discussions, and presentations on cutting-edge developments in digital capacity.
+- **Train the Trainer:** Specialized programs aimed at empowering individuals to become trainers themselves, thereby expanding the reach of capacity-building efforts.
+
+### 3. Level 3: Projects & Mentoring
+
+The final layer emphasizes **Projects & Mentoring**, where participants apply their acquired knowledge and skills to real-world scenarios. This experiential learning phase includes **Internships on Real-World Projects**, **Government/GovTech Workload**, **Demand Creation**, and **Mentoring & Hands-on Experience**. By engaging in practical projects, individuals gain invaluable hands-on experience, foster innovation, and contribute to meaningful initiatives that address national priorities.
+
+**Elements:**
+- **Internships on Real-World Projects:** Providing opportunities for participants to work on actual projects, bridging the gap between learning and practical application.
+- **Government/GovTech Workload:** Collaborating with government agencies to support digital transformation initiatives and public sector projects.
+- **Demand Creation:** Initiatives aimed at generating interest and demand for digital skills within various industries and communities.
+- **Mentoring & Hands-on Experience:** Offering personalized guidance and support from experienced mentors to enhance learning outcomes and professional growth.
+
+### Flow of Capacity Building
+
+1. **Centralized Content Repository:** The Digital Library acts as the backbone, offering a vast array of resources that serve as the foundation for all capacity-building activities.
+   
+2. **Structured Training Programs:** Leveraging the comprehensive content, training programs provide structured and interactive learning experiences that cater to different needs and skill levels.
+   
+3. **Practical Application through Projects:** Participants apply their knowledge in real-world projects, gaining hands-on experience and contributing to impactful initiatives.
+   
+4. **Continuous Mentoring and Support:** Ongoing mentoring ensures that individuals receive the necessary guidance to navigate challenges, fostering continuous improvement and professional development.
+
+---
+
+
+
 ## Personas We Address
 
 NDCL-SL caters to a diverse range of personas, ensuring that our resources and services meet the needs of different segments of society:
@@ -149,7 +234,8 @@ The **National Digital Capacity Library - Sri Lanka** plays a pivotal role in th
 - **Fostering Social Equity:** Reducing disparities in digital access and skills, promoting inclusive growth and social cohesion.
 - **Supporting Government Initiatives:** Enhancing the capabilities of public sector employees, leading to more efficient and effective governance.
 
-## Conclusion
+
+## Summary
 
 The **National Digital Capacity Library - Sri Lanka** is committed to building a digitally empowered society where knowledge, innovation, and collaboration drive national progress. By addressing critical challenges such as the digital divide, resource scarcity, and skill gaps, we provide comprehensive solutions that empower individuals and organizations to thrive in the digital age.
 
