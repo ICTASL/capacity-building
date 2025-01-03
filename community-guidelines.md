@@ -5,8 +5,14 @@ description: "Guidelines for participating in and contributing to the National D
 permalink: "/community-guidelines/"
 lang: "en"
 ---
+
+---
+> "Share your knowledge. It's a way to achieve immortality." - Dalai Lama
+
+---
   
-# Community and Contribution Guidelines
+* TOC
+{:toc}
 
 Welcome to the **National Digital Capacity Library - Sri Lanka** community! Our mission is to empower individuals and organizations by providing comprehensive digital resources and fostering a collaborative environment for knowledge sharing and innovation. To maintain a positive and productive community, we have established the following **Community Guidelines** and **Contribution Guidelines**. Please read them carefully to understand how you can participate effectively and responsibly.
 
