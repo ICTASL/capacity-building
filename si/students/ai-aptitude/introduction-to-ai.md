@@ -5,6 +5,8 @@ description: "කෘතිම බුද්ධිය යනු කුමක්ද
 permalink: /si/students/ai-aptitude/introduction-to-ai/
 lang: "si"
 ---
+* TOC
+{:toc}
 
 # කෘතිම බුද්ධියට හැඳින්වීම
 
