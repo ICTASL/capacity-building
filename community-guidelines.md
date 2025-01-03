@@ -179,9 +179,9 @@ For more information on our licensing, please visit [Creative Commons Attributio
 
 If you have any questions, need assistance, or want to report an issue, please reach out to our community moderators or administrators:
 
-- **Email:** [community@digitalcapacity.lk](mailto:community@digitalcapacity.lk)
+<!-- - **Email:** [community@digitalcapacity.lk](mailto:community@digitalcapacity.lk) -->
 - **Forum:** [GitHub Discussions](https://github.com/ICTASL/capacity-building/discussions)
-- **Social Media:** Follow us on [Facebook](https://facebook.com/digitalcapacity.lk) and [Twitter](https://twitter.com/digitalcapacitylk) for updates and support.
+<!-- - **Social Media:** Follow us on [Facebook](https://facebook.com/digitalcapacity.lk) and [Twitter](https://twitter.com/digitalcapacitylk) for updates and support. -->
 
 ## Conclusion
 
