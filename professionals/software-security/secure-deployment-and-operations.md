@@ -6,7 +6,6 @@ permalink: "/professionals/software-security/secure-deployment-and-operations/"
 lang: "en"
 ---
 
-
 ----
 > “It takes 20 years to build a reputation and few minutes of cyber-incident to ruin it.” — Stephane Nappo
 
