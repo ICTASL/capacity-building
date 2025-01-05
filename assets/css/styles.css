@@ -372,7 +372,8 @@ th, td {
 }
 
 th {
-  background-color: #f2f2f2;
+  background-color: var(--blockquote-bg-color);
+  color: var(--blockquote-text-color);
   text-align: left;
 }
 
