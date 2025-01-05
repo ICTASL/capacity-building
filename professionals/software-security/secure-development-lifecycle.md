@@ -6,7 +6,6 @@ permalink: "/professionals/software-security/secure-development-lifecycle/"
 lang: "en"
 ---
 
-
 ----
 > “A good programmer is someone who always looks both ways before crossing a one-way street.” — Doug Linder
 
@@ -14,8 +13,6 @@ lang: "en"
 
 * TOC
 {:toc}
-
-
 
 Integrating security into the Software Development Lifecycle (SDLC) is essential for building robust and resilient software systems. By embedding security practices at each phase of the SDLC, organizations can proactively identify and mitigate vulnerabilities, ensuring the integrity, confidentiality, and availability of their applications. This article explores the integration of security into the SDLC, secure coding practices, code review and static analysis, secure testing methodologies, the security of third-party components, DevSecOps practices, security awareness and training, and incident response planning.
 
