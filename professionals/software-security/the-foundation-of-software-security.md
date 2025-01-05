@@ -21,7 +21,7 @@ Software security is a critical aspect of modern technology development, ensurin
 
 At the heart of software security lie fundamental concepts that form the basis for protecting systems and data. Understanding these concepts is crucial for designing and implementing effective security measures.
 
-### **1. Confidentiality, Integrity, Availability (CIA Triad)**
+### 1. Confidentiality, Integrity, Availability (CIA Triad)
 
 The **CIA Triad** is a widely accepted model that guides the development of security policies and practices.
 
@@ -37,7 +37,7 @@ The **CIA Triad** is a widely accepted model that guides the development of secu
 
   > **Availability** ensures that systems and data are operational and accessible to users when required, minimizing downtime and service disruptions.
 
-### **2. Authentication and Authorization**
+### 2. Authentication and Authorization
 
 - **Authentication:** The process of verifying the identity of a user or system. Common methods include passwords, biometrics, and [multi-factor authentication (MFA)](https://en.wikipedia.org/wiki/Multi-factor_authentication).
 
@@ -47,13 +47,13 @@ The **CIA Triad** is a widely accepted model that guides the development of secu
 
   > **Authorization** defines the permissions and access rights of users, ensuring they can only perform actions and access data pertinent to their roles.
 
-### **3. Least Privilege Principle**
+### 3. Least Privilege Principle
 
 This principle dictates that users and systems should operate with the minimum level of access necessary to perform their functions. By limiting privileges, the potential impact of security breaches is reduced.
 
 > **Least Privilege** minimizes the risk of unauthorized access by restricting user permissions to only what is essential for their role, thereby limiting the scope of potential security incidents.
 
-### **4. Defense in Depth**
+### 4. Defense in Depth
 
 A layered security approach that employs multiple defensive mechanisms to protect data and systems. If one layer fails, others remain to provide continued protection.
 
@@ -63,11 +63,11 @@ A layered security approach that employs multiple defensive mechanisms to protec
 
 Effective software security requires a proactive approach to identifying and mitigating potential threats and vulnerabilities. **Threat Modeling** and **Risk Assessment** are critical processes in this endeavor.
 
-### **1. Threat Modeling**
+### 1. Threat Modeling
 
 Threat modeling involves systematically identifying and evaluating potential threats to a system. It helps in understanding the attack surface and prioritizing security efforts based on the likelihood and impact of threats.
 
-#### **Steps in Threat Modeling:**
+#### Steps in Threat Modeling:
 
 1. **Identify Assets:** Determine what needs protection, such as data, systems, and services.
 2. **Identify Threats:** Recognize potential threats that could exploit vulnerabilities.
@@ -77,11 +77,11 @@ Threat modeling involves systematically identifying and evaluating potential thr
 
 > **Threat Modeling** provides a structured approach to identifying and addressing security threats, enabling organizations to prioritize their security efforts effectively.
 
-### **2. Risk Assessment**
+### 2. Risk Assessment
 
 Risk assessment is the process of evaluating the potential risks associated with identified threats and vulnerabilities. It helps in determining the severity of risks and informing decision-making regarding resource allocation for mitigation.
 
-#### **Components of Risk Assessment:**
+#### Components of Risk Assessment:
 
 - **Likelihood:** The probability that a threat will exploit a vulnerability.
 - **Impact:** The potential consequences if a threat successfully exploits a vulnerability.
@@ -94,11 +94,11 @@ Risk assessment is the process of evaluating the potential risks associated with
 
 Adhering to established security standards and frameworks ensures that software security practices are comprehensive, consistent, and aligned with industry best practices.
 
-### **1. NIST Cybersecurity Framework**
+### 1. NIST Cybersecurity Framework
 
 The [**National Institute of Standards and Technology (NIST) Cybersecurity Framework**](https://www.nist.gov/cyberframework) provides a policy framework of computer security guidance for how private sector organizations can assess and improve their ability to prevent, detect, and respond to cyber attacks.
 
-#### **Core Functions:**
+#### Core Functions:
 
 - **Identify:** Develop an understanding of the organization's risk environment.
 - **Protect:** Implement safeguards to ensure delivery of critical services.
@@ -108,11 +108,11 @@ The [**National Institute of Standards and Technology (NIST) Cybersecurity Frame
 
 > The **NIST Cybersecurity Framework** offers a flexible approach to managing cybersecurity risks, suitable for organizations of all sizes and sectors.
 
-### **2. OWASP Top 10**
+### 2. OWASP Top 10
 
 The [**Open Web Application Security Project (OWASP) Top 10**](https://owasp.org/www-project-top-ten/) is a standard awareness document outlining the most critical security risks to web applications.
 
-#### **Key Risks:**
+#### Key Risks:
 
 1. **Injection**
 2. **Broken Authentication**
@@ -127,11 +127,11 @@ The [**Open Web Application Security Project (OWASP) Top 10**](https://owasp.org
 
 > The **OWASP Top 10** serves as a foundational guide for developers and security professionals to prioritize and address the most significant web application vulnerabilities.
 
-### **3. ISO/IEC 27001**
+### 3. ISO/IEC 27001
 
 The [**International Organization for Standardization (ISO) / International Electrotechnical Commission (IEC) 27001**](https://www.iso.org/isoiec-27001-information-security.html) standard specifies the requirements for establishing, implementing, maintaining, and continually improving an information security management system (ISMS).
 
-#### **Key Components:**
+#### Key Components:
 
 - **Context of the Organization:** Understanding internal and external issues, interested parties, and the scope of the ISMS.
 - **Leadership:** Commitment from top management and defining security policies.
@@ -147,11 +147,11 @@ The [**International Organization for Standardization (ISO) / International Elec
 
 Implementing best practices in software development is essential for building secure and resilient applications. These practices help prevent vulnerabilities, reduce the attack surface, and ensure that security is integrated into every phase of the development lifecycle.
 
-### **1. Secure Coding Practices**
+### 1. Secure Coding Practices
 
 Adopting secure coding practices minimizes the introduction of vulnerabilities during the development process.
 
-#### **Key Practices:**
+#### Key Practices
 
 - **Input Validation:** Ensure that all inputs are validated and sanitized to prevent injection attacks. Use libraries and frameworks that provide built-in validation mechanisms.
 
@@ -166,7 +166,7 @@ Adopting secure coding practices minimizes the introduction of vulnerabilities d
 
 > **Secure Coding Practices** are fundamental for preventing common vulnerabilities and ensuring that applications are robust against attacks.
 
-### **2. Code Reviews and Static Analysis**
+### 2. Code Reviews and Static Analysis
 
 Regular code reviews and static analysis help identify and remediate security issues early in the development process.
 
@@ -253,11 +253,11 @@ You're right, it is a bit redundant! Here's the list with "Use Cases:" removed f
 *   **[Pin](https://software.intel.com/content/www/us/en/develop/articles/pin-a-dynamic-binary-instrumentation-tool.html):** A dynamic binary instrumentation framework.
     *   Security analysis, performance analysis, reverse engineering.
 
-### **4. Secure Development Lifecycle (SDLC) Integration**
+### 4. Secure Development Lifecycle (SDLC) Integration
 
 Integrating security into the **Software Development Lifecycle (SDLC)** ensures that security is considered at every stage of development, from planning to deployment and maintenance.
 
-#### **Phases of Secure SDLC:**
+#### Phases of Secure SDLC:
 
 - **Requirements:** Define security requirements alongside functional requirements. Ensure that security objectives are clear and measurable.
  
