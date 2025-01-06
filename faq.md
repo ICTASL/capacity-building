@@ -1,5 +1,5 @@
 ---
-layout: faq
+layout: resource
 title: "Digital Library FAQ"
 description: "Comprehensive Frequently Asked Questions about the Digital Library, covering registration, governance, health and safety, and communication."
 permalink: "/faq/"
