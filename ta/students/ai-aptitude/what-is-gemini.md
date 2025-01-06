@@ -5,6 +5,8 @@ description: "Google Gemini, அதன் அம்சங்கள் மற்�
 permalink: /ta/students/ai-aptitude/what-is-gemini/
 lang: "ta"
 ---
+* TOC
+{:toc}
 
 # Google Gemini என்றால் என்ன?
 

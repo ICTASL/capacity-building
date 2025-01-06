@@ -4,6 +4,8 @@ title: "AI Aptitude"
 description: "Explore the fundamentals of Artificial Intelligence, learn about Generative AI tools like ChatGPT, Google Gemini, and Bing Copilot, and master effective prompting techniques."
 permalink: /students/ai-aptitude/
 ---
+* TOC
+{:toc}
 
 # AI Aptitude
 

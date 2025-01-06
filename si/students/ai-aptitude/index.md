@@ -5,6 +5,8 @@ description: "කෘතිම බුද්ධියේ මූලික කරු
 permalink: /si/students/ai-aptitude/
 lang: "si"
 ---
+* TOC
+{:toc}
 
 # කෘතිම බුද්ධිය පිළිබඳ දක්ෂතාව
 

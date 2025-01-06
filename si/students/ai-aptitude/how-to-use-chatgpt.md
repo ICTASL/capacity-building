@@ -4,6 +4,8 @@ title: "How to Use ChatGPT"
 description: "Step-by-step guide on interacting with ChatGPT for various tasks."
 permalink: /students/ai-aptitude/how-to-use-chatgpt/
 ---
+* TOC
+{:toc}
 
 # How to Use ChatGPT
 

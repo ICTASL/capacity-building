@@ -4,6 +4,8 @@ title: "How to Use Google Gemini"
 description: "Guide on effectively utilizing Google Gemini for various educational and creative tasks."
 permalink: /students/ai-aptitude/how-to-use-gemini/
 ---
+* TOC
+{:toc}
 
 # How to Use Google Gemini
 

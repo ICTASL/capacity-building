@@ -5,6 +5,8 @@ description: "Explore various prompting techniques to maximize the effectiveness
 permalink: /ta/students/ai-aptitude/types-of-prompting/
 lang: "ta"
 ---
+* TOC
+{:toc}
 
 # Types of Prompting
 

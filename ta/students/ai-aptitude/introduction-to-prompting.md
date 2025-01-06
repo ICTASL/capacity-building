@@ -5,6 +5,8 @@ description: "ஜெனரேட்டிவ் AI மாதிரிகளு�
 permalink: /ta/students/ai-aptitude/introduction-to-prompting/
 lang: "ta"
 ---
+* TOC
+{:toc}
 
 # Prompting அறிமுகம்
 

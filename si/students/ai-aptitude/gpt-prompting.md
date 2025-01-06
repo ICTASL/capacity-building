@@ -4,6 +4,8 @@ title: "GPT Prompting and Generative AI Tools"
 description: "Learn about Generative AI tools like ChatGPT, Google Gemini, and Bing Copilot, how to use them, and master the art of prompting from basic to advanced levels."
 permalink: /students/ai-aptitude/gpt-prompting/
 ---
+* TOC
+{:toc}
 
 # GPT Prompting and Generative AI Tools
 

@@ -5,6 +5,8 @@ description: "செயற்கை நுண்ணறிவின் அடி�
 permalink: /ta/students/ai-aptitude/
 lang: "ta"
 ---
+* TOC
+{:toc}
 
 # AI திறன்
 
