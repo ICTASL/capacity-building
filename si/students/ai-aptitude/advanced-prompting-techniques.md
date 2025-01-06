@@ -4,6 +4,8 @@ title: "Advanced Prompting Techniques"
 description: "Explore sophisticated prompting strategies to fully leverage the capabilities of Generative AI tools."
 permalink: /students/ai-aptitude/advanced-prompting-techniques/
 ---
+* TOC
+{:toc}
 
 # Advanced Prompting Techniques
 

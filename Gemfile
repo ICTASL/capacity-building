@@ -6,6 +6,7 @@ source "http://rubygems.org"
 
 # gem "rails"
 gem 'github-pages'
+gem 'webrick'
 
 
 # gem "jekyll", "~> 4.3"

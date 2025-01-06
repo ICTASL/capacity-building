@@ -5,6 +5,9 @@ description: "Explore the ethical implications of using AI tools and learn respo
 permalink: /si/students/ai-aptitude/ethical-considerations-ai/
 lang: "si"
 ---
+* TOC
+{:toc}
+
 
 # Ethical Considerations in AI
 

@@ -5,6 +5,8 @@ description: "Insight into upcoming trends and the future impact of AI on societ
 permalink: /ta/students/ai-aptitude/future-of-ai/
 lang: "ta"
 ---
+* TOC
+{:toc}
 
 # Future of AI
 
