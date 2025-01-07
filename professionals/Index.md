@@ -38,3 +38,6 @@ lang: "en"
 ### Industry Experts
 - Domain experts
 
+### General Topics 
+- [Software Security - A comprehensive guide designed to educate professionals on securing software systems.](./software-security/)
+
