@@ -18,8 +18,11 @@ main:
   #       url: "/si/graduates/recent-graduates/"
   #     - title: "පශ්චාත් උපාධියන්"
   #       url: "/si/graduates/postgraduates/"
-  # - title: "වෘත්තීය පුරුදුකරු"
-  #   url: "/si/professionals/"
+  - title: "වෘත්තීය පුරුදුකරු"
+    url: "/si/professionals/"
+    children:
+      - title: "Software Security"
+        url: "/si/professionals/software-security/"
   #   children:
   #     - title: "IT වෘත්තීය පුරුදුකරු"
   #       url: "/si/professionals/it-professionals/"

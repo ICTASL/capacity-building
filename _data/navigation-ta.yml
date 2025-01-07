@@ -18,8 +18,11 @@ main:
   #       url: "/ta/graduates/recent-graduates/"
   #     - title: "போஸ்ட் பட்டதாரிகள்"
   #       url: "/ta/graduates/postgraduates/"
-  # - title: "விருப்பமுள்ளவர்கள்"
-  #   url: "/ta/professionals/"
+  - title: "விருப்பமுள்ளவர்கள்"
+    url: "/ta/professionals/"
+    children:
+      - title: "Software Security"
+        url: "/ta/professionals/software-security/"
   #   children:
   #     - title: "IT விருப்பமுள்ளவர்கள்"
   #       url: "/ta/professionals/it-professionals/"
