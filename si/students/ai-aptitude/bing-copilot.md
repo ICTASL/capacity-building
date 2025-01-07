@@ -5,6 +5,9 @@ description : "Bing Copilot සඳහා හැඳින්වීමක්, එ�
 permalink: /si/students/ai-aptitude/bing-copilot/
 lang: "si"
 ---
+* TOC
+{:toc}
+
 
 # Bing Copilot යනු කුමක්ද?
 

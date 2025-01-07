@@ -5,6 +5,8 @@ description : "பிங் கோபிலட்டின் அறிமுக
 permalink: /ta/students/ai-aptitude/bing-copilot/
 lang: "ta"
 ---
+* TOC
+{:toc}
 
 # Bing Copilot என்றால் என்ன?
 

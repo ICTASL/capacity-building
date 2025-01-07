@@ -4,6 +4,8 @@ title: "How to Use Bing Copilot"
 description: "Guide on effectively utilizing Bing Copilot for various productivity and research tasks."
 permalink: /students/ai-aptitude/how-to-use-bing-copilot/
 ---
+* TOC
+{:toc}
 
 # How to Use Bing Copilot
 

@@ -5,6 +5,8 @@ description: "Explore various real-world applications of AI and how they benefit
 permalink: /ta/students/ai-aptitude/ai-use-cases/
 lang: "ta"
 ---
+* TOC
+{:toc}
 
 # AI Use Cases
 

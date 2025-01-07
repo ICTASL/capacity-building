@@ -5,6 +5,8 @@ description: "Learn how to effectively use AI chatbots like ChatGPT, Google Gemi
 permalink: /si/students/ai-aptitude/guide-to-prompting-for-learning/
 lang: "si"
 ---
+* TOC
+{:toc}
 
 # Our Guide to Prompting for Learning
 

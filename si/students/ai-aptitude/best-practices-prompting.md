@@ -5,6 +5,8 @@ description: "Comprehensive guide on effective prompting strategies to maximize 
 permalink: /si/students/ai-aptitude/best-practices-prompting/
 lang: "si"
 ---
+* TOC
+{:toc}
 
 # Best Practices for Prompting
 

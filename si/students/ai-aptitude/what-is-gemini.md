@@ -5,7 +5,8 @@ description: "Google Gemini, එහි විශේෂාංග සහ අනෙ
 permalink: /si/students/ai-aptitude/what-is-gemini/
 lang: "si"
 ---
-
+* TOC
+{:toc}
 # Google Gemini යනු කුමක්ද?
 
 ## හැඳින්වීම

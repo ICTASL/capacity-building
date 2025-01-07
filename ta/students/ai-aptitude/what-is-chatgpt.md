@@ -5,6 +5,8 @@ description: "ChatGPT, அதன் நோக்கம் மற்றும் 
 permalink: /ta/students/ai-aptitude/what-is-chatgpt/
 lang: "ta"
 ---
+* TOC
+{:toc}
 
 # ChatGPT என்றால் என்ன?
 

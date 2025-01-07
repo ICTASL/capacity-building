@@ -5,6 +5,8 @@ description: "சாட்ஜிபிடி, கூகுள் ஜெமின
 permalink: /ta/students/ai-aptitude/other-generative-ai-tools/
 lang : "ta"
 ---
+* TOC
+{:toc}
 
 # பிற உருவாக்கும் AI கருவிகள்
 
