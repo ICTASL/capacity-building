@@ -5,6 +5,8 @@ description: "ජනන AI ආකෘති සමඟ අන්තර් ක්�
 permalink: /si/students/ai-aptitude/introduction-to-prompting/
 lang: "si"
 ---
+* TOC
+{:toc}
 
 # විමසීමට හැඳින්වීම
 

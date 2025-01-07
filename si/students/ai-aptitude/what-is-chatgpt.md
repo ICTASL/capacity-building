@@ -6,6 +6,8 @@ permalink: /si/students/ai-aptitude/what-is-chatgpt/
 lang: "si"
 ---
 
+* TOC
+{:toc}
 # ChatGPT යනු කුමක්ද?
 
 ## හැඳින්වීම
