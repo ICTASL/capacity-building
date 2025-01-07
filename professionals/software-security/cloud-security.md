@@ -95,28 +95,21 @@ Cloud SIEM solutions collect, analyze, and correlate security logs from cloud en
 
 ## Conclusion
 
-Cloud security is a shared responsibility that requires a comprehensive approach. By understanding the shared responsibility model, implementing security best practices, and utilizing cloud security tools, organizations can effectively secure their cloud environments and protect their valuable assets.
+Cloud security is a shared responsibility that requires a comprehensive approach. By understanding the shared responsibility model, implementing security best practices, and utilizing cloud security tools, organizations can effectively secure their cloud environments 
+and protect their valuable assets.
 
 
 ## Further Reading
 
 **Shared Responsibility Model:**
 
-- [AWS Shared Responsibility Model](https://aws.amazon.com/compliance/shared-responsibility-model/)
-- [Google Cloud Shared Responsibility Model](https://cloud.google.com/security/shared-fate/)
-- [Azure Shared Responsibility Model](https://azure.microsoft.com/en-us/resources/shared-responsibility-for-cloud-computing/)
-- [Understanding the Shared Responsibility Model in Cloud Security](https://www.csoonline.com/article/3237771/understanding-the-shared-responsibility-model-in-cloud-security.html)
-
-
-**Securing Cloud Infrastructure:**
-
-- [Cloud Security Alliance (CSA) Guidance](https://cloudsecurityalliance.org/guidance/)
-- [NIST Cloud Computing Security](https://csrc.nist.gov/publications/detail/sp/800-145/final)
-- [Center for Internet Security (CIS) Benchmarks](https://www.cisecurity.org/cis-benchmarks/)
-- [Securing Cloud Infrastructure: Best Practices](https://www.trendmicro.com/en_us/business/products/hybrid-cloud-security/cloud-one-workload-security.html)
-- [Gartner Magic Quadrant for Cloud Access Security Brokers (CASB)](https://www.gartner.com/en/documents/3989723/magic-quadrant-for-cloud-access-security-brokers)
-- [Forrester Wave for Cloud Workload Security](https://www.forrester.com/report/The+Forrester+Wave+Cloud+Workload+Security+Q4+2020/-/E-RES162624)
-- [Top Cloud Security Tools](https://www.esecurityplanet.com/network-security/top-cloud-security-tools/)
+- [What is cloud security?](https://www.ibm.com/think/topics/cloud-security)
+- [CSP Responsibilities](https://www.hsestudyguide.com/certified-safety-professional-csp/#google_vignette)
+- [While the CSP secures the underlying infrastructure, customers are responsible for securing their own data and applications in the cloud. This includes:](https://www.csoonline.com/article/570779/the-shared-responsibility-model-explained-and-what-it-means-for-cloud-security.html#:~:text=The%20CSP%20is%20responsible%20for%20security%20%E2%80%9Cof%E2%80%9D%20the,dentity%20and%20access%20management%2C%20application%20configurations%2C%20and%20data.)
+- [Cloud Infrastructure Security: Securing the 7 Key Components](https://www.aquasec.com/cloud-native-academy/cspm/cloud-infrastructure-security/)
+- [22 Best Cloud Security Tools Reviewed For 2025](https://thectoclub.com/tools/best-cloud-security-tools/)
+- [SIEM: Security Information & Event Management Explained](https://www.splunk.com/en_us/blog/learn/siem-security-information-event-management.html)
+- [Guide to Cloud Security Posture Management (CSPM)](https://www.crowdstrike.com/en-us/cybersecurity-101/cloud-security/cloud-security-posture-management-cspm/)
 
 
 ## GPT Prompts 
