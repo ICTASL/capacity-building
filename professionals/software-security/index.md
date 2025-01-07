@@ -28,14 +28,8 @@ Welcome to the **Software Security Series**, a comprehensive guide designed to e
 13. [Compliance and Legal Considerations](compliance-and-legal-considerations/)
 14. [Secure Retirement and Decommissioning](secure-retirement-and-decommissioning/)
 15. [Emerging Trends in Software Security](emerging-trends-in-software-security/)
-16. [Best Practices and Continuous Improvement](best-practices-and-continuous-improvement/)
-17. [Interactive Stories](interactive-stories/)
-18. [Visual Aids](visual-aids/)
-19. [Real-Life Examples](real-life-examples/)
-20. [Quizzes and Assessments](quizzes-and-assessments/)
-21. [Resource Links](resource-links/)
-22. [Parental Guidance](parental-guidance/)
 23. [Security Standards and Frameworks](security-standards-and-frameworks/)
 24. [Security Tools](security-tools/)
+25. [Glossary of Cyber Security Terms](./glossary-of-terms)
 
 ---
