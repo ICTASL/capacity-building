@@ -96,16 +96,12 @@ Mobile app security is a critical concern in today's mobile-first world. By unde
 
 ## Further Reading
 
-- [OWASP Mobile Security Project](https://owasp.org/www-project-mobile-security/)
-- [Secure Mobile App Development Guidelines](https://developer.android.com/security/best-practices)
-- [Mobile Security Testing Guide](https://www.owasp.org/index.php/Mobile_Security_Testing_Guide)
-- [The Mobile Application Hacker's Handbook](https://www.nostarch.com/mobilehackers)
-- [iOS App Security: The Definitive Guide for Hackers and Developers](https://www.nostarch.com/iossecurity)
-- [Mobile Device Management (MDM) Overview](https://www.vmware.com/products/workspace-one.html)
-- [Microsoft Intune](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-intune)
-- [Citrix Endpoint Management](https://www.citrix.com/products/endpoint-management/)
-- [MobileIron](https://www.ivanti.com/products/mobileiron-unified-endpoint-management)
-- [Gartner Magic Quadrant for Unified Endpoint Management](https://www.gartner.com/en/documents/3989663/magic-quadrant-for-unified-endpoint-management-tools)
+- [What is Mobile Application Security?](https://www.geeksforgeeks.org/what-is-mobile-application-security/)
+-  [Understanding OWASP Top 10 Mobile: Insecure Data Storage](https://www.appknox.com/blogunderstanding-owasp-top-10-mobile-insecure-data-storage)
+- [M5: Poor Authorization and Authentication](https://owasp.org/www-project-mobile-top-10/2014-risksm5-poor-authorization-and-authentication)
+- [Mobile App Tampering and Reverse Engineering](https://chatgpt.com/c/677cd65c-d804-8004-9acb-ca6b5f13e4f7)
+- [Cybersecurity Best Practices for Mobile Apps Development](https://www.technource.com/blog/cybersecurity-best-practices-for-mobile-apps-development/)
+- [Mobile Device Management (MDM)](https://www.fortinet.com/resources/cyberglossary/mobile-device-management)
 
 ## GPT Prompts 
 
