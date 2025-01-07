@@ -5,6 +5,8 @@ description: "ChatGPT, Google Gemini සහ Bing Copilot හැර වෙනත�
 permalink: /si/students/ai-aptitude/other-generative-ai-tools/
 lang: "si"
 ---
+* TOC
+{:toc}
 
 # වෙනත් ජනන AI මෙවලම්
 
