@@ -22,7 +22,9 @@ main:
   #       url: "/graduates/postgraduates/"
   - title: "Professionals"
     url: "/professionals/"
-  #   children:
+    children:
+      - title: "Software Security"
+        url: "/professionals/software-security/"
   #     - title: "IT Professionals"
   #       url: "/professionals/it-professionals/"
   #     - title: "Mid-Level Managers"
