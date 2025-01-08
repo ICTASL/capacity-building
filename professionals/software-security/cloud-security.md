@@ -8,7 +8,11 @@ lang: "en"
 
 ----
 >"Cloud security is not just about securing data; it's about building a trust model across people, processes, and technology to safeguard your organization in the cloud." — Tony Sager
+
 ----
+
+
+
 
 * TOC
 {:toc}

@@ -7,7 +7,10 @@ lang: "en"
 ---
 ----
 >"The end of a software system's lifecycle is as critical as its beginning—secure retirement ensures that past data doesn’t become future vulnerabilities." — Bruce Schneier
+
 ----
+
+
 
 * TOC
 {:toc}

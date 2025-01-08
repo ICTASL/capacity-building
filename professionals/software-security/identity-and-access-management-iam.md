@@ -9,7 +9,9 @@ lang: "en"
 
 ----
 > Identity is the new perimeter. It's no longer about building firewalls around your infrastructure; it's about building trust around your users. — Marc Benioff
+
 ----
+
 
 * TOC
 {:toc}
@@ -27,6 +29,44 @@ The core components of IAM include:
 * **Access Control:** Enforcing authorization decisions by granting or denying access to resources.
 
 By effectively implementing IAM, organizations can improve security, reduce risk, enhance productivity, and meet compliance requirements.
+
+
+## User Management
+
+Effective user management is a cornerstone of IAM. It involves the creation, management, and deletion of user accounts and their associated permissions. A well-defined user management system ensures that only authorized individuals have access to specific resources and that their access rights are aligned with their roles and responsibilities.
+
+### Users
+
+A user represents an individual or entity that needs access to a system or application. Each user has a unique identity within the IAM system, which is used for authentication and authorization purposes. User accounts typically store information such as:
+
+* **Username:** A unique identifier for the user.
+* **Password:** Used for authentication.
+* **Full Name:** The user's real name.
+* **Email Address:** Used for communication and password recovery.
+* **Contact Information:**  Phone number, address, etc.
+* **Group Membership:**  The groups the user belongs to.
+* **Role Assignments:** The roles assigned to the user.
+
+### Roles
+
+Roles represent a collection of permissions that are granted to users based on their job functions or responsibilities. Instead of assigning permissions directly to individual users, roles provide a more efficient and manageable way to control access. For example, a "Sales Manager" role might have permissions to access sales data, generate reports, and approve discounts, while a "Customer Support Representative" role might have permissions to view customer information and update support tickets.
+
+### Groups
+
+Groups are used to organize users with similar access requirements. By assigning users to groups, administrators can easily manage permissions and apply access controls to multiple users at once. For example, all employees in the marketing department might be assigned to a "Marketing Group," which has access to marketing-related resources.
+
+## User Stores
+
+User stores are centralized repositories that hold user identity data, including usernames, passwords, and other attributes. They provide a single source of truth for user information and are used by IAM systems for authentication and authorization purposes. 
+
+### LDAP (Lightweight Directory Access Protocol)
+
+LDAP is a widely used open standard protocol for accessing and maintaining directory information services. LDAP directories store user information in a hierarchical structure, making it easy to organize and manage large numbers of users. LDAP is often used in enterprise environments for centralizing user authentication and authorization.
+
+### Active Directory
+
+Active Directory is a Microsoft directory service that provides authentication and authorization services for Windows domain networks. It stores user accounts, computer accounts, and other directory information. Active Directory is commonly used in corporate environments to manage user access to network resources.
+
 
 ## Authentication Methods
 
@@ -122,7 +162,9 @@ Identity and Access Management (IAM) is a critical foundation for any organizati
 
 
 ## Further Reading
-
+- [Identity and Access Management](https://www.geeksforgeeks.org/identity-and-access-management/)
+- [IAM users](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users.html)
+- [Components of Identity and Access Management (IAM)](https://www.identity.com/components-of-identity-and-access-management-iam/)
 - [Types of Digital Authentication](https://www.geeksforgeeks.org/types-of-digital-authentication/)
 - [Access Control: Models and Methods](https://delinea.com/blog/access-control-models-methods)
 - [Introduction of Single Sign On (SSO)](https://www.geeksforgeeks.org/introduction-of-single-sign-on-sso/)
