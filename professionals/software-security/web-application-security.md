@@ -8,7 +8,11 @@ lang: "en"
 
 ----
 > “ Web application security is not a one-time task; it’s an ongoing process that demands continuous attention, evolution, and resilience.” — Brian Honan
+
 ----
+
+
+
 
 * TOC
 {:toc}

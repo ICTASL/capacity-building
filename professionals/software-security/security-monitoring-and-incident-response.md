@@ -8,7 +8,11 @@ lang: "en"
 
 ----
 > “The best defense against cyber threats is a well-prepared and well-practiced response plan, backed by real-time security monitoring that can detect, analyze, and mitigate attacks before they cause significant damage.” — Kevin Mitnick
+
 ----
+
+
+
 
 * TOC
 {:toc}

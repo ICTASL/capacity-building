@@ -9,7 +9,10 @@ lang: "en"
 
 ----
 >"The human element is the weakest link in cybersecurity. Education and awareness transform users from vulnerabilities into the first line of defense." — Kevin Mitnick
+
 ----
+
+
 
 * TOC
 {:toc}
