@@ -5,7 +5,16 @@ description: "Policies, frameworks, and best practices for effective digital gov
 personas: ["Government Officials"]
 tags: ["digital governance", "public policy", "government services"]
 permalink: /government-officials/digital-governance/
+lang: "en"
 ---
+
+---
+> "Share your knowledge. It's a way to achieve immortality." - Dalai Lama
+
+---
+  
+* TOC
+{:toc}
 
 # Digital Governance
 

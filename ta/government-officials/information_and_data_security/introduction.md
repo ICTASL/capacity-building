@@ -4,8 +4,8 @@ title: "Introduction to Information and Data Security"
 description: "Sets the context and highlights the importance of information and data security in government operations."
 personas: ["Government Officials"]
 tags: [introduction, information security, government]
-permalink: /government-officials/information_and_data_security/introduction/
-lang: "en"
+permalink: /ta/government-officials/information_and_data_security/introduction/
+lang: "ta"
 ---
 
 > "Share your knowledge. It's a way to achieve immortality." - Dalai Lama
