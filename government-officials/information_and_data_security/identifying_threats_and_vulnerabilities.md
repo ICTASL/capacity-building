@@ -81,7 +81,7 @@ By regularly conducting vulnerability assessments, government agencies can proac
 
 **Scenario 1:** You receive an email from your "boss" asking you to urgently transfer a large sum of money to a specific account. 
 
-**Scenario 2:** You notice a USB drive on your desk with a tempting label, such as "Bonus Money."
+**Scenario 2:** You notice a USB drive on your desk with a tempting label, such as "Bo3enus Money."
 
 **Scenario 3:** You receive a phone call from someone claiming to be from the IT department, asking for your password to "troubleshoot a system issue."
 
@@ -97,6 +97,16 @@ By regularly conducting vulnerability assessments, government agencies can proac
 ### Conclusion
 
 By understanding the evolving threat landscape and implementing effective security measures, government agencies can significantly reduce their risk of cyberattacks. Vigilance, education, and a strong security culture are essential to protecting sensitive information and maintaining public trust.
+
+## Further Learning
+
+- [The rapidly evolving threat landscape of 2024](https://cybermagazine.com/articles/the-rapidly-evolving-threat-landscape-of-2024)
+- [What is Ransomware?](https://www.checkpoint.com/cyber-hub/threat-prevention/ransomware/)
+- [How Data Breaches Happen & How to Prevent Data Leaks](How Data Breaches Happen & How to Prevent Data Leaks)
+- [What Is Unauthorized Access? Top 8 Practices for Detecting and Responding to It]( https://www.syteca.com/en/blog/detecting-and-responding-to-unauthorized-access)
+- [What is Baiting in Cyber Security?](https://www.terranovasecurity.com/blog/what-is-baiting)
+- [What is Vulnerability Scanning?](https://www.balbix.com/insights/what-is-vulnerability-scanning/)
+
 
 ## Further Learning
 
