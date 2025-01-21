@@ -48,9 +48,11 @@ main:
   #       url: "/si/freelancers-gig-workers/gig-economy-tools/"
   #     - title: "පෝර්ට්ෆෝලියෝ ඉදිරිපත් කිරීම"
   #       url: "/si/freelancers-gig-workers/portfolio-building/"
-  # - title: "රජයේ නිලධාරීන්"
-  #   url: "/si/government-officials/"
-  #   children:
+  - title: "රජයේ නිලධාරීන්"
+    url: "/si/government-officials/"
+    children:
+      - title: "Information and Data Security"
+        url: "/si/government-officials/information_and_data_security/"
   #     - title: "ඩිජිටල් රජය"
   #       url: "/si/government-officials/digital-governance/"
   #     - title: "රජයේ සේවාවල GenAI"

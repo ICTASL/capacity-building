@@ -4,11 +4,12 @@ title: "Information and Data Security - Overview"
 description: "Overview of topics in Information and Data Security for Government Officials."
 personas: ["Government Officials"]
 tags: [information security, data security, government, capacity building]
-permalink: /government-officials/information_and_data_security/index/
+permalink: /government-officials/information_and_data_security/
 lang: "en"
 ---
 
 > "Share your knowledge. It's a way to achieve immortality." - Dalai Lama
+
 --- 
 * TOC
 {:toc}
@@ -23,4 +24,5 @@ Welcome to the Information and Data Security section for Government Officials. T
 - [Best Practices for Information Security](./best_practices_info_security/) - Shares actionable best practices for securing systems and data.
 - [Privacy and Data Protection](./privacy_and_data_protection/) - Discusses the importance of privacy, legal frameworks, and ethical data handling.
 - [Additional Topics](./additional_topics/) - Covers supplementary subjects such as social media responsibility, mobile security, and software licensing.
+
 ----

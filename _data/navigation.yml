@@ -49,9 +49,11 @@ main:
   #       url: "/freelancers-gig-workers/gig-economy-tools/"
   #     - title: "Portfolio Building"
   #       url: "/freelancers-gig-workers/portfolio-building/"
-  # - title: "Government Officials"
-  #   url: "/government-officials/"
-  #   children:
+  - title: "Government Officials"
+    url: "/government-officials/"
+    children:
+       - title: "Information and Data Security"
+         url: "/government-officials/information_and_data_security/"
   #     - title: "Digital Governance"
   #       url: "/government-officials/digital-governance/"
   #     - title: "GenAI in Government Services"

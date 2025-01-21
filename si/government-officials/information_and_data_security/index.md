@@ -4,7 +4,7 @@ title: "Information and Data Security - Overview"
 description: "Overview of topics in Information and Data Security for Government Officials."
 personas: ["Government Officials"]
 tags: [information security, data security, government, capacity building]
-permalink: /si/government-officials/information_and_data_security/index/
+permalink: /si/government-officials/information_and_data_security/
 lang: "si"
 ---
 
