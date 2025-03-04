@@ -11,4 +11,4 @@ Welcome to the workshops section of the Digital Library. Here, you can find reso
 - [AI Aptitude](../students/ai-aptitude/)
    - [AI Aptitude Workshop Slides](../assets/workshop_materials/AI_Aptitude_V_1.2.0.pdf)
 - [Freelancing for Undergraduaates](../freelancers-gig-workers/tech-undergrads/)
-   - [Freelancing for Undergraduaates Workshop Slides](.,/assets/workshop_materials/Empowering_Your_Freelance_Journey_V_1.1.0.pdf)
+   - [Freelancing for Undergraduaates Workshop Slides](../assets/workshop_materials/Empowering_Your_Freelance_Journey_V_1.1.0.pdf)
