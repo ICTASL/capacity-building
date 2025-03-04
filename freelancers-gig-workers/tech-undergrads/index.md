@@ -38,6 +38,8 @@ Let's begin your empowering freelance journey\! Use the outline below to navigat
 
   * [1.1 Welcome to the Freelance World](./1-1-welcome-freelance-world/)
   * [1.2 The Freelancing Learning Path](./1-2-freelancing-learning-path/)
+  * [1.3 Areas of freelance](./1-3-areas-of-freelance/)
+  * [1.4 freelance smb digital services](./1-4-freelance-smb-digital-services/)
 
 ## 2. Beginner Level: Taking Your First Steps into Freelancing
 
@@ -62,6 +64,10 @@ Let's begin your empowering freelance journey\! Use the outline below to navigat
   * [4.2 Advanced Client Acquisition and Retention Strategies](./4-2-advanced-client-acquisition/)
   * [4.3 Scaling Up: From Solo Freelancer to Agency (Future Growth Path)](./4-3-scaling-solo-to-agency/)
   * [4.4 Leveraging Technology and Future Trends in Freelancing](./4-4-leveraging-technology-trends/)
+  * [4.5 Genai Threats and-solutions](./4-5-genai-threats-and-solutions/)
+
+
+  
 
 ## 5. Conclusion and Next Steps: Your Freelance Journey Continues
 
