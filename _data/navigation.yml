@@ -40,11 +40,13 @@ main:
   #       url: "/entrepreneurs-startups/startup-growth-strategies/"
   #     - title: "Funding & Investment"
   #       url: "/entrepreneurs-startups/funding-and-investment/"
-  # - title: "Freelancers & Gig Workers"
-  #   url: "/freelancers-gig-workers/"
-  #   children:
-  #     - title: "Freelancing Tips"
-  #       url: "/freelancers-gig-workers/freelancing-tips/"
+  - title: "Freelancers & Gig Workers"
+    url: "/freelancers-gig-workers/"
+    children:
+      - title: "Freelancing for Tech Graduates"
+        url: "/freelancers-gig-workers/tech-undergrads/"
+      # - title: "Freelancing Tips"
+      #   url: "/freelancers-gig-workers/freelancing-tips/"
   #     - title: "Gig Economy Tools"
   #       url: "/freelancers-gig-workers/gig-economy-tools/"
   #     - title: "Portfolio Building"
