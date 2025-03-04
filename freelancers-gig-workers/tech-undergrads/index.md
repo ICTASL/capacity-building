@@ -39,7 +39,7 @@ Let's begin your empowering freelance journey\! Use the outline below to navigat
   * [1.1 Welcome to the Freelance World](./1-1-welcome-freelance-world/)
   * [1.2 The Freelancing Learning Path](./1-2-freelancing-learning-path/)
   * [1.3 Areas of freelance](./1-3-areas-of-freelance/)
-  * [1.4 Freelancing and AMB digital services](./1-4-freelance-smb-digital-services/)
+  * [1.4 Freelancing and SMB digital services](./1-4-freelance-smb-digital-services/)
 
 ## 2. Beginner Level: Taking Your First Steps into Freelancing
 
