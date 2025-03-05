@@ -79,32 +79,32 @@ Books on essential business skills: sales, negotiation, productivity, finance. E
 
 Links to *best* blogs for freelance, marketing, tech news. Examples:
 
-  * **Freelancers Union Blog:** (www.freelancersunion.org/blog)  US-based but excellent for general freelance advice, news, and advocacy.
-  * **Contently Blog:** ([contently.com/strategist/](https://www.google.com/url?sa=E&source=gmail&q=https://contently.com/strategist/)) Focuses on content marketing and freelance writing, but with broader insights for digital freelancers.
-  * **Neil Patel's Blog:** ([neilpatel.com/blog](https://www.google.com/url?sa=E&source=gmail&q=https://neilpatel.com/blog)) Top digital marketing blog covering SEO, content marketing, social media, and online business growth.
-  * **TechCrunch:** (techcrunch.com) Stay updated on the latest tech industry news, trends, and innovations that might impact your freelance skills.
+  * **Freelancers Union Blog:** ([freelancers Union Blog](https://freelancersunion.org/blog/))  US-based but excellent for general freelance advice, news, and advocacy.
+  * **Contently Blog:** ([The Content Strategist](https://contently.com/strategist/)) Focuses on content marketing and freelance writing, but with broader insights for digital freelancers.
+  * **Neil Patel's Blog:** ([Be a Freelance Blogger](https://neilpatel.com/blog)) Top digital marketing blog covering SEO, content marketing, social media, and online business growth.
+  * **TechCrunch:** ([Techcrunch](https://techcrunch.com/)) Stay updated on the latest tech industry news, trends, and innovations that might impact your freelance skills.
 
 #### Best Freelancing Advice Websites:  Guides & How-Tos.
 
 Links to websites with *practical freelance guides*. Examples:
 
-  * **The Freelancer Website (Freelancers Union):** ([www.freelancer.com](https://www.google.com/url?sa=E&source=gmail&q=https://www.freelancer.com)) (Note: Be careful, this is *not* freelancersunion.org - I might have confused the name before. Freelancer.com is a platform - but they *might* have resource section - *verify this or replace with a genuinely good 'advice website' if 'The Freelancer Website' isn't accurate*).  *If inaccurate, replace with e.g.,  "Bonsai Blog" (bonsai.io/blog) - known for good freelance guides*
-  * **Upwork Blog - Resources for Freelancers:** ([www.upwork.com/resources/](https://www.google.com/url?sa=E&source=gmail&q=https://www.upwork.com/resources/))  Even if you don't use Upwork exclusively, their blog has solid articles on various freelance topics.
+  * **The Freelancer Website (Freelancers Union):** ([freelancer Official Website](https://www.freelancer.com/)) (Note: Be careful, this is *not* freelancersunion.org - I might have confused the name before. Freelancer.com is a platform - but they *might* have resource section - *verify this or replace with a genuinely good 'advice website' if 'The Freelancer Website' isn't accurate*).  *If inaccurate, replace with e.g.,  "Bonsai Blog" ([Bonsai Blog](https://bonsai.io/blog)) - known for good freelance guides*
+  * **Upwork Blog - Resources for Freelancers:** ([Upwork Resource Center](https://www.upwork.com/resources/))  Even if you don't use Upwork exclusively, their blog has solid articles on various freelance topics.
 
 #### Online Freelancer Communities:  Connect & Learn From Peers.
 
 Links to *active online communities*. Examples:
 
-  * **Reddit - r/freelance:** ([www.reddit.com/r/freelance](https://www.google.com/url?sa=E&source=gmail&q=https://www.reddit.com/r/freelance))  Large and active subreddit for freelancers to discuss challenges, wins, and get advice (be mindful of Reddit's nature - filter advice critically).
+  * **Reddit - r/freelance:** ([Reddit-Resource Center](https://www.reddit.com/r/freelance/))  Large and active subreddit for freelancers to discuss challenges, wins, and get advice (be mindful of Reddit's nature - filter advice critically).
   * **LinkedIn Groups:** Search within LinkedIn for "[Your Skill] Freelancers Sri Lanka" or "[Your Tech Skill] Professionals" groups. Example: "Sri Lanka Web Developers Community" ( *Need to research if genuinely active Sri Lanka focused groups exist on LinkedIn - if not, adjust to general relevant groups e.g., "Digital Marketing Professionals Global"*) -  LinkedIn is good for professional networking, try to find Sri Lanka specific or very relevant skill-based groups.
 
 #### Podcast Picks (Bonus):  Learn on the Go.
 
 (Optional) *Top podcasts* for freelance/business. Examples:
 
-  * **The Freelance Business School Podcast:** ([freelancebusinessschool.com](https://www.google.com/search?q=freelancebusinessschool.com))  Practical advice on running a freelance business, client acquisition, and growth.
+  * **The Freelance Business School Podcast:** ([freelance business school](https://www.google.com/search?q=freelancebusinessschool.com/))  Practical advice on running a freelance business, client acquisition, and growth.
   * **Being Boss Podcast:** (beingboss.club)  For creative entrepreneurs and freelancers, focusing on mindset, business strategy, and work-life balance.
-  * **Marketing Over Coffee:** ([www.marketingovercoffee.com](https://www.google.com/url?sa=E&source=gmail&q=https://www.marketingovercoffee.com))  Stay updated on digital marketing trends and tips in an easily digestible podcast format.
+  * **Marketing Over Coffee:** ([marketing over coffee](https://www.marketingovercoffee.com/))  Stay updated on digital marketing trends and tips in an easily digestible podcast format.
 
 **How to Use Online Resources:  Your Action Plan:**
 
