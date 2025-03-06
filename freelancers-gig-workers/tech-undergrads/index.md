@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: "Freelacing for Technology Undergraduates"
+title: "Freelancing for Technology Undergraduates"
 description: "Resources for Freelancing for undergraduaates to earn some extra money while in the uunivercity."
 permalink: /freelancers-gig-workers/tech-undergrads/
 ---
