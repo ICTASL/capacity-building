@@ -12,7 +12,7 @@ set titles[1]=1. Front-end Design and Development
 set descriptions[1]=Introduction to Front-end Design and Development
 
 set filenames[2]=1-1-learning-objectives-frontend
-set titles[2]=1.1. Learning Objectives
+
 set descriptions[2]=Learning Objectives for Front-end Design and Development
 
 set filenames[3]=1-2-beginner-level-frontend
@@ -64,7 +64,7 @@ set titles[14]=2. Back-end Design and Development
 set descriptions[14]=Introduction to Back-end Design and Development
 
 set filenames[15]=2-1-learning-objectives-backend
-set titles[15]=2.1. Learning Objectives
+
 set descriptions[15]=Learning Objectives for Back-end Design and Development
 
 set filenames[16]=2-2-beginner-level-backend
@@ -132,7 +132,7 @@ set titles[31]=3. Database Technologies
 set descriptions[31]=Introduction to Database Technologies
 
 set filenames[32]=3-1-learning-objectives-database
-set titles[32]=3.1. Learning Objectives
+
 set descriptions[32]=Learning Objectives for Database Technologies
 
 set filenames[33]=3-2-beginner-level-database
@@ -176,7 +176,6 @@ set titles[42]=4. DevOps and Operations
 set descriptions[42]=Introduction to DevOps and Operations
 
 set filenames[43]=4-1-learning-objectives-devops
-set titles[43]=4.1. Learning Objectives
 set descriptions[43]=Learning Objectives for DevOps and Operations
 
 set filenames[44]=4-2-beginner-level-devops
@@ -240,7 +239,6 @@ set titles[58]=5.1. Capstone Projects & Real-World Case Studies
 set descriptions[58]=Capstone Projects & Real-World Case Studies for Supplemental Components
 
 set filenames[59]=5-2-assessments-smart-learning-objectives
-set titles[59]=5.2. Assessments & SMART Learning Objectives
 set descriptions[59]=Assessments & SMART Learning Objectives for Supplemental Components
 
 set filenames[60]=5-3-soft-skills-workshops

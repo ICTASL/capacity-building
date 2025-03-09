@@ -45,7 +45,6 @@ Let's embark on this exciting journey to become a proficient Full Stack, Cloud N
 ## 1. Front-end Design and Development
 
 * [1. Introduction to Front-end Design and Development](./1-front-end-design-development/)
-    * [1.1. Learning Objectives](./1-1-learning-objectives-frontend/)
     * [1.2. Beginner Level](./1-2-beginner-level-frontend/)
         * [1.2.1 Fundamentals of Web Technologies](./1-2-1-fundamentals-web-technologies/)
         * [1.2.2 Basic UI/UX Principles](./1-2-2-basic-ui-ux-principles/)
@@ -61,7 +60,6 @@ Let's embark on this exciting journey to become a proficient Full Stack, Cloud N
 ## 2. Back-end Design and Development
 
 * [2. Introduction to Back-end Design and Development](./2-back-end-design-development/)
-    * [2.1. Learning Objectives](./2-1-learning-objectives-backend/)
     * [2.2. Beginner Level](./2-2-beginner-level-backend/)
         * [2.2.1. Fundamentals of Web Servers and APIs](./2-2-1-fundamentals-web-servers-apis/)
         * [2.2.2. Security Focus: Basic API authentication and safe coding practices](./2-2-2-security-focus-basic-api-auth-safe-coding/)
@@ -81,7 +79,6 @@ Let's embark on this exciting journey to become a proficient Full Stack, Cloud N
 ## 3. Database Technologies
 
 * [3. Introduction to Database Technologies](./3-database-technologies/)
-    * [3.1. Learning Objectives](./3-1-learning-objectives-database/)
     * [3.2. Beginner Level](./3-2-beginner-level-database/)
         * [3.2.1. Introduction to Databases](./3-2-1-introduction-databases/)
         * [3.2.2. Data Modeling & Normalization](./3-2-2-data-modeling-normalization/)
@@ -95,7 +92,6 @@ Let's embark on this exciting journey to become a proficient Full Stack, Cloud N
 ## 4. DevOps and Operations
 
 * [4. Introduction to DevOps and Operations](./4-devops-and-operations/)
-    * [4.1. Learning Objectives](./4-1-learning-objectives-devops/)
     * [4.2. Beginner Level](./4-2-beginner-level-devops/)
         * [4.2.1. Version Control & System Administration](./4-2-1-version-control-system-admin/)
         * [4.2.2. Introduction to CI/CD](./4-2-2-introduction-cicd/)
