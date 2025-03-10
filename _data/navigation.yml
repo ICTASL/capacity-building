@@ -118,6 +118,12 @@ main:
   #       url: "/collections/employability-readiness-assessment/"
   #     - title: "Certification & Verification"
   #       url: "/collections/certification-verification-model/"
+  - title: "Full stack Development"
+    url: "/professionals/full_stack_development/digital-innovators/"
+    children:
+      - title: "Digital Innovators"
+        url: "/professionals/full_stack_development/digital-innovators/"
+
   # - title: "About"
   #   url: "/pages/about/"
   # - title: "Contact"
