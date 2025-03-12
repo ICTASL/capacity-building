@@ -2,7 +2,7 @@
 layout: resource
 title: "Basic Freelance Management for Beginners"
 description: "Essential Management Skills for New Freelancers."
-permalink: /freelancers-gig-workers/tech-undergrads/freelancers-gig-workers/tech-undergrads/2-4-basic-freelance-management.md/
+permalink: /freelancers-gig-workers/tech-undergrads/2-4-basic-freelance-management/
 lang: en
 ---
 
@@ -195,3 +195,32 @@ This subsection addresses essential communication and interpersonal skills neces
 * **Establish Client Communication Essentials:** Teach core professional communication etiquette, emphasizing expectation clarification, promise fulfillment, and professional feedback management.
 * **Introduce Ethical Freelancing Principles:** Incorporate fundamental ethical guidelines focused on honesty and integrity in client interactions.
 * **Address Sri Lanka Specific Payment Needs:** Provide a beginner-friendly overview of relevant payment gateways available in Sri Lanka for receiving freelance income.
+
+### **GPT Prompts**
+
+1. "Explain how to balance freelancing with academic commitments using time management techniques."
+2. "Generate a step-by-step guide for creating a weekly schedule that integrates studies and freelance work."
+3. "List strategies for researching beginner rates on popular freelance platforms."
+4. "Explain the differences between value-based pricing and hourly pricing for freelancers."
+5. "Write tips for professional and clear communication with freelance clients."
+6. "Draft email templates for clarifying client expectations and responding to feedback professionally."
+7. "Provide examples of ethical dilemmas freelancers might face and how to handle them with integrity."
+8. "Create an action plan for setting competitive beginner rates to build a portfolio."
+9. "Suggest the best payment gateways for Sri Lankan freelancers and how to use them effectively."
+10. "Draft a communication checklist for managing freelance client relationships professionally."
+
+
+### **Future Reading Links**
+
+- [Time Management for Freelancers - HubSpot Blog](https://blog.hubspot.com/)
+- [How to Balance Studies and Freelancing - Medium](https://medium.com/)
+- [Understanding Freelance Pricing Models - Toptal](https://www.toptal.com/)
+- [Guide to Setting Beginner Freelance Rates - Fiverr Resources](https://www.fiverr.com/resources/)
+- [Client Communication Tips for Freelancers - Upwork Blog](https://www.upwork.com/resources/)
+- [Handling Client Feedback Professionally - Freelancer Blog](https://www.freelancer.com/articles/)
+- [Ethical Guidelines for Freelancers - Freelancers Union](https://www.freelancersunion.org/)
+- [Best Payment Gateways for Freelancers in Sri Lanka - Payoneer](https://www.payoneer.com/)
+- [Managing Client Expectations in Freelancing - LinkedIn Learning](https://www.linkedin.com/learning/)
+- [Beginner Tips for Building Freelance Relationships - CareerFoundry](https://careerfoundry.com/)
+- [Hourly vs. Value-Based Pricing Explained - Upwork Resources](https://www.upwork.com/)
+- [Time Blocking for Productivity - Todoist Blog](https://blog.todoist.com/)

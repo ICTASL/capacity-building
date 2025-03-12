@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/1-4-1-advan
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 ### 3.1. Advanced Front-end Architectures:
 
@@ -123,18 +126,17 @@ In modern web development, especially with JavaScript frameworks, you often have
 
     To further expand your knowledge, check out these resources:
 
+- [A Guide to Modern Frontend Architecture Patterns](https://blog.logrocket.com/guide-modern-frontend-architecture-patterns/)
+- [A Different Approach to Frontend Architecture](https://dev.to/itswillt/a-different-approach-to-frontend-architecture-38d4)
+- [The Modern Frontend Architectures: Which Should You Choose?](https://dev.to/function12_io/the-modern-frontend-architectures-which-should-you-choose-14ba)
+- [Advanced Techniques in Front-End Development](https://www.digitalstrategyone.com/advanced-techniques-in-front-end-development/)
+- [Server-side Rendering (SSR) - Next.js](https://nextjs.org/docs/pages/building-your-application/rendering/server-side-rendering)
+- [Rendering: Server Components - Next.js](https://nextjs.org/docs/app/building-your-application/rendering/server-components)
+- [Rendering: Static Site Generation (SSG) - Next.js](https://nextjs.org/docs/pages/building-your-application/rendering/static-site-generation)
+- [Static Site Generator - Deployment Strategies](https://aaronlauterer.com/blog/2020/static-site-generator-git-hook-deployment/)
+- [SSG VS SSR VS ISR: Understanding Modern Web Rendering Strategies](https://go.lightnode.com/tech/ssg-vs-ssr-vs-isr)
+- [Making PWAs Work Offline with Service Workers - MDN](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Tutorials/js13kGames/Offline_Service_workers)
+- [Progressive Web Apps: Going Offline | Google for Developers](https://developers.google.com/codelabs/pwa-training/pwa03--going-offline)
+- [Building a Progressive Web App from Scratch Offline-First Approach](https://codezup.com/building-pwa-from-scratch-offline-first-approach/)
 
-    1. **Online Courses:**
-        - [Frontend Masters: Complete Intro to React](https://frontendmasters.com/courses/complete-react/)
-        - [Udacity: Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)
-
-    2. **Documentation and Guides:**
-        - [Next.js Documentation](https://nextjs.org/docs)
-        - [Gatsby Documentation](https://www.gatsbyjs.com/docs/)
-        - [Google Developers: Progressive Web Apps](https://developers.google.com/web/progressive-web-apps)
-
-    3. **Community and Blogs:**
-        - [Smashing Magazine](https://www.smashingmagazine.com/)
-        - [CSS-Tricks](https://css-tricks.com/)
-        - [Dev.to](https://dev.to/)
 

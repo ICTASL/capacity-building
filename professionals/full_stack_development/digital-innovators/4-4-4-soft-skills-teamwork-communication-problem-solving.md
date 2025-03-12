@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/4-4-4-soft-
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 #### 4.4.4. Refined DevOps Soft Skills:  Becoming a DevOps Leader and Team Player Extraordinaire!
 
@@ -103,14 +106,27 @@ You've gone from a DevOps beginner to a **DevOps Master!** Give yourself a *huge
 
 ### Future Reading Links
 
-  - [Crucial Conversations: Tools for Talking When Stakes Are High](https://www.amazon.com/Crucial-Conversations-Tools-Talking-Stakes/dp/1469266822) - A book focused on communication skills for high-stakes conversations, relevant to incident response and conflict resolution in DevOps.
-  - [Nonviolent Communication: A Language of Life](https://www.amazon.com/Nonviolent-Communication-Language-Life-Third/dp/1939516304) -  Explores empathetic communication and building connections, valuable for fostering collaboration in diverse DevOps teams.
-  - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations - Culture Chapters](https://itrevolution.com/the-devops-handbook/) - Focus on the culture and people aspects of DevOps, offering insights into building effective teams and communication strategies.
-  - [Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520) -  Explores leadership principles centered on vulnerability, empathy, and courage, applicable to leading DevOps teams.
-  - [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kick-Ass-Boss-Humanity/dp/1250103595) -  Focuses on honest and direct communication in leadership, essential for effective feedback and team performance.
-  - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://teamtopologies.com/) -  Provides patterns for organizing teams for fast flow and collaboration, directly relevant to structuring DevOps teams effectively.
-  - [The Fifth Discipline: The Art & Practice of The Learning Organization](https://www.amazon.com/Fifth-Discipline-Art-Practice-Learning/dp/0385517254) -  Explores systemic thinking and learning organizations, valuable for understanding complex DevOps environments and driving continuous improvement.
-  - [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555) -  Explores cognitive biases and decision-making processes, helpful for improving problem-solving and data analysis in DevOps.
-  - [Problem-Solving with Data Analysis - Coursera Course (Example)](https://www.coursera.org/courses?query=data%20analysis%20problem%20solving) -  (Example Coursera course, search for similar courses on other platforms) - Online courses focused on data analysis for problem-solving, enhancing data-driven decision-making skills.
-  - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973896) - A practical guide for tech leaders, covering aspects of team building, communication, and leadership growth in technology environments.
+
+- [Building High-Performing DevOps Teams - Atlassian](https://www.atlassian.com/devops/team-collaboration)
+- [Fostering Collaborative DevOps Cultures - ThoughtWorks](https://www.thoughtworks.com/insights/devops)
+- [How to Manage Conflict in Tech Teams - Harvard Business Review](https://hbr.org/)
+- [Practicing Psychological Safety in Teams - Google SRE](https://sre.google/sre-book/team-psychological-safety/)
+- [Agile Practices for Better Team Dynamics - Atlassian Agile Coach](https://www.atlassian.com/agile)
+- [Effective Communication in DevOps Teams - Microsoft Azure](https://learn.microsoft.com/en-us/devops/overview/devops-teams-collaboration)
+- [Active Listening in Leadership - MindTools](https://www.mindtools.com/pages/article/Active-Listening.htm)
+- [Clear and Concise Tech Documentation - GitLab Docs](https://about.gitlab.com/handbook/engineering/workflow/documentation/)
+- [Leadership Skills for DevOps Managers - Pluralsight](https://www.pluralsight.com/)
+- [How to Communicate During Major Incidents - PagerDuty](https://www.pagerduty.com/blog/incident-communication/)
+- [Incident Management and Resolution Strategies - Atlassian](https://www.atlassian.com/incident-management)
+- [Blameless Postmortems: Learning from Failures - Google SRE](https://sre.google/sre-book/postmortem-culture/)
+- [Prioritizing Under Pressure: A Guide for DevOps - DevOps.com](https://devops.com/)
+- [Decision-Making Frameworks for Operations Teams - ThoughtWorks](https://www.thoughtworks.com/)
+- [Dealing with Operational Stress: Tips for Resilience - Medium](https://medium.com/)
+- [How to Embrace Continuous Learning in DevOps - DZone](https://dzone.com/)
+- [Feedback Loops and Self-Improvement for Teams - Atlassian](https://www.atlassian.com/agile/feedback-loops)
+- [Becoming a Resilient Leader in Tech - Harvard Business Review](https://hbr.org/)
+- [Adapting to Change in Fast-Paced DevOps Environments - Medium](https://medium.com/)
+- [Emotional Intelligence for Tech Teams - Coursera](https://www.coursera.org/)
+- [Soft Skills for DevOps Engineers - Pluralsight](https://www.pluralsight.com/)
+- [Slack and Microsoft Teams for Collaboration Excellence](https://slack.com/)
 

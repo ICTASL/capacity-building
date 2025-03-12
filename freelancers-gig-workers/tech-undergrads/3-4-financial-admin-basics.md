@@ -186,3 +186,31 @@ Practical tool recommendations to streamline project management, time tracking, 
 
 * **How it should be presented:** Briefly describe Toggl Track and Clockify - key features, free plan benefits. Direct download links/website access. Tip: *"Start time tracking *immediately* on projects - even free tools provide valuable insights quickly."*
 
+### **GPT Prompts**
+
+1. "Generate a step-by-step guide to create a simple budget for tracking freelance income and expenses."
+2. "Explain how to use free invoicing tools to create professional freelance invoices."
+3. "Write a beginner's guide to basic bookkeeping practices using spreadsheets or apps."
+4. "Describe common tax obligations for freelancers in Sri Lanka and recommend steps for compliance."
+5. "Draft tips for creating contracts to protect freelancers' intellectual property rights."
+6. "List tools freelancers can use for efficient time tracking and project management."
+7. "Generate a template for a sample freelance invoice for tech projects."
+8. "Explain the importance of maintaining financial records and how freelancers can stay organized."
+9. "Write a guide for tracking freelance payments from international clients in Sri Lanka."
+10. "Provide an overview of legal considerations (such as intellectual property) for beginner freelancers."
+
+
+### **Future Reading Links**
+
+- [How to Budget as a Freelancer - NerdWallet](https://www.nerdwallet.com/)
+- [Beginner’s Guide to Freelance Invoicing - FreshBooks](https://www.freshbooks.com/)
+- [Bookkeeping Basics for Freelancers - QuickBooks Blog](https://quickbooks.intuit.com/)
+- [Tax Obligations for Freelancers - Upwork Resources](https://www.upwork.com/resources/)
+- [Legal Considerations for Freelancers - Freelancers Union](https://www.freelancersunion.org/)
+- [Freelance Contracts: What to Include - Forbes](https://www.forbes.com/)
+- [Best Free Time Tracking Tools for Freelancers - Toggl Blog](https://toggl.com/blog/)
+- [Payment Gateways for Sri Lankan Freelancers - Payoneer](https://www.payoneer.com/)
+- [How to Create Professional Freelance Invoices - Medium](https://medium.com/)
+- [Project and Client Management Tools - HubSpot Blog](https://blog.hubspot.com/)
+- [Maintaining Financial Records as a Freelancer - Toptal](https://www.toptal.com/)
+- [Guide to International Payments for Freelancers - PayPal](https://www.paypal.com/)

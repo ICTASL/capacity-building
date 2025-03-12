@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-3-2-testi
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ### 2.3.2. Testing: Incorporate Integration and End-to-End Tests:
@@ -114,8 +117,16 @@ By incorporating integration and end-to-end tests into your back-end testing str
 
 ### Future Reading Links:
 
-- [Integration Testing in Node.js](https://nodejs.dev/learn/nodejs-integration-testing)
-- [End-to-End Testing with Cypress](https://docs.cypress.io/guides/overview/why-cypress)
-- [Mocking in Jest](https://jestjs.io/docs/mock-functions)
-- [Setting Up CI/CD for Node.js](https://docs.github.com/en/actions/guides/building-and-testing-nodejs)
-- [Best Practices for API Testing](https://www.postman.com/api-testing/)
+- [Integration Testing in Node.js Applications](https://www.digitalocean.com/community/tutorials/integration-testing-in-nodejs-applications)
+- [End-to-End Testing: Best Practices and Tools](https://www.browserstack.com/guide/end-to-end-testing)
+- [Cypress: JavaScript End-to-End Testing Framework](https://www.cypress.io/)
+- [Selenium: Web Browser Automation](https://www.selenium.dev/)
+- [Integration Testing: A Complete Beginner’s Guide](https://www.browserstack.com/guide/integration-testing)
+- [How to Write Integration Tests for APIs](https://www.digitalocean.com/community/tutorials/how-to-write-integration-tests-for-apis)
+- [End-to-End Testing with Playwright](https://playwright.dev/)
+- [REST API Integration Testing with Postman](https://blog.postman.com/integration-testing-in-postman/)
+- [End-to-End Testing for Microservices](https://martinfowler.com/articles/microservice-testing/)
+- [Testing with Mocha and Chai for Node.js](https://dev.to/nedsoft/testing-nodejs-api-with-mocha-and-chai-4o7h)
+- [Test Automation Strategies: Integration vs End-to-End](https://applitools.com/blog/integration-testing-vs-end-to-end-testing/)
+- [Jest Integration Testing Guide](https://jestjs.io/docs/getting-started)
+- [Katalon for Integration and E2E Testing](https://katalon.com/)

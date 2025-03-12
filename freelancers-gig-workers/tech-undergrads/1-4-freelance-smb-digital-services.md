@@ -104,3 +104,33 @@ To effectively offer your services to SMBs, consider these points when designing
 *   **Communicate in Business Terms:** SMB owners and managers are business-focused. Communicate the benefits of your tech services in terms of business outcomes, not just technical features.
 
 By understanding the diverse digital service needs of SMBs and strategically designing your freelance offerings, you can tap into a significant and growing market for your technology skills, expanding your freelance scope and impact. This section provides a foundation for you to begin thinking about the *kinds* of freelance services you can provide, going beyond just general "tech skills" to address concrete business requirements.
+
+
+### **GPT Prompts**
+
+1. "List key digital services technology undergraduates can offer SMBs for operational efficiency."
+2. "Explain how to design a freelance IT support package tailored for SMBs."
+3. "Generate a marketing strategy freelancers can use to promote services to SMBs."
+4. "Draft an email template to pitch freelance digital services to small business owners."
+5. "Suggest affordable tools SMBs can use to improve sales enablement and how freelancers can support their setup."
+6. "Write a guide to creating customized websites for SMBs with minimal resources."
+7. "Propose a cybersecurity audit process freelancers can offer SMBs."
+8. "Develop a social media content strategy for SMBs as part of a freelance service offering."
+9. "Explain how technology graduates can assess SMB needs and align their freelance services effectively."
+10. "Provide a checklist for freelancers to ensure their services meet SMB expectations."
+
+
+### **Future Reading Links**
+
+- [Digital Transformation for SMBs - McKinsey & Company](https://www.mckinsey.com/business-functions/mckinsey-digital/)
+- [The Role of Freelancers in SMB Growth - Forbes](https://www.forbes.com/)
+- [Top IT Solutions for SMBs - Microsoft for Business](https://www.microsoft.com/en-us/microsoft-365/business/)
+- [Understanding Small Business Marketing - HubSpot](https://blog.hubspot.com/marketing/)
+- [Cybersecurity Essentials for SMBs - CSO Online](https://www.csoonline.com/)
+- [Website Development for SMBs - Wix Blog](https://www.wix.com/blog/)
+- [Affordable Tech Tools for SMBs - TechRadar](https://www.techradar.com/)
+- [Sales Enablement for SMBs - Salesforce Blog](https://www.salesforce.com/blog/)
+- [Freelancing Success with SMBs - Freelancers Union](https://www.freelancersunion.org/)
+- [Business Continuity Planning for SMBs - AWS](https://aws.amazon.com/business-continuity/)
+- [Social Media Tips for SMBs - Hootsuite Blog](https://blog.hootsuite.com/)
+- [Designing IT Support Services for Small Businesses - ZDNet](https://www.zdnet.com/)

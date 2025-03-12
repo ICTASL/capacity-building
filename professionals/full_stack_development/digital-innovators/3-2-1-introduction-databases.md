@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/3-2-1-intro
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ## 3. Database Technologies:  Organizing and Protecting Your Data
@@ -157,8 +160,14 @@ That's the **Beginner Level Introduction to Databases**!  You've learned about R
 
 ### Future Reading Links
 
-- [Introduction to Database Indexing](https://www.geeksforgeeks.org/introduction-of-indexing/)
-- [Advanced SQL Queries](https://www.sqlshack.com/advanced-sql-queries/)
-- [NoSQL Databases Explained](https://www.mongodb.com/nosql-explained)
-- [Database Normalization](https://www.studytonight.com/dbms/database-normalization.php)
-- [Database Transactions and Concurrency Control](https://www.tutorialspoint.com/dbms/dbms_transaction.htm)
+- [What is a Database? - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/)
+- [Database Concepts for Beginners - TutorialsPoint](https://www.tutorialspoint.com/dbms/index.htm)
+- [Relational Databases Explained - IBM Cloud](https://www.ibm.com/cloud/learn/relational-databases)
+- [Beginner's Guide to NoSQL Databases - MongoDB](https://www.mongodb.com/nosql-explained)
+- [Understanding Database Tables, Keys, and Relationships](https://www.geeksforgeeks.org/database-keys-candidate-super-primary-alternate-and-foreign/)
+- [SQL Basics for Beginners - DataCamp](https://www.datacamp.com/learn/sql-for-beginners)
+- [Introduction to Database Management Systems (DBMS) - Edureka](https://www.edureka.co/blog/dbms-tutorial/)
+- [ACID Properties in Database Systems - Guru99](https://www.guru99.com/acid-properties-in-dbms.html)
+- [Normalization in Databases - Learn SQL](https://www.sqlshack.com/database-normalization-introduction/)
+- [How to Create a Simple Database - DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-database)
+- [Database Administration Fundamentals - Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/introduction-to-databases/)

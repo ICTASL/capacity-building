@@ -6,6 +6,11 @@ permalink: /professionals\full_stack_development\digital-innovators\/4-2-2-intro
 lang: en
 ---
 
+* TOC
+{:toc}
+
+
+
 #### 4.2.2. Introduction to CI/CD: Automating the Software Assembly Line!
 
 * **Basic concepts of continuous integration and continuous deployment:**
@@ -105,7 +110,7 @@ lang: en
 That concludes **4.2.2. Introduction to CI/CD!** You've now built your first automated software delivery pipeline and experienced the power of CI/CD! You are well on your way to becoming a DevOps practitioner!
 
  ### GPT Prompts for Further Exploration
- 
+
 1. Explain the differences between Continuous Integration, Continuous Delivery, and Continuous Deployment.
 2. Describe the benefits and challenges of implementing CI/CD in a legacy software project.
 3. How can automated testing be integrated into a CI/CD pipeline, and what types of tests should be included?
@@ -125,13 +130,18 @@ That concludes **4.2.2. Introduction to CI/CD!** You've now built your first aut
 
 ### Future Readings and Resources
 
-  - **Jenkins:** [Jenkins Documentation](https://www.jenkins.io/doc/)
-  - **GitLab CI:** [GitLab CI/CD Documentation](https://docs.gitlab.com/ee/ci/)
-  - **CircleCI:** [CircleCI Documentation](https://circleci.com/docs/)
-  - **Travis CI:** [Travis CI Documentation](https://docs.travis-ci.com/)
-**Online Courses and Tutorials:**
-    - **Coursera:** [Continuous Integration and Continuous Deployment](https://www.coursera.org/learn/continuous-integration-continuous-deployment)
-    - **Udemy:** [CI/CD Pipeline: Learn Continuous Integration & Continuous Delivery](https://www.udemy.com/course/ci-cd-pipeline/)
-    - **Pluralsight:** [Continuous Integration and Continuous Delivery: The Big Picture](https://www.pluralsight.com/courses/continuous-integration-continuous-delivery-big-picture)
+- [What is CI/CD? A Beginner's Guide - Atlassian](https://www.atlassian.com/continuous-delivery/ci-vs-cd)
+- [Getting Started with CI/CD Pipelines - Red Hat](https://www.redhat.com/en/topics/devops/what-is-ci-cd)
+- [CI/CD Concepts Explained - GitLab Docs](https://docs.gitlab.com/ee/ci/introduction/)
+- [How to Build a CI/CD Pipeline: A Step-by-Step Guide](https://www.edureka.co/blog/ci-cd-pipeline/)
+- [Introduction to Jenkins for CI/CD - Jenkins.io](https://www.jenkins.io/doc/)
+- [Beginner’s Guide to GitHub Actions for CI/CD](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions)
+- [Docker in CI/CD Pipelines - Docker Docs](https://www.docker.com/blog/docker-cicd-pipeline/)
+- [What is Continuous Integration? - ThoughtWorks](https://www.thoughtworks.com/continuous-integration)
+- [Getting Started with Continuous Deployment on AWS](https://aws.amazon.com/devops/continuous-delivery/)
+- [CI/CD with Kubernetes: Automating Deployments](https://kubernetes.io/blog/2017/10/using-kubernetes-cicd-pipeline/)
+- [The Role of Automation in CI/CD - Puppet](https://puppet.com/resources/what-is-cicd/)
+- [DevOps Pipeline Best Practices for Beginners](https://www.digitalocean.com/community/tutorials/what-is-devops-pipeline)
+
 
 These prompts and resources will help deepen your understanding of CI/CD and its role in modern software development and DevOps practices.

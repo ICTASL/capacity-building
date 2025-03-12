@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-3-3-secur
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ### 2.3.3. Security, Authentication & Authorization:
@@ -152,8 +155,16 @@ You'll learn to implement OAuth 2.0 flows (Authorization Code Grant) to secure y
 
 #### Future Reading Links:
 
-- [OWASP Secure Coding Practices](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/)
-- [OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749)
-- [JWT Introduction and Examples](https://jwt.io/introduction/)
-- [Cross-Site Scripting (XSS) Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
-- [Cross-Site Request Forgery (CSRF) Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+- [OWASP Secure Coding Practices - Quick Reference Guide](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/stable-en/01-introduction/05-introduction)
+- [Secure Coding Practices | What is Secure Coding? - Snyk](https://snyk.io/articles/secure-coding-practices/)
+- [API Gateway Security with OAuth and JWT: A Step-by-Step Guide](https://codezup.com/securing-api-gateways-with-oauth-and-jwt/)
+- [How to Secure a REST API Using JWT Authentication - LogRocket](https://blog.logrocket.com/secure-rest-api-jwt-authentication/)
+- [Using JWT with Spring Security OAuth - Baeldung](https://www.baeldung.com/spring-security-oauth-jwt)
+- [OAuth 2.0 Simplified](https://aaronparecki.com/oauth-2-simplified/)
+- [JSON Web Tokens (JWT) - Introduction and Best Practices](https://jwt.io/introduction/)
+- [API Security Best Practices - Nordic APIs](https://nordicapis.com/api-security-best-practices/)
+- [Authentication and Authorization for APIs - Auth0](https://auth0.com/docs/get-started/authentication-and-authorization)
+- [REST API Security Essentials](https://restfulapi.net/security-essentials/)
+- [Top 10 API Security Tips](https://www.apisecurity.io/)
+- [Best Practices for Securing APIs - Postman](https://www.postman.com/api-platform/api-security/)
+- [API Security: OAuth and JWT Implementation](https://www.digitalocean.com/community/tutorials/api-security-oauth-jwt-implementation)

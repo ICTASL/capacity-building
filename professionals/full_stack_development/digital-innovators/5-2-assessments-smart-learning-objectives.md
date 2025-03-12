@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/5-2-assessm
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ### 5.2. Assessments & SMART Learning Objectives: Your Roadmap to Success and How We'll Help You Get There!
@@ -67,13 +70,15 @@ With SMART Learning Objectives and regular Assessments, you'll have a **clear pa
 
 ### Future Reading Links
 
--   [SMART Goals - MindTools](https://www.mindtools.com/a9bvmc7/smart-goals-how-to-make-your-goals-achievable) - A detailed guide from MindTools on setting SMART goals, applicable to learning objectives and personal development.
--   [Assessment for Learning: Putting it into Practice - Inside SEL](https://insidesel.org/assessment-for-learning-putting-it-into-practice/) - An article discussing assessment for learning strategies, emphasizing formative assessment and feedback.
--   [Rubrics for Assessment - Carnegie Mellon University](https://www.cmu.edu/teaching/assessment/rubrics/index.html) -  A resource from Carnegie Mellon University on designing and using rubrics for effective and transparent assessment.
--   [Peer Assessment: A Practical Guide - Vanderbilt University](https://cft.vanderbilt.edu/guides-sub-pages/peer-assessment/) - A practical guide from Vanderbilt University on implementing peer assessment effectively in educational settings.
--   [Formative vs Summative Assessment - Eberly Center, Carnegie Mellon University](https://www.cmu.edu/teaching/assessment/basics/formative-summative.html) - An explanation of the differences between formative and summative assessment and their respective roles in learning.
--   [Project-Based Assessment - Buck Institute for Education (PBLWorks)](https://www.pblworks.org/blog/assessing-project-based-learning) - Resources from PBLWorks on assessment methods specifically designed for project-based learning.
--   [The Importance of Feedback in Learning - University of Queensland](https://itali.uq.edu.au/teach/assessment/feedback/importance-feedback) - An article from the University of Queensland highlighting the crucial role of feedback in enhancing student learning outcomes.
--   [Using Learning Objectives - University of Waterloo](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/planning-courses-and-assignments/learning-objectives/using-learning-objectives) - A guide from the University of Waterloo on effectively using learning objectives in course design and assessment.
--   [Assessment and Evaluation in Education - OpenLearn, Open University](http://www.open.edu/openlearn/education-development/assessment-and-evaluation-education/content-section-0) - A free online course from OpenLearn, Open University, exploring various aspects of assessment and evaluation in education.
--   [Designing Effective Assessments - Center for Teaching & Learning, University of Colorado Boulder](https://www.colorado.edu/center-teaching-learning/resources/assessment/designing-effective-assessments) - A resource from the University of Colorado Boulder on principles and strategies for designing effective assessments in higher education.
+- [How to Write SMART Learning Objectives - Skillshub](https://www.skillshub.com/blog/write-smart-learning-objectives/)
+- [10 Examples of SMART Learning Objectives - SafetyCulture](https://training.safetyculture.com/blog/examples-of-smart-learning-objectives/)
+- [55 Learning Objectives Examples - Helpful Professor](https://helpfulprofessor.com/learning-objectives-examples/)
+- [SMART Learning Objectives Explained - Dakota State University](https://support.dsu.edu/TDClient/1796/Portal/KB/ArticleDet?ID=148322)
+- [Creating Effective Learning Objectives - Carnegie Mellon University](https://www.cmu.edu/teaching/designteach/design/learningobjectives.html)
+- [Assessments in Education: Types and Best Practices - Edutopia](https://www.edutopia.org/)
+- [How to Design Assessments for Learning - Harvard Graduate School of Education](https://www.gse.harvard.edu/)
+- [Using Bloom's Taxonomy for Learning Objectives - Vanderbilt University](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/)
+- [SMART Goals and Objectives in Education - ThoughtCo](https://www.thoughtco.com/)
+- [Formative vs. Summative Assessments - TeachThought](https://www.teachthought.com/)
+- [Assessment Strategies for Online Learning - EdSurge](https://www.edsurge.com/)
+- [Developing Measurable Learning Outcomes - University of Toronto](https://teaching.utoronto.ca/)

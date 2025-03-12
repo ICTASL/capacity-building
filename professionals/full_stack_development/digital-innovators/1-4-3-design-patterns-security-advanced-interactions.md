@@ -5,6 +5,9 @@ description: "Design Patterns, Security "
 permalink: /professionals\full_stack_development\digital-innovators\/1-4-3-design-patterns-security-advanced-interactions/
 lang: en
 ---
+* TOC
+{:toc}
+
 
 
 ### 3.3. Design Patterns, Security & Advanced Interactions:
@@ -136,19 +139,18 @@ To deepen your understanding and explore new areas, consider using the following
 
 To continue your learning journey, here are some recommended resources:
 
-1. **Advanced State Management:**
-    - [Redux Official Documentation](https://redux.js.org/)
-    - [MobX Official Documentation](https://mobx.js.org/README.html)
-    - [State Management in React: Redux vs. MobX](https://www.smashingmagazine.com/2020/01/state-management-react-redux-mobx/)
+- [State Management with Redux & MobX - Frontend Masters](https://frontendmasters.com/courses/redux-mobx/)
+- [Mastering Advanced State Management Patterns in ReactJS](https://moldstud.com/articles/p-mastering-advanced-state-management-patterns-in-reactjs)
+- [Advanced State Management Patterns with Redux and MobX in Next.js](https://codemax.app/snippet/advanced-state-management-patterns-with-redux-and-mobx-in-next-js/)
+- [Best Practices for Front-End Application Development - VOCSO](https://www.vocso.com/blog/how-to-build-secure-frontends-best-practices-for-front-end-application-development/)
+- [Front-End Security Best Practices - Romexsoft](https://www.romexsoft.com/blog/front-end-security-best-practices/)
+- [10 Front-End Security Best Practices - CLIMB](https://climbtheladder.com/10-front-end-security-best-practices/)
+- [Building Scalable and High-Performance Web Applications](https://habitualcs.io/building-scalable-and-high-performance-web-applications/)
+- [How to Build a Scalable Web Application for Your Business](https://www.bitcot.com/how-to-build-scalable-web-applications/)
+- [Building Scalable and Secure Web Applications: Things to Know](https://www.signitysolutions.com/blog/building-scalable-and-secure-web-applications)
+- [Google Lighthouse: Performance and Accessibility Audits](https://developers.google.com/web/tools/lighthouse/)
+- [Caniuse: Browser Support for Security Features](https://caniuse.com/)
+- [Web.dev: Security and Performance Optimization](https://web.dev/secure/)
 
-2. **Front-End Security:**
-    - [OWASP Top Ten Security Risks](https://owasp.org/www-project-top-ten/)
-    - [MDN Web Docs: Cross-Site Scripting (XSS)](https://developer.mozilla.org/en-US/docs/Glossary/Cross-site_scripting)
-    - [Content Security Policy (CSP) Guide](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
-
-3. **Performance Optimization:**
-    - [Google Web Fundamentals: Performance](https://developers.google.com/web/fundamentals/performance)
-    - [Web.dev: Optimize Your JavaScript](https://web.dev/fast/)
-    - [Smashing Magazine: Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 
 These prompts and resources will help you delve deeper into advanced topics and stay updated with the latest best practices in front-end development.

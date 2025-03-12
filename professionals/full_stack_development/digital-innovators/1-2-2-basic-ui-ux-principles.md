@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/1-2-2-basic
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ### 1.2. Basic UI/UX Principles:
@@ -92,15 +95,12 @@ Understanding and applying basic UI/UX principles is crucial for creating websit
 
 ### Future Readings
 
-1. ["Don't Make Me Think" by Steve Krug](https://www.sensible.com/dmmt.html) - A common-sense approach to web usability.
-2. ["The Design of Everyday Things" by Don Norman](https://www.jnd.org/books/design-of-everyday-things-revised-and-expanded-edition.html) - Insights into user-centered design.
-3. ["Refactoring UI" by Adam Wathan and Steve Schoger](https://refactoringui.com/book/) - Practical tips for improving UI design.
-4. ["Designing for Accessibility" by Sarah Horton and Whitney Quesenbery](https://www.rosenfeldmedia.com/books/designing-for-accessibility/) - A guide to creating accessible web experiences.
-5. ["Responsive Web Design" by Ethan Marcotte](https://abookapart.com/products/responsive-web-design) - Techniques for creating flexible and adaptive web designs.
-6. ["Lean UX" by Jeff Gothelf and Josh Seiden](https://www.oreilly.com/library/view/lean-ux-2nd/9781491953600/) - Integrating UX design with Agile methodologies.
-7. ["Smashing UX Design" by Jesmond Allen and James Chudley](https://www.wiley.com/en-us/Smashing+UX+Design%3A+Foundations+for+Designing+Online+User+Experiences-p-9781119998952) - Comprehensive guide to user experience design.
-8. [Smashing Magazine](https://www.smashingmagazine.com/) - Articles and resources on web design and development.
-9. [A List Apart](https://alistapart.com/) - Insights and articles on web standards, design, and development.
-10. [UX Design](https://uxdesign.cc/) - A Medium publication covering all things UX.
+- [Effective UI/UX Design Principles for Front-End Developers](https://www.keitaro.com/insights/2024/06/11/effective-ui-ux-design-principles-for-front-end-developers/)
+- [Modern Front-End Design: 18 Essential Principles for 2024](https://www.index.dev/blog/top-front-end-design-principles-for-software-developers-2024)
+- [7 Fundamental User Experience (UX) Design Principles](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
+- [Future Readings on Basic UI/UX Principles for Front-end Development](https://bing.com/search?q=Future+Readings+on+Basic+UI%2fUX+Principles+for+Front-end+Development)
+- [Introduction to Mobile-First Design](https://www.smashingmagazine.com/2018/12/guidelines-for-mobile-first-design/)
+- [Accessibility in UI/UX Design](https://www.a11yproject.com/)
+- [Typography and Color Theory in Web Design](https://www.webdesignerdepot.com/2021/03/typography-and-color-theory-in-web-design/)
 
 By exploring these resources, you can deepen your understanding of UI/UX principles and continue to enhance your design skills.

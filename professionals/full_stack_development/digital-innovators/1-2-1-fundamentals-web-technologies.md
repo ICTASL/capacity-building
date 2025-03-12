@@ -5,6 +5,9 @@ description: "Fundamentals of Web Technologies for Front-end Development Beginne
 permalink: /professionals/full_stack_development/digital-innovators/1-2-1-fundamentals-web-technologies/
 lang: en
 ---
+* TOC
+{:toc}
+
 
 #### 1.2.1. HTML5 Structure, Semantics, and Accessibility Basics
 
@@ -127,9 +130,9 @@ These projects will allow you to apply everything you've learned about HTML, CSS
 
     Unit testing is a fundamental practice in professional software development, and starting to learn it early will set you on the path to becoming a quality-conscious developer.
 
-    ## Conclusion
+### Conclusion
 
-    From understanding HTML5 structure and semantics to mastering CSS for responsive design, and from diving into JavaScript for interactivity to using Git for version control, you've built a solid foundation. Keep practicing and building projects to solidify your knowledge and skills.
+From understanding HTML5 structure and semantics to mastering CSS for responsive design, and from diving into JavaScript for interactivity to using Git for version control, you've built a solid foundation. Keep practicing and building projects to solidify your knowledge and skills.
 
 ### GPT Prompts for Further Exploration
 
@@ -145,14 +148,27 @@ These projects will allow you to apply everything you've learned about HTML, CSS
 10. Imagine you are tasked with building a personal portfolio website. Outline the steps you would take, considering HTML5 structure, semantic tags, responsive CSS design (using Flexbox or Grid), basic JavaScript for interactivity, Git for version control, and accessibility best practices.
 
 ### Future Reading Links
+ 1. HTML5 Structure, Semantics, and Accessibility Basics
+- [HTML Semantic Elements - W3Schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [HTML: A Good Basis for Accessibility - MDN](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Accessibility/HTML)
+- [HTML Accessibility - W3Schools](https://www.w3schools.com/html/html_accessibility.asp)
 
-  - [HTML Semantic Elements - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header) - MDN Web Docs documentation on semantic HTML elements, providing in-depth explanations and examples.
-  - [The CSS Box Model - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/box_model) - Comprehensive guide to the CSS Box Model on MDN Web Docs, covering all aspects of the box model and its properties.
-  - [CSS Grid Layout - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) - Detailed documentation and tutorials on CSS Grid Layout from MDN Web Docs.
-  - [CSS Flexbox - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) -  Guide to CSS Flexbox layout, explaining its basic concepts and usage, available on MDN Web Docs.
-  - [Introduction to the DOM - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) - MDN Web Docs introduction to the Document Object Model (DOM), explaining its structure and how JavaScript interacts with it.
-  - [Web Content Accessibility Guidelines (WCAG) Overview - W3C](https://www.w3.org/WAI/standards-guidelines/wcag/) - Official overview of the Web Content Accessibility Guidelines (WCAG) from the World Wide Web Consortium (W3C).
-  - [Aria in HTML - MDN Web Docs](https://www.google.com/search?q=https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_in_HTML) - MDN Web Docs documentation explaining how to use ARIA attributes in HTML to improve accessibility.
-  - [Git Handbook - GitHub Guides](https://guides.github.com/introduction/git-handbook/) - A comprehensive Git handbook from GitHub, covering version control concepts and Git workflows.
-  - [Using Chrome DevTools to Debug JavaScript - Chrome Developers](https://developer.chrome.com/docs/devtools/javascript/) - Guide from Chrome Developers on using Chrome DevTools for debugging JavaScript code effectively.
-  - [Getting Started with Jest - Jest Documentation](https://jestjs.io/docs/getting-started) - Official Jest documentation for getting started with unit testing in JavaScript using the Jest framework.
+2. CSS Fundamentals with Emphasis on Responsive Design
+- [Responsive Web Design - Introduction - W3Schools](https://www.w3schools.com/Css/css_rwd_intro.asp)
+- [Responsive Design Fundamentals in CSS - Chuck's Academy](https://www.chucksacademy.com/en/topic/css-basic/responsive-design)
+- [Responsive Design - Learn Web Development - MDN](https://developer.mozilla.org/docs/Learn_web_development/Core/CSS_layout/Responsive_Design)
+
+3. Introduction to JavaScript, DOM Manipulation, and Debugging
+- [Complete Guide to JavaScript DOM Manipulation - DEV Community](https://dev.to/raajaryan/complete-guide-to-javascript-dom-manipulation-beginner-to-pro-21nh)
+- [DOM Manipulation in JavaScript - FreeCodeCamp](https://www.freecodecamp.org/news/dom-manipulation-in-javascript/)
+- [Debugging and Tools in Web Development - W3docs](https://www.w3docs.com/learn-javascript/dom-debugging-and-tools.html)
+
+4. Basic Git Version Control and Collaborative Workflows
+- [Decoding Git and GitHub: An Introductory Handbook - DEV Community](https://dev.to/seracoder/decoding-git-and-github-an-introductory-handbook-on-version-control-and-collaborative-coding-4le6)
+- [Understanding Git: Features and Basic Commands - W3resource](https://www.w3resource.com/computer-programming/git-beginners-guide.php)
+- [Git Workflow - Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows)
+
+5. Hands-on: Small Projects with Unit Tests for Simple Functions
+- [How to Write Unit Tests for Python Functions - FreeCodeCamp](https://www.freecodecamp.org/news/how-to-write-unit-tests-for-python-functions/)
+- [Python's unittest: Writing Unit Tests for Your Code - Real Python](https://realpython.com/python-unittest/)
+- [What Is Unit Testing: A Complete Guide With Examples - DEV Community](https://dev.to/testifytech/what-is-unit-testing-a-complete-guide-with-examples-31pe)

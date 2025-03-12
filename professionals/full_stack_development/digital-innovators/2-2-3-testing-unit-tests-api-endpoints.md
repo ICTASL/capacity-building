@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-2-3-testi
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ### 2.2.3. Testing: Write Unit Tests for API Endpoints:
@@ -75,13 +78,17 @@ Just like in front-end development, **testing** is a fundamental practice in bac
     5. Write a unit test for data validation on a PATCH endpoint that partially updates user data. Ensure the test checks that invalid data is correctly rejected with appropriate error messages and that valid data updates the user as expected.
 
     ### Future Reading
-
-    For further reading and to deepen your understanding of unit testing for API endpoints, consider the following resources:
-
-    - [Testing Node.js + Express API with Jest and Supertest](https://www.digitalocean.com/community/tutorials/test-a-node-restful-api-with-mocha-and-chai)
-    - [Unit Testing in Node.js using Mocha and Chai](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-node-js-project-with-typescript)
-    - [Introduction to Jest - JavaScript Testing Framework](https://jestjs.io/docs/getting-started)
-    - [Supertest Documentation](https://github.com/visionmedia/supertest)
-    - [Effective Testing with RSpec 3: Build Ruby Apps with Confidence](https://pragprog.com/titles/rspec3/effective-testing-with-rspec-3/)
-
     
+- [Introduction to Unit Testing - freeCodeCamp](https://www.freecodecamp.org/news/unit-testing-tutorial/)
+- [What Are Unit Tests? Beginner's Guide](https://www.toptal.com/qa/unit-testing-beginners-guide)
+- [Writing Unit Tests for Express API Endpoints - DigitalOcean](https://www.digitalocean.com/community/tutorials/test-a-node-rest-api-with-jest)
+- [Unit Testing Basics for APIs with Jest](https://jestjs.io/docs/getting-started)
+- [Express API Testing with Mocha and Chai](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
+- [Beginner's Guide to API Testing](https://medium.com/better-programming/api-testing-101-unit-testing-your-api-endpoints-d1ee7ceab6bc)
+- [Testing REST APIs Using Postman](https://www.postman.com/api-test/)
+- [REST API Unit Testing Best Practices](https://stackabuse.com/unit-testing-and-best-practices-for-rest-api-endpoints/)
+- [How to Write Simple Unit Tests with Python Flask](https://flask.palletsprojects.com/en/2.2.x/testing/)
+- [Unit Testing APIs in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/test/unit-testing?view=aspnetcore-6.0)
+- [Test Your APIs with Postman](https://blog.postman.com/intro-to-testing-your-api-using-postman/)
+- [Node.js API Testing with SuperTest](https://github.com/visionmedia/supertest)
+- [Effective Unit Test Strategies for Backend Development](https://martinfowler.com/bliki/UnitTest.html)

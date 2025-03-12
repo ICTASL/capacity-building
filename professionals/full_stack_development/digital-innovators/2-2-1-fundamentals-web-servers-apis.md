@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-2-1-funda
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ## 2.2. Beginner Level: Laying the Foundation - Your Back-End Starter Kit
@@ -144,11 +147,19 @@ Theory is essential, but the best way to learn back-end development is by **buil
 
 #### Future Reading Links:
 
-1. [MDN Web Docs: HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-2. [RESTful API Design: Best Practices](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
-3. [Node.js Official Documentation](https://nodejs.org/en/docs/)
-4. [Express.js Guide](https://expressjs.com/en/starter/guide.html)
-5. [Logging in Node.js: Best Practices](https://www.loggly.com/ultimate-guide/node-logging-basics/)
+- [Introduction to HTTP - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [RESTful API Design: Best Practices - RESTful API](https://restfulapi.net/)
+- [A Beginner's Guide to REST APIs - freeCodeCamp](https://www.freecodecamp.org/news/rest-api-tutorial/)
+- [Node.js Official Documentation](https://nodejs.org/en/docs/)
+- [Express.js Guide: Getting Started](https://expressjs.com/en/starter/installing.html)
+- [How to Build a RESTful API with Node.js and Express](https://www.section.io/engineering-education/how-to-build-a-restful-api-using-nodejs-and-express/)
+- [Postman Learning Center: API Basics](https://learning.postman.com/docs/getting-started/introduction/)
+- [Creating Your First API with Express - DigitalOcean](https://www.digitalocean.com/community/tutorials/creating-a-simple-api-with-nodejs-and-express)
+- [Logging in Express.js Applications](https://www.toptal.com/nodejs/node-js-logging)
+- [HTTP Status Codes: A Complete Guide - HTTP Cat](https://http.cat/)
+- [Understanding REST API Error Handling](https://www.turing.com/blog/how-to-handle-errors-in-rest-api/)
+- [Beginner's Guide to API Documentation](https://idratherbewriting.com/learnapidoc/docapis.html)
+- [Simple Guide to RESTful API Testing with Postman](https://www.blazemeter.com/blog/simple-guide-to-rest-api-testing/)
 
 
 These resources and prompts will help you deepen your understanding of back-end development and explore advanced topics as you progress.

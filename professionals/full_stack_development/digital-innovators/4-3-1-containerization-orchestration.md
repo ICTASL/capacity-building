@@ -5,6 +5,9 @@ description: "Containerization and Orchestration for DevOps and Operations Inter
 permalink: /professionals\full_stack_development\digital-innovators\/4-3-1-containerization-orchestration/
 lang: en
 ---
+* TOC
+{:toc}
+
 
 #### 4.3.1. Containerization and Orchestration:  The Cloud-Native Duo!
 
@@ -160,13 +163,20 @@ That completes **4.3.1. Containerization and Orchestration!** You now understand
 
 ### Future Reading Links
 
--   [Docker Documentation](https://docs.docker.com/) - Official documentation for all things Docker, including tutorials, guides, and reference material.
--   [Kubernetes Documentation](https://kubernetes.io/docs/home/) - The comprehensive official documentation for Kubernetes, covering concepts, tutorials, and how-to guides.
--   [Docker Labs](https://github.com/docker/labs) - Official Docker Labs repository with practical tutorials and examples for learning Docker.
--   [Kubernetes by Example](https://kubernetesbyexample.com/) - Interactive tutorials to learn Kubernetes through practical examples.
--   [Katacoda Kubernetes](https://www.katacoda.com/courses/kubernetes/playground) - Browser-based Kubernetes environment for learning and experimenting with Kubernetes commands and concepts.
--   [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) - Official Kubernetes tutorial for getting started with the fundamentals.
--   [The Kubernetes Book by Nigel Poulton](https://www.nigelpoulton.com/books/kubernetes-book/) - A well-regarded book for learning Kubernetes, with clear explanations and practical examples.
--   [Kubernetes Blog](https://kubernetes.io/blog/) - Official Kubernetes blog with updates, announcements, and in-depth articles on Kubernetes features and best practices.
--   [CNCF (Cloud Native Computing Foundation)](https://www.cncf.io/) - Explore the Cloud Native Computing Foundation website to discover more about the cloud-native ecosystem, including Kubernetes and related technologies.
--   [Minikube Documentation](https://minikube.sigs.k8s.io/docs/) - Documentation for Minikube, a tool for running a local Kubernetes cluster, useful for development and learning.
+- [What is Containerization? - Docker Overview](https://www.docker.com/resources/what-container/)
+- [Getting Started with Docker for DevOps - Docker Docs](https://docs.docker.com/get-started/)
+- [Best Practices for Creating Docker Images](https://www.docker.com/blog/dockerfile-best-practices/)
+- [Security in Containerized Environments - Red Hat](https://www.redhat.com/en/topics/security/container-security)
+- [Introduction to Docker Compose for Multi-Container Applications](https://docs.docker.com/compose/)
+- [Introduction to Kubernetes Basics - Kubernetes Docs](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+- [Kubernetes Deployment Strategies: Rolling Updates and More](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+- [Mastering Helm: Kubernetes Package Manager](https://helm.sh/docs/intro/)
+- [What is Kubernetes? A Comprehensive Guide - Red Hat](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
+- [Service Meshes: Enhancing Container Orchestration with Istio](https://istio.io/latest/docs/concepts/what-is-istio/)
+- [Cluster Autoscaling in Kubernetes](https://kubernetes.io/docs/tasks/administer-cluster/cluster-management/)
+- [Container Networking Basics](https://www.docker.com/blog/container-networking/)
+- [Understanding Kubernetes Namespaces and Resource Quotas](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/)
+- [Kubernetes Monitoring with Prometheus and Grafana](https://prometheus.io/docs/intro/)
+- [Container Storage Interfaces (CSI) in Kubernetes](https://kubernetes.io/docs/concepts/storage/volumes/)
+- [Kubernetes Operators: Extending Kubernetes Functionality](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
+

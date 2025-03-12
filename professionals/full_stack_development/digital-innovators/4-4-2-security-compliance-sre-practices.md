@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/4-4-2-secur
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 #### 4.4.2. Security, Compliance & SRE Practices:  Securing the Cloud Fortress and Ensuring Rock-Solid Reliability!
@@ -181,13 +184,26 @@ That completes **4.4.2. Security, Compliance & SRE Practices!** You're now not o
 
 ### Future Reading Links
 
-  - [OWASP - DevSecOps Guide](https://owasp.org/www-project-devsecops-guideline/) - Official OWASP DevSecOps Guideline, providing comprehensive guidance on implementing DevSecOps practices.
-  - [SANS Institute - DevSecOps Resources](https://www.sans.org/DevSecOps) - SANS Institute resources on DevSecOps, including articles, whitepapers, and training on security in DevOps.
-  - [Google SRE Book - Chapter on Service Level Objectives](https://sre.google/sre-book/service-level-objectives/) - Chapter from the Google SRE Book dedicated to Service Level Objectives (SLOs), explaining their importance and implementation.
-  - [The Site Reliability Workbook - Practical SRE Exercises](https://sre.google/workbook/table-of-contents/) - Companion workbook to the Google SRE Book, providing practical exercises for applying SRE principles.
-  - [Chaos Engineering - Principles of Chaos](https://principlesofchaos.org/) - Principles of Chaos Engineering, outlining the concepts and practices of proactive system resilience testing.
-  - [Netflix - Chaos Engineering](https://netflix.github.io/chaosmonkey/) - Netflix's Chaos Engineering tools and articles, showcasing real-world application of chaos engineering.
-  - [Predictive Maintenance with Machine Learning - Microsoft Azure](https://docs.microsoft.com/en-us/azure/machine-learning/solution-accelerators/predictive-maintenance) - Microsoft Azure documentation and resources on applying machine learning for predictive maintenance in cloud environments.
-  - [O'Reilly Book - Building Secure and Reliable Systems](https://www.oreilly.com/library/view/building-secure-reliable/9781492083887/) - Book focusing on building secure and reliable systems, encompassing DevSecOps and SRE principles.
-  - [DevOps Handbook - Security and Compliance Chapters](https://itrevolution.com/the-devops-handbook/) - Chapters in The DevOps Handbook focusing on integrating security and compliance into DevOps workflows.
-  - [NIST Special Publication 800-190 - Application Container Security Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf) - NIST guideline on application container security, relevant to container scanning and security best practices in cloud-native environments.
+- [DevSecOps: Best Practices for Security in DevOps - Snyk](https://snyk.io/)
+- [Kubernetes Security Best Practices - Kubernetes Docs](https://kubernetes.io/docs/concepts/security/)
+- [Zero Trust Security for Cloud-Native Environments - Red Hat](https://www.redhat.com/en/topics/security/what-is-zero-trust)
+- [Securing Cloud Workloads with IAM Policies - AWS Docs](https://docs.aws.amazon.com/IAM/)
+- [Infrastructure as Code (IaC) Security Guide - HashiCorp](https://www.hashicorp.com/resources/infrastructure-as-code-security)
+- [Building Resilient and Secure Systems - Google SRE](https://sre.google/sre-book/)
+- [Ensuring Compliance in Cloud Environments - AWS](https://aws.amazon.com/compliance/)
+- [What is Compliance as Code? - HashiCorp](https://www.hashicorp.com/resources/compliance-as-code)
+- [Meeting GDPR and HIPAA in Cloud Applications - Microsoft Azure](https://learn.microsoft.com/en-us/azure/compliance/)
+- [Automating Compliance Checks in CI/CD Pipelines - GitLab Docs](https://docs.gitlab.com/ee/user/compliance/)
+- [ISO 27001 and Cloud Security Compliance - Google Cloud](https://cloud.google.com/security/compliance/iso-27001)
+- [Introduction to Site Reliability Engineering - Google SRE](https://sre.google/introduction/)
+- [SLOs, SLAs, and Error Budgets Explained - Google](https://cloud.google.com/blog/topics/devops/sre/what-are-slos)
+- [Incident Management and Postmortem Practices - PagerDuty](https://www.pagerduty.com/solutions/incident-management/)
+- [Building Highly Available Systems with SRE Principles - ThoughtWorks](https://www.thoughtworks.com/insights/articles/site-reliability-engineering)
+- [Chaos Engineering for Cloud-Native Resilience - Principles of Chaos](https://principlesofchaos.org/)
+- [Using Machine Learning for Threat Detection - Medium](https://towardsdatascience.com/machine-learning-for-cyber-security-9379451a6dee)
+- [Security and Resilience for Multi-Cloud Deployments - Google Cloud](https://cloud.google.com/solutions/multicloud)
+- [Compliance Automation in Multi-Cloud Systems - VMware](https://www.vmware.com/topics/cloud-compliance.html)
+- [Securing Kubernetes with Service Mesh - Istio Docs](https://istio.io/latest/docs/concepts/security/)
+- [Advanced Incident Response Automation - Dynatrace](https://www.dynatrace.com/solutions/incident-management/)
+
+

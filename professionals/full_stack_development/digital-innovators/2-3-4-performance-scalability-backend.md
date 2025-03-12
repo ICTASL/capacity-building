@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-3-4-perfo
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 ## 2.3.4. Performance and Scalability:
 
@@ -163,12 +166,18 @@ While performance optimization focuses on making the system run faster, **scalab
 
     ### Further Reading Links
 
-    - [Designing Data-Intensive Applications by Martin Kleppmann](https://dataintensive.net/)
-    - [The Art of Scalability by Martin L. Abbott and Michael T. Fisher](https://www.amazon.com/Art-Scalability-Scalable-Web-Architecture/dp/0134032802)
-    - [Site Reliability Engineering by Niall Richard Murphy, Betsy Beyer, Chris Jones, and Jennifer Petoff](https://sre.google/sre-book/table-of-contents/)
-    - [Building Microservices by Sam Newman](https://www.oreilly.com/library/view/building-microservices/9781491950340/)
-    - [The Phoenix Project by Gene Kim, Kevin Behr, and George Spafford](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
-    - [Clean Architecture by Robert C. Martin](https://www.oreilly.com/library/view/clean-architecture-a/9780134494272/)
-    - [Kubernetes Up & Running by Kelsey Hightower, Brendan Burns, and Joe Beda](https://www.oreilly.com/library/view/kubernetes-up/9781491935668/)
+  - [Scalability and Performance: The Pillars of Successful Software Architecture](https://appmaster.io/blog/scalability-and-performance-software-architecture)
+- [The Impact of Back-End Development on Website Scalability and Load Balancing](https://moldstud.com/articles/p-the-impact-of-back-end-development-on-website-scalability-and-load-balancing)
+- [Best Practices for Building High-Performance Backend Systems](https://www.agicent.com/blog/best-practices-for-building-high-performance-backend-systems/)
+- [Performance Optimization for Backend Systems](https://web.dev/fast/)
+- [Database Optimization Techniques for Scalability](https://www.sqlshack.com/query-performance-tuning/)
+- [Horizontal vs Vertical Scaling: Key Differences](https://www.scalingtechniques.com/horizontal-vs-vertical-scaling/)
+- [Load Balancing Strategies for Scalable Applications](https://www.nginx.com/resources/glossary/load-balancing/)
+- [Caching Strategies for High-Performance Systems](https://www.varnish-software.com/blog/caching-strategies-for-high-performance-systems/)
+- [Asynchronous Programming for Scalability](https://nodesource.com/blog/mastering-asynchronous-programming-nodejs)
+- [Microservices Architecture for Scalability](https://martinfowler.com/articles/microservices.html)
+- [Serverless Architecture: Scaling Without Servers](https://aws.amazon.com/serverless/)
+- [Monitoring and Profiling for Performance Optimization](https://www.datadoghq.com/blog/monitoring-and-profiling-performance/)
+
 
     These prompts and resources will help you dive deeper into the topics of performance, scalability, and back-end development.

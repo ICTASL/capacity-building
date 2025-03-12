@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/1-4-2-perfo
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 ### 3.2. Performance Profiling and Advanced Testing:
 
@@ -91,20 +94,18 @@ In previous levels, you focused on unit and component testing and incorporating 
 
     To further enhance your skills in performance profiling and advanced testing, consider the following resources:
 
-    1. **Online Courses:**
-        - [Frontend Masters: Debugging and Performance](https://frontendmasters.com/courses/debugging-performance/)
-        - [Udacity: Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)
-        - [Coursera: Web Application Development with JavaScript and MongoDB](https://www.coursera.org/specializations/web-app-development)
+- [Advanced Debugging Techniques for Full Stack Development](https://www.guvi.in/blog/advanced-debugging-techniques/)
+- [Advanced Debugging Techniques for Software Engineers](https://blog.seancoughlin.me/advanced-debugging-techniques-for-software-engineers)
+- [Mastering Debugging: 15 Advanced Techniques](https://dev.to/pakistan-developer-community/mastering-debugging-15-advanced-techniques-to-enhance-your-development-workflow-2fgm)
+- [Automation Engineers: Best Debugging Techniques](https://contextqa.com/industry/debugging-techniques-automation-engineers/)
+- [Automated UI Testing: Definition, Examples, and Best Practices](https://testsigma.com/guides/automated-ui-testing/)
+- [15 Best Automated UI Testing Tools for 2024](https://www.lambdatest.com/blog/top-ui-automated-testing-tools/)
+- [Your Guide to Automated Integration Testing](https://www.qamadness.com/your-guide-to-automated-integration-testing/)
+- [Cypress: JavaScript End-to-End Testing Framework](https://www.cypress.io/)
+- [Selenium: Web Browser Automation](https://www.selenium.dev/)
+- [Performance Profiling with Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+- [Google Lighthouse: Performance and Accessibility Audits](https://developers.google.com/web/tools/lighthouse/)
+- [Web.dev: Performance Optimization Techniques](https://web.dev/fast/)
 
-    2. **Documentation and Tutorials:**
-        - [MDN Web Docs: Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Debugging_HTML)
-        - [Google Developers: Performance Profiling with DevTools](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/)
-        - [Cypress Documentation](https://docs.cypress.io/guides/overview/why-cypress)
-        - [Selenium Documentation](https://www.selenium.dev/documentation/en/)
-
-    3. **Community and Forums:**
-        - [Stack Overflow](https://stackoverflow.com/)
-        - [Reddit: r/webdev](https://www.reddit.com/r/webdev/)
-        - [Dev.to](https://dev.to/)
 
     By exploring these prompts and resources, you'll be well-equipped to tackle advanced debugging, performance profiling, and automated testing challenges in your front-end development projects.

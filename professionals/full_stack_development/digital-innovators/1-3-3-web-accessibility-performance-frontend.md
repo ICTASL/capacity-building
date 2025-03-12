@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/1-3-3-web-a
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ### 2.3. Web Accessibility & Performance:
@@ -107,18 +110,19 @@ To deepen your understanding and explore more advanced topics, consider using th
 
 ### Future Reading Links:
 
-To continue your learning journey, here are some valuable resources:
+- [WCAG 2 Overview | Web Accessibility Initiative (WAI) | W3C](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [Web Content Accessibility Guidelines (WCAG) 2.1 - World Wide Web Consortium](https://www.w3.org/TR/WCAG21/)
+- [A Guide to WCAG | Web Accessibility Guidelines Overview](https://www.wcag.com/resource/what-is-wcag/)
+- [Image Optimization - How to Optimize Images for the Web](https://imagekit.io/guides/image-optimization/)
+- [5 Techniques for Lazy Loading Images to Boost Website Performance](https://www.sitepoint.com/five-techniques-lazy-load-images-website-performance/)
+- [Optimizing Web Performance: Lazy Loading Images and Components](https://dev.to/henriqueschroeder/optimizing-web-performance-lazy-loading-images-and-components-noe)
+- [Jest Tutorial: Complete Guide to Jest Testing](https://www.lambdatest.com/jest)
+- [Writing Front-End Tests with Jest](https://dev.to/asapconet/writing-front-end-test-with-jest-gff)
+- [Jest · Delightful JavaScript Testing](https://jestjs.io/)
+- [CSS Tricks: Accessibility Tips for Better Web Design](https://css-tricks.com/)
+- [Web.dev: Accessibility Audits and Optimization](https://web.dev/accessible/)
+- [Caniuse: Browser Support for Accessibility Features](https://caniuse.com/)
+- [Google Lighthouse: Performance and Accessibility Audits](https://developers.google.com/web/tools/lighthouse/)
 
-1. **Web Accessibility:**
-    - [Web Content Accessibility Guidelines (WCAG) Overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
-    - [Introduction to ARIA (Accessible Rich Internet Applications)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
-
-2. **Performance Optimization:**
-    - [Google Web Fundamentals: Performance](https://developers.google.com/web/fundamentals/performance)
-    - [Image Optimization Techniques](https://web.dev/fast/#optimize-your-images)
-
-3. **Automated Testing:**
-    - [Jest Documentation](https://jestjs.io/docs/getting-started)
-    - [Continuous Integration and Continuous Deployment (CI/CD) with GitHub Actions](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration)
 
 By exploring these prompts and resources, you'll be well-equipped to advance your skills in web accessibility, performance optimization, and automated testing.

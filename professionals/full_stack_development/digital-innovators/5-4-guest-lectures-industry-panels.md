@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/5-4-guest-l
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 ### 5.4. Guest Lectures & Industry Panels:  Hear it Straight from the Tech Pros!
 
@@ -71,13 +74,14 @@ Guest Lectures and Industry Panels are like getting **mentorship and career advi
 
 ### Future Reading Links
 
--   [Benefits of Guest Speakers in the Classroom - Faculty Focus](https://www.facultyfocus.com/articles/teaching-and-learning/benefits-of-guest-speakers-in-the-classroom/) - An article from Faculty Focus discussing the pedagogical benefits of incorporating guest speakers in educational settings.
--   [How to Run a Great Panel Discussion - Harvard Business Review](https://hbr.org/2019/11/how-to-run-a-great-panel-discussion) - A guide from Harvard Business Review on how to effectively organize and moderate panel discussions, relevant for educators and organizers.
--   [Networking for Students: Building Relationships for Career Success - Northeastern University](https://www.northeastern.edu/graduate/blog/networking-for-students/) - An article from Northeastern University offering advice and strategies for students to effectively network for career advancement.
--   [The Importance of Industry-Academia Collaboration - University of Waterloo](https://uwaterloo.ca/professional-development/blog/importance-industry-academia-collaboration) - A blog post from the University of Waterloo discussing the value of collaboration between industry and academia for curriculum relevance and student outcomes.
--   [Tips for Engaging Guest Speakers - Magna Publications](https://www.magnapubs.com/product/tips-for-engaging-guest-speakers/) - A resource from Magna Publications providing practical tips for educators to ensure engaging and effective guest speaker sessions.
--   [Building Your Professional Network - LinkedIn Learning](ttps://www.linkedin.com/learning/topics/building-your-professional-network) - LinkedIn Learning resources focused on professional networking skills, useful for students to prepare for and leverage guest speaker events.
--   [Staying Current in Tech: A Guide for Developers - Stack Overflow Blog](https://stackoverflow.blog/2020/07/08/staying-current-as-a-developer/) - A Stack Overflow blog article offering advice for tech professionals on how to stay up-to-date with the rapidly evolving technology landscape, relevant to the value of industry insights.
--   [The Future of Work in Tech - World Economic Forum](https://www.weforum.org/focus/future-of-work) - World Economic Forum resources and articles discussing future trends and skills needed in the technology-driven job market, providing context for career guidance from guest speakers.
--   [Effective Questioning Techniques in Panel Discussions - The Chronicle of Higher Education](https://www.chronicle.com/blogs/profhacker/effective-questioning-techniques-in-panel-discussions/24394) - An article from The Chronicle of Higher Education providing tips on asking effective questions in panel discussions, beneficial for students preparing for Q&A sessions.
--   [Examples of Industry Panels in Education - YouTube Search](ttps://www.youtube.com/results%3Fsearch_query%3Dindustry%2Bpanels%2Bin%2Beducation) - A YouTube search link to explore various examples of industry panels in education, showcasing different formats and topics. (Note:  Review YouTube results for relevant and high-quality examples to recommend specifically).
+- [Guest Lectures on Emerging Tech Trends - K L University](https://www.kluniversity.in/ecs/guestlec.aspx)
+- [Guest Lectures on IoT and AI - IEEE WF-IoT](https://wfiot2024.iot.ieee.org/content/industry-forum-panels)
+- [Industry Panels on 6G and Beyond - IEEE Globecom](https://globecom2022.ieee-globecom.org/program/industry-panels)
+- [AI and Tech at Davos 2025 - World Economic Forum](https://www.weforum.org/stories/2025/01/industries-in-the-intelligent-age-ai-tech-theme-davos-2025/)
+- [Guest Lecture on Artificial Intelligence - Faculty of Computing](https://foc.kdu.ac.lk/news/the-guest-lecture-artificial-intelligence/)
+- [Industry Panels on Smart Cities and IoT - IEEE WF-IoT](https://wfiot2024.iot.ieee.org/content/industry-forum-panels)
+- [Guest Lectures on Cybersecurity and Cloud - MMCOE](https://mmcoe.edu.in/guest-lectures/)
+- [Case Studies and Panels on Cloud-Native Systems - CNCF](https://www.cncf.io/)
+- [Guest Lectures on Data Science and Machine Learning - ThoughtWorks](https://www.thoughtworks.com/insights)
+- [Industry Panels on AI and Quantum Computing - IEEE](https://www.ieee.org/)
+- [Guest Lectures on Software Development - GitHub Education](https://education.github.com/)

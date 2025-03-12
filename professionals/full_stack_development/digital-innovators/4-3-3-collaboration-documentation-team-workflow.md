@@ -5,6 +5,9 @@ description: "Collaboration: Emphasis on documentation and team workflow practic
 permalink: /professionals\full_stack_development\digital-innovators\/4-3-3-collaboration-documentation-team-workflow/
 lang: en
 ---
+* TOC
+{:toc}
+
 
 
 #### 4.3.3. Collaboration: Emphasis on Documentation and Team Workflow Practices: Working Together Like a DevOps Dream Team!
@@ -83,13 +86,21 @@ That's **4.3.3. Collaboration: Emphasis on Documentation and Team Workflow Pract
 
 ### Future Reading Links
 
--   [Google SRE Book - Documentation Guide](https://sre.google/sre-book/documentation/) - Chapter from the Google SRE Book focusing on the principles and practices of effective documentation in a Site Reliability Engineering context.
--   [Atlassian Playbook - Runbooks](https://www.atlassian.com/team-playbooks/plays/runbooks) - Atlassian's Playbook on Runbooks, providing guidance on creating and using runbooks for operational procedures and incident response.
--   [DevOps.com - The Importance of Documentation in DevOps](https://devops.com/the-importance-of-documentation-in-devops/) - Article discussing the crucial role of documentation in DevOps and its benefits.
--   [PagerDuty - Incident Response Documentation](https://www.pagerduty.com/incident-response-documentation/) - PagerDuty's resources on incident response documentation, including templates and best practices for incident postmortems.
--   [Blameless PostMortems - Etsy Code as Craft](https://codeascraft.com/2012/06/21/blameless-postmortems/) - Classic article from Etsy on the principles and benefits of blameless postmortem culture for learning from incidents.
--   [The Phoenix Project (Book) - by Gene Kim, Kevin Behr, and George Spafford](https://itrevolution.com/the-phoenix-project/) - A fictional novel that highlights the importance of collaboration, communication, and workflow improvements in a DevOps transformation journey.
--   [Team Topologies: Organizing Business and Technology Teams for Fast Flow (Book) - by Matthew Skelton and Manuel Pais](https://teamtopologies.com/) - Book exploring different team topologies and organizational structures that promote effective team collaboration and flow in software delivery.
--   [The DevOps Handbook (Book) - Collaboration and Communication Chapters](https://itrevolution.com/the-devops-handbook/) - Chapters in The DevOps Handbook focusing on collaboration, communication, and shared understanding as core DevOps principles.
--   [MindTools - Collaborative Problem Solving](https://www.mindtools.com/aqhps2q/collaborative-problem-solving) - MindTools resource on collaborative problem-solving techniques, applicable to DevOps troubleshooting and team collaboration.
--   [DevOps Institute - DevOps Team Skills](https://devopsinstitute.com/certifications/devops-team-skills-dstc/) - Information on DevOps team skills and competencies, including collaboration and communication aspects, from the DevOps Institute.
+- [Best Practices for Writing DevOps Documentation - Atlassian](https://www.atlassian.com/software/confluence/devops-documentation)
+- [How to Write Effective Software Documentation - GitLab](https://about.gitlab.com/handbook/engineering/workflow/documentation/)
+- [API Documentation Guide: Tools and Techniques](https://swagger.io/resources/articles/best-practices-in-api-documentation/)
+- [Confluence: The Ultimate Guide to Team Documentation](https://www.atlassian.com/software/confluence/guides/get-started)
+- [Markdown for DevOps Documentation - A Quick Guide](https://www.markdownguide.org/)
+- [Effective Team Collaboration in DevOps - Microsoft Azure DevOps](https://learn.microsoft.com/en-us/devops/)
+- [Version Control and Workflow Best Practices - GitHub Docs](https://docs.github.com/en/get-started)
+- [DevOps Team Workflows: Git Flow vs Trunk-Based Development](https://trunkbaseddevelopment.com/)
+- [Building a GitOps Workflow - Weaveworks](https://www.weave.works/technologies/gitops/)
+- [Agile and DevOps: Bridging Team Collaboration](https://www.atlassian.com/agile/devops)
+- [Slack for DevOps Teams - Collaboration Simplified](https://slack.com/)
+- [Jira for DevOps Task Management](https://www.atlassian.com/software/jira)
+- [Using Trello to Manage DevOps Workflows](https://trello.com/)
+- [Integrating GitHub Actions with Slack for Notifications](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
+- [Blameless Postmortems: Learning from Incidents - Google SRE](https://sre.google/sre-book/postmortem-culture/)
+- [Collaboration in Large Teams: Managing Complexity](https://about.gitlab.com/blog/team-collaboration/)
+- [Effective Knowledge Sharing in DevOps Teams](https://docs.microsoft.com/en-us/learn/devops/collaborate-share-knowledge)
+- [Automating Collaboration Workflows - Jenkins and Slack](https://www.jenkins.io/doc/book/pipeline/slack-notifications/)

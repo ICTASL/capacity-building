@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-2-5-soft-
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 ### 2.2.5. Soft Skill: Emphasis on Code Review and Documentation:
 
@@ -86,9 +89,17 @@ While technical skills are paramount in back-end development, **soft skills** li
 
     ### Future Reading Links:
 
-    - [The Importance of Code Reviews](https://www.atlassian.com/agile/software-development/code-reviews)
-    - [Best Practices for Writing API Documentation](https://swagger.io/resources/articles/best-practices-in-api-documentation/)
-    - [Effective Code Review Techniques](https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/)
-    - [How to Write Good Documentation](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
-    - [Reducing Technical Debt](https://martinfowler.com/bliki/TechnicalDebt.html)
-    - [Mentoring Junior Developers](https://www.pluralsight.com/blog/software-development/mentoring-junior-developers)
+- [Code Review Best Practices - GitHub Blog](https://github.blog/2019-10-10-code-review-best-practices/)
+- [A Guide to Code Review - Google Engineering Practices](https://google.github.io/eng-practices/review/)
+- [Code Review Etiquette: Dos and Don’ts](https://smartbear.com/blog/code-review-best-practices/)
+- [Effective Code Reviews for Better Code Quality](https://www.perforce.com/blog/qac/code-review-process)
+- [Introduction to Code Review - Atlassian](https://www.atlassian.com/engineering/code-review)
+- [The Beginner's Guide to Writing Documentation - GitHub Guides](https://github.com/matiassingers/awesome-readme)
+- [Write the Docs: Documentation Best Practices](https://www.writethedocs.org/guide/)
+- [Software Documentation Tips and Tricks - Better Programming](https://medium.com/better-programming/software-documentation-tips-and-tricks-f2a6b2bfc981)
+- [Creating Maintainable Software Documentation](https://opensource.com/article/20/1/create-maintainable-docs)
+- [Code Comments Best Practices](https://www.welcometothejungle.com/en/articles/how-to-code-comment-best-practices)
+- [How to Write Great Documentation for Your API](https://idratherbewriting.com/learnapidoc/)
+- [Technical Documentation for Beginners](https://www.w3schools.com/whatis/whatis_technical_documentation.asp)
+- [Code Review Tools and Tips](https://bitbucket.org/product/guides/code-review)
+- [Collaborative Documentation Strategies](https://docs.microsoft.com/en-us/learn/modules/write-documentation-markdown/)

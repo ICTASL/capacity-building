@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/3-2-beginne
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ## 3.2. Beginner Level: Database Technologies - Your Foundation for Data Management!
@@ -76,8 +79,15 @@ In this Beginner Level, we'll break down database technologies into manageable m
 
 ### Future Reading Links
 
-- [SQL Tutorial - W3Schools](https://www.w3schools.com/sql/)
-- [Database Design - Wikipedia](https://en.wikipedia.org/wiki/Database_design)
-- [Introduction to NoSQL - MongoDB](https://www.mongodb.com/nosql-explained)
-- [Database Normalization - Tutorialspoint](https://www.tutorialspoint.com/dbms/database_normalization.htm)
-- [SQL Indexing and Performance Tuning - GeeksforGeeks](https://www.geeksforgeeks.org/sql-indexes-and-performance-tuning/)
+- [SQL for Beginners: A Step-by-Step Guide](https://www.datacamp.com/learn/sql-for-beginners)
+- [Introduction to Database Management Systems (DBMS) - TutorialsPoint](https://www.tutorialspoint.com/dbms/index.htm)
+- [PostgreSQL Tutorial: Getting Started](https://www.postgresql.org/docs/current/tutorial.html)
+- [Beginner’s Guide to NoSQL - MongoDB](https://www.mongodb.com/nosql-explained)
+- [Database Basics: Tables, Keys, and Relationships](https://www.geeksforgeeks.org/database-keys-candidate-super-primary-alternate-and-foreign/)
+- [Introduction to SQL Joins - Codecademy](https://www.codecademy.com/learn/sql-table-transformation)
+- [Database Normalization Basics - Guru99](https://www.guru99.com/database-normalization.html)
+- [How to Use SQLite for Beginners](https://www.sqlitetutorial.net/)
+- [Introduction to Relational Databases - Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
+- [SQL Query Optimization Tips and Tricks](https://towardsdatascience.com/sql-query-optimization-tips-9dcb3b542749)
+- [Step-by-Step Guide to Creating a Simple Database](https://www.digitalocean.com/community/tutorials/how-to-create-a-database)
+- [Learn MongoDB: Basics and CRUD Operations](https://university.mongodb.com/)

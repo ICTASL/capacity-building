@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/1-3-interme
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ## 1.3. Intermediate Level: Front-end Design and Development - Stepping Up Your Web Skills!
@@ -90,11 +93,10 @@ Welcome to the **Intermediate Level of Front-end Design and Development**! Congr
 
     ### Future Reading Links
 
-    - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-    - [JavaScript.info - The Modern JavaScript Tutorial](https://javascript.info/)
-    - [React Official Documentation](https://reactjs.org/docs/getting-started.html)
-    - [Vue.js Guide](https://vuejs.org/v2/guide/)
-    - [Angular Documentation](https://angular.io/docs)
-    - [Git Documentation](https://git-scm.com/doc)
-    - [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/)
-    - [Google Web Fundamentals](https://developers.google.com/web/fundamentals)
+- [Intermediate Web and Front-End Development - Coursera](https://www.coursera.org/learn/intermediate-web-and-front-end-development)
+- [Front-End Developer Learning Paths: Courses and Resources by Skill Level](https://www.coursera.org/career-academy/roles/front-end-developer)
+- [GitHub - IBM Intermediate Web Development](https://github.com/bbauska/ibm-intermediate-web-dev)
+- [CSS-Tricks: Advanced CSS Techniques](https://css-tricks.com/)
+- [Smashing Magazine: Advanced Responsive Web Design](https://www.smashingmagazine.com/)
+- [Mozilla Developer Network (MDN): Intermediate Front-End Development](https://developer.mozilla.org/en-US/)
+- [Frontend Masters: Intermediate Front-End Development](https://frontendmasters.com/)

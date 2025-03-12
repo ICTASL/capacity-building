@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-2-beginne
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ## 2.2. Beginner Level: Back-end Design and Development - Building Your Server-Side Foundation!
@@ -76,12 +79,17 @@ In this Beginner Level, we'll break down back-end development into essential mod
 
     To further enhance your understanding and skills in back-end development, here are some recommended readings:
 
-    1. [MDN Web Docs: Server-side website programming](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
-    2. [Node.js Official Documentation](https://nodejs.org/en/docs/)
-    3. [Python Official Documentation](https://docs.python.org/3/)
-    4. [RESTful API Design: Best Practices](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
-    5. [Introduction to Databases](https://www.w3schools.com/sql/sql_intro.asp)
-    6. [Express.js Guide: The Comprehensive Book on Express.js](https://expressjs.com/en/starter/guide.html)
-    7. [Flask Documentation (Python)](https://flask.palletsprojects.com/en/2.0.x/)
+- [What Is Back-End Development? - freeCodeCamp](https://www.freecodecamp.org/news/what-is-backend-development/)
+- [Node.js Official Documentation](https://nodejs.org/en/docs/)
+- [Express.js Getting Started Guide](https://expressjs.com/en/starter/installing.html)
+- [Flask Quickstart Tutorial](https://flask.palletsprojects.com/en/2.2.x/quickstart/)
+- [Django Official Documentation: Introduction](https://docs.djangoproject.com/en/stable/intro/)
+- [Ruby on Rails Guides](https://guides.rubyonrails.org/)
+- [PHP: The Right Way](https://phptherightway.com/)
+- [Introduction to SQL with W3Schools](https://www.w3schools.com/sql/)
+- [MongoDB University: Learn the Basics](https://university.mongodb.com/)
+- [DigitalOcean Community Tutorials](https://www.digitalocean.com/community/tutorials)
+- [What is Back-End Development? - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-back-end-development/)
+
 
     These resources will provide you with a deeper understanding of back-end development concepts and practical examples to enhance your learning journey.

@@ -5,6 +5,9 @@ description: "Infrastructure as Code "
 permalink: /professionals\full_stack_development\digital-innovators\/4-3-2-infrastructure-as-code-automated-deployments/
 lang: en
 ---
+* TOC
+{:toc}
+
 
 
 
@@ -134,13 +137,20 @@ That's **4.3.2. Infrastructure as Code & Automated Deployments!** You're now aut
 
 ### Future Reading Links
 
--   [Terraform Documentation - Get Started](https://developer.hashicorp.com/terraform/language) - Official Terraform documentation to get started with infrastructure provisioning using Terraform.
--   [Ansible Documentation - Getting Started](https://docs.ansible.com/ansible/latest/getting_started/index.html) - Official Ansible documentation for learning configuration management and automation with Ansible.
--   [Infrastructure as Code: Managing Servers In The Cloud (Book)](https://www.oreilly.com/library/view/infrastructure-as-code/9781119767479/) - A book providing a comprehensive guide to Infrastructure as Code principles and practices.
--   [Effective DevOps with Terraform (Book)](https://www.oreilly.com/library/view/effective-devops-with/9781098124358/) - A book focused on applying Terraform in real-world DevOps scenarios and best practices.
--   [Ansible for DevOps (Book) - by Jeff Geerling](https://www.ansiblefordevops.com/) - A practical guide to using Ansible for automating DevOps tasks and infrastructure management.
--   [Jenkins Documentation](https://www.jenkins.io/doc/) - Official documentation for Jenkins, covering setup, pipeline creation, and plugin usage.
--   [GitLab CI/CD Documentation](https://docs.gitlab.com/ee/ci/index.html) - Official documentation for GitLab CI/CD, detailing pipeline configuration, workflows, and integrations.
--   [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Book)](https://martinfowler.com/books/continuousDelivery.html) - A foundational book on Continuous Delivery principles and practices, covering CI/CD pipeline design and automation.
--   [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations (Book)](https://itrevolution.com/the-devops-handbook/) - A comprehensive guide to DevOps principles, practices, and cultural transformations, including IaC and CI/CD.
--   [AWS Well-Architected Framework - Infrastructure as Code Lens](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-51/lenses/Infrastructure-as-Code.en.html) - AWS guidance on implementing Infrastructure as Code within the AWS cloud environment, focusing on best practices and architectural considerations.
+
+- [What is Infrastructure as Code (IaC)? - HashiCorp](https://www.hashicorp.com/resources/infrastructure-as-code)
+- [Getting Started with Infrastructure as Code - Red Hat](https://www.redhat.com/en/topics/automation/what-is-infrastructure-as-code)
+- [Infrastructure as Code Explained - AWS](https://aws.amazon.com/devops/infrastructure-as-code/)
+- [Terraform Documentation - HashiCorp](https://developer.hashicorp.com/terraform/docs)
+- [Introduction to AWS CloudFormation](https://aws.amazon.com/cloudformation/)
+- [Azure Resource Manager Templates - Microsoft Docs](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/)
+- [Google Cloud Deployment Manager](https://cloud.google.com/deployment-manager/docs)
+- [Automating Infrastructure with Ansible - Ansible Docs](https://docs.ansible.com/)
+- [Chef and Puppet for Configuration Management](https://puppet.com/blog/configuration-management-terraform-chef-puppet-overview/)
+- [Automating Deployments with Jenkins Pipelines](https://www.jenkins.io/doc/pipeline/)
+- [Versioning Infrastructure with GitOps - Weaveworks](https://www.weave.works/technologies/gitops/)
+- [IaC Testing and Validation Best Practices](https://www.thoughtworks.com/insights/articles/testing-infrastructure-code)
+- [Security in IaC: Best Practices](https://snyk.io/blog/infrastructure-as-code-security/)
+- [Building Scalable Infrastructure with Terraform Modules](https://developer.hashicorp.com/terraform/docs/language/modules/develop)
+- [Infrastructure Monitoring with Prometheus and Grafana](https://prometheus.io/docs/introduction/overview/)
+- [IaC and Continuous Monitoring Tools](https://www.datadoghq.com/)

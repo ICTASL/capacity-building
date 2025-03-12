@@ -5,6 +5,9 @@ description: "Basic Security, Logging "
 permalink: /professionals\full_stack_development\digital-innovators\/2-2-4-basic-security-logging-monitoring-backend/
 lang: en
 ---
+* TOC
+{:toc}
+
 
 
 ### 2.2.4. Basic Security, Logging & Monitoring:
@@ -116,14 +119,20 @@ Logging and monitoring are not just for debugging; they are also essential for *
 
     To further expand your knowledge, consider exploring the following resources:
 
-    - [OWASP Top Ten Security Risks](https://owasp.org/www-project-top-ten/)
-    - [Mozilla Developer Network (MDN) Web Security](https://developer.mozilla.org/en-US/docs/Web/Security)
-    - [Let's Encrypt - Free SSL/TLS Certificates](https://letsencrypt.org/)
-    - [Express.js Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
-    - [Prometheus Monitoring](https://prometheus.io/docs/introduction/overview/)
-    - [Grafana Documentation](https://grafana.com/docs/)
-    - [Kubernetes Security Best Practices](https://kubernetes.io/docs/concepts/security/overview/)
-    - [Nginx HTTPS Configuration](https://docs.nginx.com/nginx/admin-guide/security-controls/securing-http-traffic-upstream/)
-    - [Google Cloud Logging](https://cloud.google.com/logging/docs)
+- [Introduction to Backend Security - DEV Community](https://dev.to/fonyuygita/introduction-to-backend-security-5dlp)
+- [OWASP Secure Coding Practices - Quick Reference Guide](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/)
+- [Understanding Input Validation Best Practices](https://cheatsheetseries.owasp.org/cheatsheets/Input_Validation_Cheat_Sheet.html)
+- [What is HTTPS and Why is it Important?](https://www.cloudflare.com/learning/ssl/what-is-https/)
+- [The Beginner’s Guide to Logging in Node.js](https://www.loggly.com/ultimate-guide/node-logging-basics/)
+- [API Monitoring and Logging for Beginners](https://www.datadoghq.com/blog/api-monitoring-and-logging-best-practices/)
+- [Top Logging Practices for Developers](https://www.stackify.com/why-logging-is-important/)
+- [Monitoring and Logging Best Practices - DigitalOcean](https://www.digitalocean.com/community/tutorials/monitoring-and-logging-best-practices)
+- [Logging in Express.js Applications](https://www.toptal.com/nodejs/node-js-logging)
+- [Google Cloud Logging Basics](https://cloud.google.com/logging/docs)
+- [Structured Logging: What It Is and Why You Need It](https://coralogix.com/blog/structured-logging/)
+- [Monitoring Tools: An Overview](https://www.solarwinds.com/solutions/logging-and-monitoring)
+- [Introduction to Observability: The Basics of Monitoring and Logging](https://www.grafana.com/learn/tutorials/introduction-to-observability/)
+
+
 
     These prompts and resources will help you gain a deeper understanding of the topics covered and explore additional areas of interest in security, logging, and monitoring.

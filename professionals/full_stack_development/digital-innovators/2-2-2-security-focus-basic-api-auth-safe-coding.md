@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-2-2-secur
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 ### 2.2.2. Security Focus: Basic API Authentication and Safe Coding Practices:
 
@@ -110,25 +113,19 @@ Even at the beginner level, it's crucial to start thinking about **security** in
 
         ### Future Readings:
 
-        1. **[OAuth 2.0 Simplified](https://oauth.net/2/) by Aaron Parecki**
-            - A comprehensive guide to understanding and implementing OAuth 2.0.
+- [10 API Authentication Best Practices for Securing APIs](https://apidog.com/blog/api-authentication-best-practices/)
+- [What Is API Authentication? Benefits, Methods & Best Practices](https://www.postman.com/api-platform/api-authentication/)
+- [API Keys: API Authentication Methods & Examples](https://blog.stoplight.io/api-keys-best-practices-to-authenticate-apis)
+- [10 Best Practices for Secure Back-End Development](https://moldstud.com/articles/p-10-best-practices-for-secure-back-end-development)
+- [10 Secure Coding Best Practices for Developers [2024]](^6^)
+- [Best Practices in Backend Security - CodingDrills](https://www.codingdrills.com/tutorial/backend-development-tutorial/best-practices-in-backend-security)
+- [OWASP Secure Coding Practices - Quick Reference Guide](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/)
+- [REST API Security Essentials](https://restfulapi.net/security-essentials/)
+- [Authentication and Authorization for APIs](https://auth0.com/docs/get-started/authentication-and-authorization)
+- [Top 10 API Security Tips](https://www.apisecurity.io/)
+- [How to Secure APIs: Best Practices](https://www.freecodecamp.org/news/how-to-secure-apis-best-practices/)
+- [API Security Best Practices](https://nordicapis.com/api-security-best-practices/)
 
-        2. **[JWT Handbook](https://auth0.com/resources/ebooks/jwt-handbook) by Auth0**
-            - A detailed resource on JSON Web Tokens, their use cases, and implementation.
 
-        3. **[Web Security for Developers](https://www.manning.com/books/web-security-for-developers) by Malcolm McDonald**
-            - Covers various web security topics, including input validation and secure coding practices.
 
-        4. **[API Security in Action](https://www.manning.com/books/api-security-in-action) by Neil Madden**
-            - Practical advice and examples on securing APIs, including authentication, authorization, and encryption.
-
-        5. **[The Tangled Web: A Guide to Securing Modern Web Applications](https://nostarch.com/tangledweb) by Michal Zalewski**
-            - Explores web application security, including common vulnerabilities and defenses.
-
-        6. **[Security Engineering: A Guide to Building Dependable Distributed Systems](https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642787) by Ross Anderson**
-            - A comprehensive resource on security engineering principles and practices.
-
-        7. **[The Web Application Hacker's Handbook](https://www.wiley.com/en-us/The+Web+Application+Hacker%27s+Handbook%3A+Finding+and+Exploiting+Security+Flaws%2C+2nd+Edition-p-9781118026472) by Dafydd Stuttard and Marcus Pinto**
-            - A detailed guide on finding and exploiting security flaws in web applications.
-
-        These prompts and readings will help you deepen your understanding of API security and safe coding practices as you advance in your development journey.
+These prompts and readings will help you deepen your understanding of API security and safe coding practices as you advance in your development journey.

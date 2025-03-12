@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/4-2-1-versi
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 #### 4.2.1. Version Control & System Administration:  The Essential Toolkit!
 
@@ -131,10 +134,22 @@ That completes **4.2.1. Version Control & System Administration!** You've now bu
 
 ### Future Reading Links
 
-- [Pro Git Book](https://git-scm.com/book/en/v2)
-- [Linux Command Line and Shell Scripting Bible](https://www.wiley.com/en-us/Linux+Command+Line+and+Shell+Scripting+Bible%2C+3rd+Edition-p-9781118983843)
-- [The DevOps Handbook](https://itrevolution.com/book/the-devops-handbook/)
-- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
-- [Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale](https://www.oreilly.com/library/view/effective-devops/9781491926291/)
+- [What is Version Control? An Introduction - Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [Beginner's Guide to Git - Git Documentation](https://git-scm.com/doc)
+- [Understanding Branching and Merging in Git](https://learngitbranching.js.org/)
+- [Top Git Commands Every Developer Should Know - DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-git-commands)
+- [Introduction to GitHub for Version Control](https://docs.github.com/en/get-started)
+- [Version Control Systems (VCS) Explained - GitKraken](https://www.gitkraken.com/learn/version-control)
+- [Git Workflow Best Practices - GitLab Docs](https://docs.gitlab.com/ee/topics/git-workflow/)
+- [Introduction to System Administration - Red Hat](https://www.redhat.com/en/topics/system-administration)
+- [Linux System Administration Basics - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-linux-system-administration/)
+- [Essential System Administration Skills - Linux.com](https://www.linux.com/training-tutorials/beginning-system-administration-linux/)
+- [Managing Users and Permissions in Linux - TutorialsPoint](https://www.tutorialspoint.com/linux-user-administration)
+- [Automating System Administration Tasks with Ansible](https://docs.ansible.com/)
+- [Monitoring System Health with Prometheus](https://prometheus.io/docs/introduction/overview/)
+- [Crash Course on Shell Scripting for System Admins - Dev.to](https://dev.to/)
+- [Using Git for System Configuration Management](https://www.atlassian.com/git/articles/git-system-configuration-management)
+- [Version Control in DevOps Pipelines](https://www.redhat.com/en/topics/devops/devops-pipeline-version-control)
+- [Infrastructure as Code with GitOps - Weaveworks](https://www.weave.works/technologies/gitops/)
 
 These prompts and resources will help you deepen your understanding and skills in version control, system administration, and DevOps practices.

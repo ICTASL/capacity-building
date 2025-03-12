@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/3-4-2-newsq
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 ### 3.4.2. NewSQL and Big Data Technologies:  Databases of Tomorrow, Today!
 

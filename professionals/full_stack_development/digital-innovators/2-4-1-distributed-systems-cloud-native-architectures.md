@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-4-1-distr
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ### 2.4.1. Distributed Systems & Cloud Native Architectures:  Let's Build BIG and SMART!
@@ -180,10 +183,18 @@ These are powerful, advanced patterns used in complex, modern back-end systems. 
 
 ### Future Reading Links
 
-- [Microservices Patterns: With examples in Java](https://www.amazon.com/Microservices-Patterns-examples-Chris-Richardson/dp/1617294543)
-- [Kubernetes Up & Running: Dive into the Future of Infrastructure](https://www.amazon.com/Kubernetes-Up-Running-Dive-Future-Infrastructure/dp/1492046531)
-- [Building Event-Driven Microservices: Leveraging Organizational Data at Scale](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057895)
-- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-- [Serverless Architectures on AWS: With examples using AWS Lambda](https://www.amazon.com/Serverless-Architectures-AWS-examples-Lambda/dp/1617293822)
+- [5 Principles for Cloud-Native Architecture](https://cloud.google.com/blog/products/application-development/5-principles-for-cloud-native-architecture-what-it-is-and-how-to-master-it)
+- [What Are Distributed Architectures: Types & Key Components](https://estuary.dev/blog/distributed-architecture/)
+- [Cloud-Native Architecture for Distributed Systems](https://link.springer.com/chapter/10.1007/978-3-031-47372-2_26)
+- [Event-Driven Architecture, Event Sourcing, and CQRS: How They Work Together](https://dev.to/yasmine_ddec94f4d4/event-driven-architecture-event-sourcing-and-cqrs-how-they-work-together-1bp1)
+- [The Ultimate Guide to Event-Driven Architecture Patterns](https://solace.com/event-driven-architecture-patterns/)
+- [Event Sourcing and CQRS: Implementing Event-Driven Design](https://www.momentslog.com/development/architecture/event-sourcing-and-cqrs-implementing-event-driven-design-in-architecture)
+- [Microservices Patterns: Event-Driven Architectures](https://microservices.io/patterns/index.html)
+- [Apache Kafka: Event Streaming for Distributed Systems](https://kafka.apache.org/documentation/)
+- [CQRS and Event Sourcing: A Practical Guide](https://martinfowler.com/bliki/CQRS.html)
+- [Building Event-Driven Microservices with RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
+- [Event-Driven Architecture: Best Practices](https://aws.amazon.com/event-driven-architecture/)
+- [Designing Distributed Systems with Azure](https://learn.microsoft.com/en-us/azure/architecture/distributed-systems/)
+
 
 These resources will provide you with a deeper understanding and practical insights into distributed systems, cloud-native architectures, and related advanced topics.

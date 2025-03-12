@@ -80,3 +80,32 @@ Remember, the most successful freelancers are **lifelong learners.**  The tech w
 You now have the **knowledge, tools, and a roadmap** to launch your freelance career.  It won't happen overnight, but with **consistent effort, a learning mindset, and proactive action**, you *can* build a successful and rewarding freelance business using your tech skills.
 
 **We believe in you!**  Go out there, take action, and start building your freelance future, right here from Sri Lanka, to the world!  Good luck on your exciting journey!
+
+### **GPT Prompts**
+
+1. "Summarize the key steps in launching a freelance career for technology undergraduates."
+2. "Generate an action plan for beginners transitioning from learning to freelancing."
+3. "Write a motivational conclusion for a workshop guiding attendees to take the next step into freelancing."
+4. "List strategies for sustaining lifelong learning and skill development as a freelancer."
+5. "Describe how freelancers can reflect on their growth and set future goals after completing a workshop."
+6. "Generate a step-by-step guide for setting realistic freelance milestones for the next 6 months."
+7. "Draft a checklist for turning freelance learning into actionable steps immediately."
+8. "Explain why ongoing learning is crucial for adapting to the ever-changing freelance market."
+9. "Write tips for maintaining momentum and confidence as freelancers face their first challenges."
+10. "Develop a structure for a recap presentation summarizing the foundational topics covered in a freelancing workshop."
+
+
+### **Future Reading Links**
+
+- [Freelancing Success Tips for Beginners - Upwork Blog](https://www.upwork.com/resources/)
+- [Actionable Steps to Start Freelancing - Fiverr Resources](https://www.fiverr.com/resources/)
+- [Setting Career Goals as a Freelancer - Medium](https://medium.com/)
+- [The Importance of Lifelong Learning in Freelancing - LinkedIn Learning](https://www.linkedin.com/learning/)
+- [How to Set Realistic Freelance Milestones - HubSpot Blog](https://blog.hubspot.com/)
+- [The Power of Lifelong Learning in the Gig Economy - Forbes](https://www.forbes.com/)
+- [Reflecting and Adapting After Freelance Workshops - Toptal Insights](https://www.toptal.com/)
+- [Staying Motivated in Freelancing - Freelancers Union](https://www.freelancersunion.org/)
+- [Overcoming Challenges in Freelancing - Entrepreneur](https://www.entrepreneur.com/)
+- [Building Momentum in the Early Stages of Freelancing - CareerFoundry](https://careerfoundry.com/)
+- [How to Turn Learning into Action - Productivity Tips - Lifehack](https://www.lifehack.org/)
+- [Freelancing in a Changing Market - Adaptation Strategies - Hootsuite Blog](https://blog.hootsuite.com/)

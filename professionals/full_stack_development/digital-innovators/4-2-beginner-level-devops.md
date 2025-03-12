@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/4-2-beginne
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 ## 4.2. Beginner Level: DevOps and Operations -  Your First Steps Towards Automated Software Delivery!
 
@@ -83,12 +86,17 @@ In this Beginner Level, we'll break down DevOps and Operations into manageable m
 
     ### Future Reading Links
 
-    - [Terraform Documentation](https://www.terraform.io/docs/index.html)
-    - [AWS CloudFormation Documentation](https://docs.aws.amazon.com/cloudformation/index.html)
-    - [Ansible Documentation](https://docs.ansible.com/)
-    - [Chef Documentation](https://docs.chef.io/)
-    - [Puppet Documentation](https://puppet.com/docs/puppet/latest/puppet_index.html)
-    - [Git Documentation](https://git-scm.com/doc)
-    - [DevOps Handbook](https://itrevolution.com/the-devops-handbook/)
-    - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
-    - [Site Reliability Engineering (SRE) Book](https://sre.google/sre-book/table-of-contents/)
+- [What is DevOps? A Beginner’s Guide - Red Hat](https://www.redhat.com/en/topics/devops/what-is-devops)
+- [Introduction to Continuous Integration and Continuous Deployment (CI/CD) - Atlassian](https://www.atlassian.com/continuous-delivery/ci-vs-cd)
+- [Getting Started with Docker: A Beginner’s Guide](https://www.docker.com/resources/what-container/)
+- [Infrastructure as Code: An Introduction - HashiCorp](https://www.hashicorp.com/resources/infrastructure-as-code)
+- [Understanding Kubernetes for Beginners - Kubernetes Docs](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+- [What is Git and How to Use It - Git Basics](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
+- [Monitoring Basics: Tools and Techniques - Datadog](https://www.datadoghq.com/learn/)
+- [Top DevOps Tools for Beginners - DigitalOcean](https://www.digitalocean.com/community/tutorials/what-is-devops-tools)
+- [DevSecOps: Security in DevOps - IBM](https://www.ibm.com/cloud/learn/devsecops)
+- [How to Build a Simple DevOps Pipeline - AWS](https://aws.amazon.com/devops/)
+- [What is Site Reliability Engineering (SRE)? - Google Cloud](https://cloud.google.com/blog/topics/devops/sre/what-site-reliability-engineering-sre)
+- [Ansible Basics: Automating Tasks - Ansible Docs](https://docs.ansible.com/)
+- [Version Control Systems: What Every Beginner Should Know - Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control)
+

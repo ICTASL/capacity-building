@@ -58,4 +58,31 @@ Clearly articulate this connection between learning level and income progression
 * **Providing Guided Motivation:**  Using the roadmap analogy for a structured, goal-oriented approach.
 * **Emphasizing Future Value:**  Reinforcing freelancing as a skill-building opportunity for future careers.
 
----
+
+### **GPT Prompts**
+
+1. "Create a beginner's roadmap for entering the freelance world as a software developer."
+2. "Generate a list of skills that build incrementally from beginner to advanced in freelancing."
+3. "Explain how technology undergraduates in Sri Lanka can start freelancing as a side hustle."
+4. "Draft an outline for a freelancing workshop targeted at intermediate-level freelancers."
+5. "Write tips for transitioning from a part-time freelancer to a full-time freelancer."
+6. "Suggest strategies to develop valuable, future-proof freelancing skills."
+7. "Provide step-by-step guidance for scaling freelance income over time."
+8. "Explain the importance of setting milestones in the freelancing journey."
+9. "List online courses that help in progressing from beginner to advanced freelance levels."
+10. "Compare freelance platforms for beginner, intermediate, and advanced professionals."
+
+
+### **Future Reading Links**
+
+- [Beginners Guide to Freelancing - Fiverr Learn](https://learn.fiverr.com/)
+- [How to Build a Freelancing Career - Upwork Blog](https://www.upwork.com/resources/)
+- [Freelance Success Stories for Motivation - Medium](https://medium.com/topic/freelancing)
+- [Skills Every Freelancer Needs to Succeed - HubSpot Blog](https://blog.hubspot.com/)
+- [The Gig Economy Explained - Forbes](https://www.forbes.com/sites/gigeconomy/)
+- [Guide to Setting Freelance Milestones - Freelancers Union](https://www.freelancersunion.org/)
+- [How to Price Your Freelance Services - Toptal Blog](https://www.toptal.com/)
+- [Courses on Skill Development for Freelancers - Coursera](https://www.coursera.org/)
+- [Scaling Freelance Work into a Career - LinkedIn Learning](https://www.linkedin.com/learning/)
+- [Freelance Platforms Comparison - NerdWallet](https://www.nerdwallet.com/)
+- [Developing Future-Proof Freelance Skills - Skillshare](https://www.skillshare.com/)

@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/1-4-advance
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ## 1.4. Advanced Level: Front-end Design and Development - Becoming a Front-end Mastery!

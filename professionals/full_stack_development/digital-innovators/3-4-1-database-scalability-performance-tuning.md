@@ -5,6 +5,9 @@ description: "Database Scalability "
 permalink: /professionals\full_stack_development\digital-innovators\/3-4-1-database-scalability-performance-tuning/
 lang: en
 ---
+* TOC
+{:toc}
+
 
 
 #### 3.4.1. Database Scalability & Performance Tuning:  Handling the Data Deluge!
@@ -138,9 +141,16 @@ That's **3.4.1. Database Scalability & Performance Tuning!** You've now got a so
 
 ### Future Reading Links
 
-1. [Database Sharding: Concepts & Examples](https://www.digitalocean.com/community/tutorials/database-sharding-explained)
-2. [Master-Slave Replication in MySQL](https://dev.mysql.com/doc/refman/8.0/en/replication.html)
-3. [Distributed Databases: An Overview](https://www.ibm.com/cloud/learn/distributed-databases)
-4. [CAP Theorem: Understanding Consistency, Availability, and Partition Tolerance](https://www.geeksforgeeks.org/cap-theorem-in-distributed-systems/)
-5. [NoSQL Databases: A Comprehensive Guide](https://www.mongodb.com/nosql-explained)
-6. [Database Performance Tuning: Best Practices](https://www.red-gate.com/simple-talk/sql/performance/sql-server-performance-tuning-ultimate-guide/)
+- [Improving Database Performance: The Ultimate Guide](https://www.percona.com/blog/ultimate-guide-to-improving-database-performance/)
+- [Database Performance Tuning Techniques](https://releem.com/blog/database-performance-tuning-techniques)
+- [Database Performance Tuning - Dremio](https://www.dremio.com/wiki/database-performance-tuning/)
+- [Sharding for Distributed Databases - MongoDB Docs](https://www.mongodb.com/docs/manual/sharding/)
+- [Database Partitioning Techniques for Scalability](https://www.sqlshack.com/database-partitioning-introduction/)
+- [High-Performance Database Design - DigitalOcean](https://www.digitalocean.com/community/tutorials/high-performance-database-design)
+- [Advanced Database Indexing Techniques](https://use-the-index-luke.com/)
+- [CAP Theorem and Its Implications for Scalability](https://medium.com/distributed-computing-fundamentals/cap-theorem-plain-and-simple-267c96f3d80e)
+- [Query Optimization for Large Databases](https://www.sqlshack.com/sql-query-optimization-techniques/)
+- [Eventual Consistency in Distributed Databases - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.EventualConsistency.html)
+- [Database Caching Strategies for Performance](https://www.varnish-software.com/blog/caching-strategies-for-high-performance-systems/)
+- [Load Balancing for Scalable Applications](https://www.nginx.com/resources/glossary/load-balancing/)
+- [Monitoring and Profiling for Database Performance](https://www.datadoghq.com/)

@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-4-advance
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 ## 2.4. Advanced Level: Back-end Design and Development - Achieving Back-end Mastery!
 
@@ -87,13 +90,18 @@ Welcome to the **Advanced Level of Back-end Design and Development**! Reaching t
 
     ### Future Reading Links
 
-    - [Building Microservices by Sam Newman](https://www.oreilly.com/library/view/building-microservices/9781491950340/)
-    - [Microservices Patterns by Chris Richardson](https://www.manning.com/books/microservices-patterns)
-    - [Designing Event-Driven Systems by Ben Stopford](https://www.oreilly.com/library/view/designing-event-driven-systems/9781492038252/)
-    - [The Practical Guide to Event-Driven Microservices Architecture](https://www.confluent.io/resources/guides/practical-guide-to-event-driven-microservices-architecture/)
-    - [Serverless Architectures on AWS by Peter Sbarski](https://www.manning.com/books/serverless-architectures-on-aws)
-    - [The Serverless Framework Guide](https://www.serverless.com/framework/docs/)
-    - [NoSQL Distilled by Pramod J. Sadalage and Martin Fowler](https://www.oreilly.com/library/view/nosql-distilled/9780133036121/)
-    - [High Performance MySQL by Silvia Botros and Jeremy Tinley](https://www.oreilly.com/library/view/high-performance-mysql/9781492080510/)
-    - [DevSecOps: A Leader’s Guide to Producing Secure Software Without Compromising Time to Market by Glenn Wilson](https://www.amazon.com/DevSecOps-Leaders-Producing-Secure-Compromising/dp/148426410X)
-    - [API Security in Action by Neil Madden](https://www.manning.com/books/api-security-in-action)
+- [Designing Data-Intensive Applications by Martin Kleppmann](https://dataintensive.net/)
+- [High Scalability: Building Systems to Handle Millions of Users](http://highscalability.com/)
+- [System Design Primer: Learn System Design](https://github.com/donnemartin/system-design-primer)
+- [Microservices Patterns: Building Reliable Distributed Systems](https://microservices.io/patterns/index.html)
+- [Database Partitioning Strategies for Scaling](https://towardsdatascience.com/database-sharding-101-8662c7225e01)
+- [Consistent Hashing and Distributed Systems](https://medium.com/system-design-blog/consistent-hashing-b9134e5c4fa9)
+- [Backend Security Techniques: OWASP Guide](https://owasp.org/www-project-top-ten/)
+- [Building Resilient Backend Systems: Retry and Circuit Breaker Patterns](https://martinfowler.com/bliki/CircuitBreaker.html)
+- [Performance Optimization for Large-Scale Systems](https://aws.amazon.com/architecture/performance-optimization/)
+- [Kubernetes for Back-End Developers](https://kubernetes.io/docs/tutorials/)
+- [Event-Driven Architecture with Kafka](https://kafka.apache.org/documentation/)
+- [Serverless Best Practices - AWS Lambda](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
+- [Advanced API Security: OAuth 2.0 and Beyond](https://oauth.net/2/)
+- [Achieving Idempotency in Backend APIs](https://www.javacodegeeks.com/2020/07/idempotency-design-backend.html)
+- [Advanced Logging and Monitoring Techniques](https://www.datadoghq.com/)

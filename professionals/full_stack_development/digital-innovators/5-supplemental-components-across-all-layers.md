@@ -5,8 +5,10 @@ description: "Introduction to Supplemental Components Across All Layers"
 permalink: /professionals\full_stack_development\digital-innovators\/5-supplemental-components-across-all-layers/
 lang: en
 ---
+* TOC
+{:toc}
 
-Yes, perfect! You've now explored all four core technical domains – Front-end, Back-end, Databases, and DevOps!  Before we dive deeper into each of these areas at the Beginner level, let's take a moment to introduce **5. Supplemental Components Across All Layers!**  These are like the **secret ingredients** that will be sprinkled throughout your entire learning journey, from Beginner to Advanced! They are designed to make your learning more practical, engaging, and relevant to the real world!
+
 
 ## 5. Supplemental Components Across All Layers:  Enhancing Your Learning Journey - Practical Skills, Real-World Insights, and Support Every Step of the Way!
 
@@ -93,13 +95,15 @@ Excellent! You've now been introduced to all **5 Supplemental Components Across 
 
 ### Future Reading Links
 
--   [Holistic Education - UNESCO](https://en.unesco.org/themes/holistic-education) - UNESCO's perspective on holistic education, encompassing various aspects of development beyond just academic knowledge.
--   [The Importance of Practical Skills in Education - WorldSkills](https://worldskills.org/what/skills/) - WorldSkills resources highlighting the significance of practical skills and vocational training in preparing individuals for the workforce.
--   [Project-Based Learning vs. Traditional Learning - University of Texas Arlington](https://online.uta.edu/blog/project-based-learning-vs-traditional-learning) - A comparison of project-based learning with traditional methods, emphasizing the benefits of practical application.
--   [The Value of Soft Skills in the Workplace - LinkedIn Learning Blog](https://learning.linkedin.com/blog/career-development/value-of-soft-skills-in-workplace) -  LinkedIn Learning's blog post discussing the increasing importance and value of soft skills for professional success.
--   [Building Industry Connections in Education - National Association of Colleges and Employers (NACE)](https://www.naceweb.org/career-readiness/competencies/building-networks/) - Resources from NACE on the importance of networking and building industry connections for career readiness in graduates.
--   [Creating Effective Learning Objectives - University of Michigan](https://crlt.umich.edu/how-to-guides/write-learning-objectives) - A guide from the University of Michigan on writing effective learning objectives, including SMART criteria and examples.
--   [The Benefits of Digital Libraries - OCLC (Online Computer Library Center)](https://www.oclc.org/en/digital-collection-management/why-digital-libraries.html) - OCLC's resources outlining the advantages and benefits of digital libraries in providing access to information and learning resources.
--   [Integrating Soft Skills into Technical Education - SkillsBuild](https://www.skillsbuild.org/blog/integrating-soft-skills-technical-training) - An article from SkillsBuild discussing strategies for effectively integrating soft skills training within technical education programs.
--   [Designing Experiential Learning Activities - Northeastern University, Center for Teaching and Learning](https://ctl.northeastern.edu/designing-experiential-learning/) - Resources on designing experiential learning activities, relevant to capstone projects, case studies, and workshops in ICT education.
--   [The Future of ICT Skills - European Commission](https://digital-strategy.ec.europa.eu/en/policies/ict-skills) - European Commission's information and policies related to ICT skills development and future trends in the digital sector, providing context for program design and relevance.
+- [Introduction to DevOps and Operations - Red Hat](https://www.redhat.com/en/topics/devops/what-is-devops)
+- [What is Infrastructure as Code (IaC)? - HashiCorp](https://www.hashicorp.com/resources/infrastructure-as-code)
+- [Continuous Integration and Continuous Delivery (CI/CD) - Atlassian](https://www.atlassian.com/continuous-delivery/ci-vs-cd)
+- [Advanced Database Indexing Techniques - Use The Index, Luke!](https://use-the-index-luke.com/)
+- [Kubernetes Basics - Kubernetes Docs](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+- [Prometheus and Grafana for Monitoring - Prometheus Docs](https://prometheus.io/docs/introduction/overview/)
+- [Chaos Engineering Principles - Principles of Chaos](https://principlesofchaos.org/)
+- [Site Reliability Engineering (SRE) Practices - Google SRE](https://sre.google/sre-book/)
+- [DevSecOps: Security in DevOps Pipelines - Snyk](https://snyk.io/)
+- [Scaling DevOps for Large Organizations - ThoughtWorks](https://www.thoughtworks.com/insights/devops)
+- [Building Resilient Cloud-Native Applications - Google Cloud](https://cloud.google.com/solutions/cloud-native-applications)
+- [GitOps: Automating Deployments with Git - Weaveworks](https://www.weave.works/technologies/gitops/)

@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-4-3-devse
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 ### 2.4.3. DevSecOps Practices: Security Integration in Back-end DevOps
 
@@ -130,8 +133,15 @@ This module details the practical application of DevSecOps principles, focusing 
 
 ### Future Reading Links
 
-1. [DevSecOps: A Quick Start Guide](https://www.oreilly.com/library/view/devsecops-a-quick/9781788995505/)
-2. [The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations](https://itrevolution.com/book/the-devops-handbook/)
-3. [OWASP DevSecOps Guideline](https://owasp.org/www-project-devsecops-guideline/)
-4. [Infrastructure as Code: Managing Servers in the Cloud](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/)
-5. [Continuous Security: Reliable Software Releases through Build, Test, and Deployment Automation](https://www.oreilly.com/library/view/continuous-security-reliable/9781492042099/)
+- [What Is DevSecOps? Definition and Best Practices | Microsoft Security](https://www.microsoft.com/en-us/security/business/security-101/what-is-devsecops)
+- [7 Stages of the DevSecOps Model & 6 Critical Best Practices](https://codefresh.io/learn/devsecops/)
+- [Integrating Security in DevOps: Best Practices, Tools, and Challenges](https://tech-stack.com/blog/integrating-security-in-devops-best-practices-tools-and-challenges/)
+- [DevSecOps: A Practical Guide to Secure DevOps](https://www.oreilly.com/library/view/devsecops-a-practical/9781492044063/)
+- [DevSecOps: Integrating Security into CI/CD Pipelines](https://www.redhat.com/en/topics/devops/what-is-devsecops)
+- [Best Practices for DevSecOps Implementation](https://www.snyk.io/blog/devsecops-best-practices/)
+- [Automating Security in DevOps Pipelines](https://aws.amazon.com/devops/what-is-devsecops/)
+- [DevSecOps Tools and Techniques for Secure Development](https://www.checkmarx.com/resources/devsecops-tools/)
+- [Continuous Security Testing in DevSecOps](https://www.synopsys.com/software-integrity/resources/analyst-reports/devsecops.html)
+- [DevSecOps: Shifting Security Left](https://www.ibm.com/cloud/learn/devsecops)
+- [Building a Security-Aware Culture with DevSecOps](https://www.csoonline.com/article/3228445/building-a-security-aware-culture-with-devsecops.html)
+- [DevSecOps and Cloud Security Integration](https://cloud.google.com/security/devsecops)
