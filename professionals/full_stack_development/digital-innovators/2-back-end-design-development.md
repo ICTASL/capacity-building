@@ -5,6 +5,9 @@ description: "Introduction to Back-end Design and Development"
 permalink: /professionals\full_stack_development\digital-innovators\/2-back-end-design-development/
 lang: en
 ---
+* TOC
+{:toc}
+
 
 
 
@@ -115,12 +118,17 @@ Excellent work! You've now taken your **first step into the fascinating world of
 
 ## Future Reading Links
 
-1. [MDN Web Docs: Server-side website programming](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
-2. [FreeCodeCamp: Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
-3. [Khan Academy: Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
-4. [Codecademy: Learn Node.js](https://www.codecademy.com/learn/learn-node-js)
-5. [Official Django Documentation](https://docs.djangoproject.com/en/stable/)
-6. [MongoDB University: Free Courses](https://university.mongodb.com/)
-7. [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+- [What is Back-End Development? Introduction for Beginners - freeCodeCamp](https://www.freecodecamp.org/news/what-is-backend-development/)
+- [The Basics of Back-End Development - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction)
+- [Understanding the Client-Server Model - GeeksforGeeks](https://www.geeksforgeeks.org/client-server-architecture/)
+- [Beginner's Guide to Server-Side Programming](https://www.educative.io/blog/server-side-programming)
+- [Node.js Official Documentation - Getting Started](https://nodejs.org/en/docs/guides/getting-started-guide/)
+- [Introduction to Databases and SQL](https://www.w3schools.com/sql/)
+- [What is REST API? An Overview - Postman Blog](https://www.postman.com/rest-api/)
+- [Understanding HTTP - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+- [Learn Flask Basics - Flask Documentation](https://flask.palletsprojects.com/en/latest/)
+- [Django for Beginners - Django Documentation](https://docs.djangoproject.com/en/stable/intro/overview/)
+- [Basics of API Authentication - Auth0](https://auth0.com/docs/get-started/authentication-and-authorization)
+- [Introduction to Microservices - Martin Fowler](https://martinfowler.com/articles/microservices.html)
 
 These prompts and resources will help you dive deeper into the world of back-end development and expand your knowledge on various critical topics. Happy learning!

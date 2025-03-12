@@ -5,6 +5,9 @@ description: "Digital Library Integration for Supplemental Components"
 permalink: /professionals\full_stack_development\digital-innovators\/5-5-digital-library-integration/
 lang: en
 ---
+* TOC
+{:toc}
+
 
 ### 5.5. Digital Library Integration: Your Central Treasure Chest of Learning Resources!
 
@@ -70,13 +73,13 @@ The Digital Library is your **personal treasure chest** of knowledge and resourc
 
 ### Future Reading Links
 
--   [What is a Digital Library? - Digital Library Federation](https://www.diglib.org/about/dlf-brochure/) -  An explanation of digital libraries from the Digital Library Federation, defining their scope and purpose.
--   [Accessibility of Digital Content - Web Accessibility Initiative (WAI), W3C](https://www.w3.org/WAI/fundamentals/accessibility-principles/) -  Resources from the W3C Web Accessibility Initiative on making digital content accessible to people with disabilities, including principles and guidelines.
--   [Content Curation: How to Organize Information - Content Marketing Institute](https://contentmarketinginstitute.com/2022/06/content-curation-strategy-examples/) - An article from the Content Marketing Institute on content curation strategies and best practices for organizing and presenting information effectively.
--   [Best Practices for Designing Online Learning Resources - University of Central Florida](https://cdl.ucf.edu/teach/bestpractices/) - A resource from the University of Central Florida offering best practices for designing effective online learning materials.
--   [The Benefits of Self-Paced Learning - eLearning Industry](https://elearningindustry.com/benefits-of-self-paced-learning) - An article from eLearning Industry discussing the advantages of self-paced learning for students and educators.
--   [Learning Management Systems (LMS) - Wikipedia](ttps://www.google.com/search%3Fq%3Dhttps://en.wikipedia.org/wiki/Learning_management_system) - Wikipedia entry on Learning Management Systems (LMS), providing an overview of their features and functionalities in education.
--   [Information Architecture Basics - Usability.gov](https://www.usability.gov/what-and-why/information-architecture.html) -  An explanation of information architecture principles from Usability.gov, relevant to organizing and structuring digital content for usability.
--   [Text vs. Video: Which is Better for eLearning? - SHIFT eLearning](https://www.shiftelearning.com/blog/text-vs-video-elearning) - A blog post from SHIFT eLearning comparing the effectiveness of text and video for online learning, considering different learning styles and content types.
--   [Open Educational Resources (OER) - UNESCO](https://www.unesco.org/en/open-educational-resources) - Information from UNESCO about Open Educational Resources (OER), promoting free and accessible educational materials globally.
--   [Digital Libraries and Education - IFLA (International Federation of Library Associations and Institutions)](ttps://www.google.com/search%3Fq%3Dhttps://www.ifla.org/publications/digital-libraries-and-education/) - A publication from IFLA exploring the role and impact of digital libraries in education and learning environments.
+- [Open Source Tools and Platforms for Digital Libraries Development](https://www.lisedunetwork.com/open-source-tools-and-platforms-for-digital-libraries-development/)
+- [Components of a Digital Library - INFLIBNET Centre](https://ebooks.inflibnet.ac.in/lisp8/chapter/components-of-a-digital-library/)
+- [Towards Lightweight Digital Library Integration - NJIT](https://web.njit.edu/~bieber/pub/nnadi-doceng04.pdf)
+- [Digital Library Services and Infrastructure - UNESCO](https://en.unesco.org/digital-library)
+- [Metadata Standards for Digital Libraries - Dublin Core](https://www.dublincore.org/)
+- [Digital Preservation Strategies - Library of Congress](https://www.loc.gov/preservation/)
+- [Building Interoperable Digital Libraries - OAI-PMH](https://www.openarchives.org/pmh/)
+- [Digital Rights Management in Libraries - WIPO](https://www.wipo.int/)
+- [Case Studies in Digital Library Integration - Springer](https://link.springer.com/)
+- [Best Practices for Digital Library Accessibility - W3C](https://www.w3.org/WAI/)

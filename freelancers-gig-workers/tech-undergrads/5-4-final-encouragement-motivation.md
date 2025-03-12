@@ -83,10 +83,31 @@ Keep your *long-term freelance vision* in mind.  Fueled by *your passion* for yo
 
 **How it should be presented:** Motivational language, positive affirmations, inspiring stories/quotes on perseverance. *Mentor/cheerleader tone*. Realistic (challenges exist) but *optimistic* (success is possible with effort). End *strong and empowering*.
 
-## In summary, "5.4 Final Boost: Motivation & Drive" = Your Inner Freelance Power-Up:
+### **GPT Prompts**
 
-* **Reinforce Potential (Sri Lanka Focus):**  Freelancing *empowers you*, Sri Lankan tech grads. Context-specific benefits, opportunities *for you, right now*.
-* **Inspire Perseverance (Build Grit):**  Freelance journey is a marathon. Challenges are normal. Effort, persistence, resilience, growth mindset = *your path to long-term success*.
+1. "Write a motivational piece to empower technology undergraduates in Sri Lanka to embrace freelancing."
+2. "Generate encouraging words for freelancers facing their first major challenge."
+3. "List actionable ways to celebrate small wins and maintain long-term vision as a freelancer."
+4. "Explain how freelancers can build resilience and overcome setbacks in their careers."
+5. "Describe how a growth mindset fuels success in the freelancing world."
+6. "Write tips for staying passionate and connected to your purpose as a freelancer."
+7. "Draft a motivational roadmap for navigating the ups and downs of freelancing."
+8. "Generate insights on how freelancers can draw inspiration from their progress so far."
+9. "Explain the value of perseverance in freelancing and provide examples of its importance."
+10. "Create a framework for maintaining motivation during slow periods in freelancing."
 
 
+### **Future Reading Links**
 
+- [How to Stay Motivated as a Freelancer - Freelancers Union](https://www.freelancersunion.org/)
+- [The Power of a Growth Mindset in Freelancing - Medium](https://medium.com/)
+- [Overcoming Challenges in Freelancing - HubSpot Blog](https://blog.hubspot.com/)
+- [Building Resilience for Freelance Success - Forbes](https://www.forbes.com/)
+- [Why Celebrating Small Wins Matters - Lifehack](https://www.lifehack.org/)
+- [Staying Passionate About Your Freelance Career - LinkedIn Learning](https://www.linkedin.com/learning/)
+- [Freelance Success Stories for Inspiration - Fiverr Blog](https://www.fiverr.com/resources/)
+- [Perseverance in Freelancing: Real-Life Examples - Upwork Blog](https://www.upwork.com/resources/)
+- [Keeping Motivation High During Challenges - CareerFoundry](https://careerfoundry.com/)
+- [Navigating the Emotional Ups and Downs of Freelancing - Toptal Blog](https://www.toptal.com/)
+- [Staying Focused on Your Long-Term Vision - Entrepreneur](https://www.entrepreneur.com/)
+- [How Reflecting on Progress Fuels Future Goals - Medium](https://medium.com/)

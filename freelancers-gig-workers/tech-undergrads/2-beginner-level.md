@@ -59,3 +59,30 @@ Freelancing is about **using your tech skills to work independently online, for 
 
 ---
 
+
+### **GPT Prompts**
+
+1. "Explain freelancing in simple terms with examples of tech-based freelance work."
+2. "List the most popular freelance platforms for beginners in technology."
+3. "Generate a step-by-step guide for starting a freelance career as a tech undergraduate."
+4. "Write an action plan for creating a strong freelance profile from scratch."
+5. "Suggest beginner-friendly freelance gigs for students in software development."
+6. "Draft a freelance proposal for a simple web development project."
+7. "Explain why freelancing is a great way for tech undergrads to build career skills."
+8. "Provide tips on managing time effectively while freelancing and studying."
+9. "Generate a list of common challenges beginners face in freelancing and how to overcome them."
+10. "Describe how digital literacy can be leveraged as a skill in freelancing."
+
+
+### **Future Reading Links**
+
+- [Beginner's Guide to Freelancing - Fiverr Resources](https://www.fiverr.com/resources/)
+- [How to Start Freelancing - Upwork Blog](https://www.upwork.com/resources/)
+- [Freelancing Opportunities for Students - Medium](https://medium.com/)
+- [Best Freelance Jobs for Students - LinkedIn Articles](https://www.linkedin.com/)
+- [Tips for Building a Freelance Career - HubSpot Blog](https://blog.hubspot.com/)
+- [Top Online Platforms for Freelancers - NerdWallet](https://www.nerdwallet.com/)
+- [Freelancing Skills in Demand - Freelancer Blog](https://www.freelancer.com/)
+- [Creating a Standout Profile for Freelancers - Toptal Guide](https://www.toptal.com/)
+- [Balancing Freelancing with Studies - Lifehack](https://www.lifehack.org/)
+- [Freelancing for Beginners in the Tech Industry - CareerFoundry](https://careerfoundry.com/)

@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-4-2-scala
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ### 2.4.2. Scalability, Resilience & Observability:  Technical Deep Dive
@@ -209,13 +212,18 @@ This module focuses on engineering systems to be fault-tolerant and resilient, e
             - "Discuss the benefits of using advanced monitoring tools like Prometheus and Grafana for comprehensive system insights."
             - "Explain how anomaly detection techniques can be integrated into monitoring systems to proactively identify issues."
 
-        ### Further Reading Links
-
-        - [Prometheus Documentation](https://prometheus.io/docs/introduction/overview/)
-        - [Grafana Documentation](https://grafana.com/docs/grafana/latest/)
-        - [Jaeger Documentation](https://www.jaegertracing.io/docs/latest/)
-        - [OpenTelemetry Documentation](https://opentelemetry.io/docs/)
-        - [Chaos Engineering Principles](https://principlesofchaos.org/)
-        - [AWS Disaster Recovery Strategies](https://aws.amazon.com/disaster-recovery/)
-        - [Google Cloud Monitoring](https://cloud.google.com/monitoring)
-        - [Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/)
+### Further Reading Links
+- [Detect and Analyze Anomalies with KQL in Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/kql-machine-learning-azure-monitor)
+- [Mastering Advanced Log File Analysis Techniques](https://rmmmax.com/advanced-log-analysis/)
+- [Exploring Anomalies with Log Analytics using KQL](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/exploring-anomalies-with-log-analytics-using-kql/2252477)
+- [Building Resilient and Fault-Tolerant Systems](https://content.techgig.com/technology/building-resilient-and-fault-tolerant-systems-a-guide-to-ensuring-reliability/articleshow/105921674.cms)
+- [High Availability vs Fault Tolerance vs Disaster Recovery](https://expertbeacon.com/high-availability-vs-fault-tolerance-vs-disaster-recovery-explained-with-an-analogy/)
+- [Disaster Planning Essentials: High Availability & Fault Tolerance](https://www.testrail.com/blog/disaster-planning-essentials/)
+- [Advanced Monitoring and Observability with Prometheus](https://prometheus.io/docs/introduction/overview/)
+- [Distributed Tracing with Jaeger](https://www.jaegertracing.io/)
+- [Anomaly Detection in Distributed Systems](https://towardsdatascience.com/anomaly-detection-in-distributed-systems-using-machine-learning-5e3c0c8e7b4f)
+- [Fault Tolerance and Resilience Patterns](https://martinfowler.com/articles/patterns-of-resilience.html)
+- [Disaster Recovery Strategies for Cloud-Native Systems](https://aws.amazon.com/disaster-recovery/)
+- [Building Resilient Systems with Circuit Breaker Patterns](https://martinfowler.com/bliki/CircuitBreaker.html)
+- [Advanced Logging and Monitoring Techniques](https://www.datadoghq.com/)
+- [Kubernetes Resilience and Fault Tolerance](https://kubernetes.io/docs/concepts/architecture/)

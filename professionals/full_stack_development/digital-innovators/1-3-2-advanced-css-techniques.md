@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/1-3-2-advan
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 ### 2.2. Advanced CSS Techniques:
 
@@ -113,28 +116,19 @@ Time to put your advanced CSS skills to practice by building **adaptive layouts*
 
     To deepen your understanding of advanced CSS techniques and stay updated with the latest trends and best practices, here are some recommended resources:
 
-    1. **[MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**
-        - Comprehensive documentation and tutorials on all aspects of CSS, including Flexbox, Grid, and CSS preprocessors.
+  - [Advanced CSS & SASS: Framework, Flexbox, Grid, Animations](https://www.udemy.com/course/advanced-css-sass-framework-flexbox-grid-animations/)
+- [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
+- [CSS Tricks: A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [CSS Tricks: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Sass Basics](https://sass-lang.com/guide)
+- [LESS Documentation](http://lesscss.org/)
+- [How to Ensure Cross-Browser Compatibility with CSS](https://blog.pixelfreestudio.com/how-to-ensure-cross-browser-compatibility-with-css/)
+- [Advanced CSS Tips for Better Cross-Browser Compatibility](https://blog.pixelfreestudio.com/advanced-css-tips-for-better-cross-browser-compatibility/)
+- [CSS Performance Optimization Techniques](https://web.dev/fast/)
+- [Responsive Web Design Basics](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+- [Caniuse: Browser Support for CSS Features](https://caniuse.com/)
+- [CSS Performance Audits and Optimization](https://developers.google.com/web/tools/lighthouse/)
+- [CSS Grid and Flexbox: When to Use Which](https://www.freecodecamp.org/news/css-grid-vs-flexbox/)
 
-    2. **[CSS-Tricks](https://css-tricks.com/)**
-        - A popular blog with articles, tutorials, and tips on CSS, including advanced techniques and performance optimization.
-
-    3. **[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)**
-        - An in-depth guide to Flexbox, covering all properties and use cases with practical examples.
-
-    4. **[A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)**
-        - A comprehensive guide to CSS Grid, explaining all the concepts and properties with visual examples.
-
-    5. **[Sass Documentation](https://sass-lang.com/documentation)**
-        - Official documentation for Sass, including guides on using variables, nesting, mixins, and more.
-
-    6. **[Can I use](https://caniuse.com/)**
-        - A resource to check the browser compatibility of CSS features, ensuring your styles work across different browsers.
-
-    7. **[Smashing Magazine - CSS](https://www.smashingmagazine.com/category/css)**
-        - Articles and tutorials on advanced CSS techniques, performance optimization, and best practices.
-
-    8. **[Google Web Fundamentals - CSS](https://developers.google.com/web/fundamentals/design-and-ux/responsive)**
-        - Guides and best practices for responsive design and performance optimization from Google's web development team.
 
     These resources will help you continue learning and mastering advanced CSS techniques, ensuring you stay at the forefront of front-end development.

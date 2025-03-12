@@ -5,6 +5,9 @@ description: "Data Modeling "
 permalink: /professionals\full_stack_development\digital-innovators\/3-2-2-data-modeling-normalization/
 lang: en
 ---
+* TOC
+{:toc}
+
 
 
 
@@ -128,8 +131,16 @@ That's **3.2.2. Data Modeling & Normalization**!  You've now learned how to desi
 
 ### Future Reading Links
 
-- [Database Normalization Basics](https://www.studytonight.com/dbms/database-normalization.php)
-- [Entity-Relationship Diagrams (ERDs) Explained](https://www.lucidchart.com/pages/er-diagrams)
-- [Normalization Forms Explained](https://www.guru99.com/database-normalization.html)
-- [Database Testing: An Overview](https://www.softwaretestinghelp.com/database-testing-tutorial)
-- [Designing Scalable Database Schemas](https://www.digitalocean.com/community/tutorials/database-schema-design)
+- [What is Data Modeling? An Overview - Lucidchart](https://www.lucidchart.com/pages/what-is-data-modeling)
+- [Introduction to Data Modeling - W3Schools](https://www.w3schools.com/sql/sql_datamodel.asp)
+- [Basics of Data Modeling - TutorialsPoint](https://www.tutorialspoint.com/database/data_modeling.htm)
+- [A Beginner's Guide to Database Normalization - Guru99](https://www.guru99.com/database-normalization.html)
+- [Introduction to Entity-Relationship (ER) Diagrams - GeeksforGeeks](https://www.geeksforgeeks.org/dbms-entity-relationship-er-model/)
+- [What is an ER Diagram? A Beginner’s Guide](https://www.visual-paradigm.com/guide/data-modeling/what-is-entity-relationship-diagram/)
+- [Data Modeling for Relational Databases - IBM Cloud](https://www.ibm.com/cloud/learn/relational-data-modeling)
+- [Understanding Database Normalization - SQLShack](https://www.sqlshack.com/database-normalization-introduction/)
+- [Data Modeling Concepts - PostgreSQL Documentation](https://www.postgresql.org/docs/current/datamodel.html)
+- [Logical vs. Physical Data Models - Creately](https://creately.com/blog/diagrams/data-modeling/)
+- [Data Modeling Tools Overview - DB Designer](https://www.dbdesigner.net/)
+- [Normalization in SQL Databases - Edureka](https://www.edureka.co/blog/database-normalization/)
+- [Understanding the Basics of Data Relationships - DataCamp](https://www.datacamp.com/community/tutorials/sql-joins-tutorial-data-relationships)

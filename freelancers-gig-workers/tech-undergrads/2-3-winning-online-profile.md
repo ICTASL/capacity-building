@@ -180,3 +180,32 @@ This last part is about proposals – how to respond to freelance job postings a
 *   **Create a Portfolio (Even Now):**  Show you how to build a portfolio, even if you're just starting, using easy tools and showing off your uni/personal projects.
 *   **Learn Proposal Basics:**  Teach you the key skill of writing winning proposals – understanding client needs, using a template, and including the must-have parts.
 *   **Get Practicing!**  Include action steps so you actually create profile drafts, gather portfolio stuff, and practice writing sample proposals. 
+
+
+### **GPT Prompts**
+
+1. "Explain how to create a professional freelance profile that attracts clients."
+2. "Suggest usernames and bios that stand out for freelance tech roles."
+3. "Write a step-by-step guide to crafting a strong freelance bio for beginners."
+4. "Generate a checklist for building a simple online portfolio as a student."
+5. "List creative portfolio ideas for tech freelancers with little experience."
+6. "Write a proposal template for a beginner-friendly web design freelance job."
+7. "Suggest strategies to pick the right freelancing platform for your skills."
+8. "Explain how to highlight university projects and personal work in a freelance portfolio."
+9. "Write tips for understanding client requirements before submitting a proposal."
+10. "Draft a beginner action plan for landing the first freelance gig on Fiverr or Upwork."
+
+### **Future Reading Links**
+
+- [How to Create a Freelancer Profile That Stands Out - Fiverr Blog](https://www.fiverr.com/resources/)
+- [Writing the Perfect Freelance Bio - Upwork Tips](https://www.upwork.com/resources/)
+- [Beginner’s Guide to Freelance Portfolios - Toptal Blog](https://www.toptal.com/)
+- [How to Showcase Projects in Your Portfolio - Medium](https://medium.com/)
+- [Tips for Building a Portfolio Without Experience - CareerFoundry](https://careerfoundry.com/)
+- [Freelancing Platforms Compared: Fiverr vs. Upwork - NerdWallet](https://www.nerdwallet.com/)
+- [Step-by-Step Guide to Writing Proposals - Freelancer Resources](https://www.freelancer.com/articles/)
+- [Understanding Client Needs in Freelancing - LinkedIn Learning](https://www.linkedin.com/learning/)
+- [Top 10 Tips for Landing Your First Freelance Gig - HubSpot Blog](https://blog.hubspot.com/)
+- [Portfolio Design Tips for Beginners - Dribbble Blog](https://blog.dribbble.com/)
+- [Writing Freelance Proposals that Win Jobs - Fiverr Learn](https://learn.fiverr.com/)
+- [Crafting Profiles That Get Noticed - Hootsuite Blog](https://blog.hootsuite.com/)

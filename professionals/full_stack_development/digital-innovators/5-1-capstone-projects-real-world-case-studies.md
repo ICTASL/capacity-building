@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/5-1-capston
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 ### 5.1. Capstone Projects & Real-World Case Studies:  Learning by Doing and Seeing the Real Deal!
 
@@ -53,13 +56,15 @@ So, get ready to build amazing things and learn from real-world examples! Capsto
 
 ### Future Reading Links
 
-  - [Project-Based Learning: A Complete Guide - PBLWorks](https://www.pblworks.org/what-is-pbl) - A comprehensive resource from PBLWorks on project-based learning, its principles, and implementation strategies.
-  - [Case Study Method - Harvard Business School](https://www.hbs.edu/faculty/pedagogy/case-method) - Information from Harvard Business School about the case study method, its history, and effectiveness in education.
-  - [The Power of Portfolios - Edutopia](https://www.edutopia.org/article/power-portfolios) - An article from Edutopia discussing the benefits of using portfolios for student assessment and showcasing learning.
-  - [Real-World Projects for Computer Science Students - GitHub](https://github.com/practical-tutorials/project-based-learning) - A GitHub repository offering a collection of project-based learning ideas for computer science and related fields.
-  - [Microservices Architecture - Martin Fowler](https://martinfowler.com/articles/microservices.html) - An in-depth article by Martin Fowler explaining the principles and benefits of microservices architecture.
-  - [Data Pipeline Design and Challenges - Google Cloud Blog](https://cloud.google.com/blog/products/data-analytics/data-pipelines-architectures-and-google-cloud-platform-concepts-and-techniques) - A Google Cloud blog post discussing data pipeline architectures, design considerations, and challenges in real-world applications.
-  - [Authentic Assessment in Project-Based Learning - Buck Institute for Education](https://www.pblworks.org/blog/what-makes-good-project-authentic) - Resources from the Buck Institute for Education focusing on authentic assessment methods within project-based learning.
-  - [Building an Effective Portfolio Website - A List Apart](https://alistapart.com/article/building-effective-portfolio-site/) - An article from A List Apart providing guidance on creating effective portfolio websites to showcase web development skills.
-  - [DevOps Case Studies - DevOps Institute](https://devopsinstitute.com/case-studies/) - A collection of DevOps case studies from the DevOps Institute, showcasing real-world implementations and outcomes.
-  - [Kubernetes Case Studies - CNCF](https://www.cncf.io/case-studies/) - Case studies from the Cloud Native Computing Foundation (CNCF) highlighting real-world applications of Kubernetes and cloud-native technologies.
+- [Case Studies in DevOps Transformation - Puppet](https://puppet.com/resources/case-studies/)
+- [Scaling Challenges in Microservices - CNCF](https://www.cncf.io/)
+- [Building DevOps Culture: Real-Life Lessons - ThoughtWorks](https://www.thoughtworks.com/insights)
+- [Capstone Project Examples in Software Engineering - Code Academy](https://www.codecademy.com/resources/blog/)
+- [Success Stories of Infrastructure as Code - HashiCorp](https://www.hashicorp.com/case-studies/)
+- [Google SRE Book: Real-World Reliability Practices](https://sre.google/sre-book/)
+- [AWS Architecture Center: Real-World Use Cases](https://aws.amazon.com/architecture/)
+- [Prometheus in Action: Monitoring Use Cases](https://prometheus.io/community/success-stories/)
+- [Building Cloud-Native Applications - Red Hat Case Studies](https://www.redhat.com/en/resources/success-stories)
+- [GitOps at Scale: Lessons Learned - Weaveworks](https://www.weave.works/blog/)
+- [Database Optimization Capstone Stories - SQLShack](https://www.sqlshack.com/)
+- [Incident Response Frameworks - PagerDuty Case Studies](https://www.pagerduty.com/why-pagerduty/customers/)

@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/3-3-interme
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ## 3.3. Intermediate Level: Database Technologies -  Designing Robust Databases and Mastering SQL!
@@ -93,8 +96,17 @@ Welcome to the **Intermediate Level of Database Technologies**!  Congratulations
 
     ### Future Reading Links
 
-    - [Advanced SQL Queries](https://www.sqlshack.com/advanced-sql-queries/)
-    - [Database Design and Normalization](https://www.guru99.com/database-normalization.html)
-    - [Transaction Management in SQL](https://www.geeksforgeeks.org/acid-properties-in-dbms/)
-    - [Using JSON in SQL Databases](https://www.postgresql.org/docs/current/datatype-json.html)
-    - [Database Indexing and Performance Tuning](https://use-the-index-luke.com/)
+- [Designing Efficient Database Schemas - DigitalOcean](https://www.digitalocean.com/community/tutorials/designing-efficient-database-schemas)
+- [Database Relationships and Advanced Joins - PostgreSQL Docs](https://www.postgresql.org/docs/current/tutorial-join.html)
+- [Advanced SQL Queries and Techniques - SQLShack](https://www.sqlshack.com/advanced-sql-tips-and-techniques/)
+- [Database Indexing: Best Practices for Performance](https://www.sqlshack.com/database-indexing-and-query-performance/)
+- [SQL Window Functions: Advanced Querying Techniques](https://mode.com/sql-tutorial/sql-window-functions/)
+- [PostgreSQL Performance Optimization](https://www.postgresql.org/docs/current/performance-tips.html)
+- [Normalization vs Denormalization in Databases](https://www.geeksforgeeks.org/difference-between-normalization-and-denormalization/)
+- [Transaction Management in Relational Databases - IBM Docs](https://www.ibm.com/docs/en/db2/11.5?topic=concepts-transaction-management)
+- [Exploring Stored Procedures and Triggers - TutorialsPoint](https://www.tutorialspoint.com/sql/sql-triggers.htm)
+- [Data Integrity Constraints in SQL - W3Schools](https://www.w3schools.com/sql/sql_constraints.asp)
+- [Mastering Common Table Expressions (CTEs) - DataCamp](https://www.datacamp.com/tutorial/common-table-expressions-sql)
+- [Advanced Concepts in NoSQL Database Design - MongoDB](https://www.mongodb.com/developer/article/advanced-nosql-design-patterns/)
+- [Database Partitioning Techniques for Scalability - SQLShack](https://www.sqlshack.com/database-partitioning-introduction/)
+- [Advanced Techniques in SQL Query Optimization](https://towardsdatascience.com/sql-query-optimization-tips-9dcb3b542749)

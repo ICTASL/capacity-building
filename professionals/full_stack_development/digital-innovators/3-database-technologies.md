@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/3-database-
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ## 3. Database Technologies:  The Guardians of Data - Organizing Information for the Digital Age!
@@ -102,15 +105,18 @@ Excellent! You've now taken your **first step into the powerful and organized wo
 
 ### Future Reading Links
 
-- [Introduction to SQL](https://www.w3schools.com/sql/sql_intro.asp)
-- [MongoDB Documentation](https://docs.mongodb.com/)
-- [PostgreSQL Tutorial](https://www.postgresql.org/docs/current/tutorial.html)
-- [Database Normalization](https://www.studytonight.com/dbms/database-normalization.php)
-- [ACID Properties](https://en.wikipedia.org/wiki/ACID)
-- [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
-- [Database Indexing](https://use-the-index-luke.com/)
-- [Relational vs. Non-Relational Databases](https://www.mongodb.com/scale/relational-vs-non-relational-databases)
-- [SQL Server Documentation](https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15)
-- [Redis Documentation](https://redis.io/documentation)
+- [Introduction to Databases - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-databases/)
+- [Database Concepts and Basics - Oracle Academy](https://academy.oracle.com/en/resources.html)
+- [Beginner's Guide to SQL - W3Schools](https://www.w3schools.com/sql/)
+- [What is NoSQL? - MongoDB](https://www.mongodb.com/nosql-explained)
+- [Relational vs Non-Relational Databases - IBM Cloud](https://www.ibm.com/cloud/learn/relational-vs-non-relational-databases)
+- [Database Management System (DBMS) - TutorialsPoint](https://www.tutorialspoint.com/dbms/)
+- [PostgreSQL Tutorial for Beginners](https://www.postgresql.org/docs/current/tutorial.html)
+- [Designing Databases: A Beginner's Guide - DigitalOcean](https://www.digitalocean.com/community/tutorials/database-design-basics)
+- [Introduction to Indexing and Query Optimization - SQLShack](https://www.sqlshack.com/database-indexing/)
+- [ACID Properties in Database Systems - Edureka](https://www.edureka.co/blog/acid-properties/)
+- [A Beginner's Guide to Database Normalization](https://www.guru99.com/database-normalization.html)
+- [Getting Started with MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+
 
 These prompts and resources will help you deepen your understanding of database technologies and their applications.

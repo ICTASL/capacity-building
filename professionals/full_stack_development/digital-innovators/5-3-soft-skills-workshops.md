@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/5-3-soft-sk
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ### 5.3. Soft Skills Workshops: Level Up Your People Skills - Just as Important as Your Tech Skills!
@@ -63,13 +66,15 @@ Soft Skills Workshops are your chance to become a **truly well-rounded tech prof
 
 ### Future Reading Links
 
--   [The Importance of Soft Skills - National Soft Skills Association](https://www.nationalsoftskillsassociation.org/importance-of-soft-skills) - An article by the National Soft Skills Association emphasizing the importance of soft skills in various aspects of life and career.
--   [Interpersonal Skills: Definition and Examples - Indeed Career Guide](https://www.indeed.com/career-advice/career-development/interpersonal-skills) - A guide from Indeed defining interpersonal skills and providing examples relevant to workplace success.
--   [Active Listening - MindTools](https://www.mindtools.com/a3vvm3e/active-listening) - A resource from MindTools explaining active listening techniques and their benefits in communication and relationships.
--   [Teamwork Skills: Being an Effective Group Member - University of Waterloo](https://uwaterloo.ca/career-hub/blog/posts/teamwork-skills-being-effective-group-member) - An article from the University of Waterloo Career Hub on essential teamwork skills for effective group collaboration.
--   [Agile Methodology - Atlassian](https://www.atlassian.com/agile) - A comprehensive resource from Atlassian on Agile methodologies, including Scrum and Kanban, and their principles of teamwork and iterative development.
--   [Incident Management Best Practices - PagerDuty](https://www.pagerduty.com/blog/incident-management-best-practices/) - A blog post from PagerDuty outlining best practices for incident management, including communication and coordination during incidents.
--   [Servant Leadership - Robert K. Greenleaf Center for Servant Leadership](https://greenleaf.org/what-is-servant-leadership/) - Information from the Robert K. Greenleaf Center for Servant Leadership explaining the principles and philosophy of servant leadership.
--   [The Five Dysfunctions of a Team - by Patrick Lencioni (Book Summary)](https://www.tablegroup.com/books/dysfunctions/) - Book summary of "The Five Dysfunctions of a Team" which explores common teamwork challenges and how to overcome them.
--   [Difficult Conversations: How to Discuss What Matters Most - by Douglas Stone, Bruce Patton, and Sheila Heen (Book)](https://www.amazon.com/Difficult-Conversations-Discuss-What-Matters/dp/0143118447) - A book offering guidance on navigating difficult conversations, improving communication in challenging situations.
--   [Emotional Intelligence 2.0 - by Travis Bradberry & Jean Greaves (Book)](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry/dp/0974320625) - A book exploring the principles of emotional intelligence and its importance in personal and professional success, including communication and teamwork.
+- [Best Soft Skills Courses & Certificates - Coursera](https://www.coursera.org/courses?query=soft%20skills)
+- [Leadership Training and Soft Skills Workshops - British Council Sri Lanka](https://www.britishcouncil.lk/english/courses-training/soft-skills)
+- [Workshop on Soft Skills Development for Managers - NIBM](https://nibm.lk/course/workshop-on-soft-skills-development-for-managers)
+- [What is a Soft Skills Workshop? - Teach Educator](https://teacheducator.com/soft-skills-workshop/)
+- [Developing Interpersonal Skills - IBM](https://www.ibm.com/training/)
+- [Emotional Intelligence and Leadership - Harvard Business Review](https://hbr.org/)
+- [Effective Communication Skills for Professionals - MindTools](https://www.mindtools.com/)
+- [Conflict Resolution and Team Collaboration - Atlassian](https://www.atlassian.com/)
+- [Soft Skills for IT Professionals - Pluralsight](https://www.pluralsight.com/)
+- [Building Resilient Teams with Soft Skills - ThoughtWorks](https://www.thoughtworks.com/)
+- [Enhancing Workplace Communication - LinkedIn Learning](https://www.linkedin.com/learning/)
+- [Soft Skills for Career Success - EdX](https://www.edx.org/)

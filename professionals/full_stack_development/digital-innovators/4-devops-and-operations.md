@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/4-devops-an
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ## 4. DevOps and Operations:  Making Software Delivery a Dream - Reliability, Speed, and Collaboration!
@@ -103,10 +106,17 @@ Fantastic! You've now taken your **first step into the world of DevOps and Opera
 
 ### Future Reading Links
 
-  - [What is DevOps? - Atlassian](https://www.atlassian.com/devops/what-is-devops) - A comprehensive introduction to DevOps from Atlassian, covering definitions, benefits, and key practices.
-  - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://itrevolution.com/the-devops-handbook/) -  Considered a foundational book for DevOps, offering a deep dive into DevOps principles, practices, and case studies.
-  - [DevOps Institute - What is DevOps?](https://devopsinstitute.com/what-is-devops/) - DevOps Institute's explanation of DevOps, focusing on the human aspects, practices, and benefits.
-  - [Microsoft Azure - What is DevOps?](https://azure.microsoft.com/en-us/overview/what-is-devops/) - Microsoft's perspective on DevOps, highlighting its benefits and how Azure supports DevOps practices.
-  - [Amazon Web Services (AWS) - What is DevOps?](https://aws.amazon.com/devops/what-is-devops/) - Amazon's definition of DevOps and how AWS cloud services facilitate DevOps adoption.
-  - [Site Reliability Engineering (SRE) - Google](https://sre.google/) -  While SRE is related to Operations and DevOps, exploring Google's SRE resources can give a deeper understanding of modern operational practices in a DevOps context.
+- [What is DevOps? A Complete Beginner's Guide - Red Hat](https://www.redhat.com/en/topics/devops/what-is-devops)
+- [The DevOps Handbook - Key Practices and Principles](https://itrevolution.com/the-devops-handbook/)
+- [CI/CD Explained: Continuous Integration and Continuous Delivery - Atlassian](https://www.atlassian.com/continuous-delivery/ci-vs-cd)
+- [Understanding Infrastructure as Code (IaC) - HashiCorp](https://www.hashicorp.com/resources/infrastructure-as-code)
+- [Introduction to Kubernetes - Kubernetes Docs](https://kubernetes.io/docs/tutorials/)
+- [What is Docker? Beginner’s Guide to Containers](https://www.docker.com/resources/what-container/)
+- [Monitoring and Observability Best Practices - Datadog](https://www.datadoghq.com/learn/)
+- [GitOps: What It Is and Why It Matters - Weaveworks](https://www.weave.works/technologies/gitops/)
+- [DevOps Security Practices - IBM Security](https://www.ibm.com/cloud/learn/devsecops)
+- [Site Reliability Engineering (SRE) Explained - Google](https://sre.google/introduction/)
+- [Top DevOps Tools for Automation - DigitalOcean](https://www.digitalocean.com/community/tutorials/top-devops-tools)
+- [Building a DevOps Pipeline Step-by-Step - AWS](https://aws.amazon.com/devops/)
+
 

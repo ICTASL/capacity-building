@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/3-4-advance
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 ## 3.4. Advanced Level: Database Technologies - Achieving Database Mastery and Data Architecture Expertise!
 
@@ -88,15 +91,18 @@ Welcome to the **Advanced Level of Database Technologies**!  Reaching this stage
 
     ### Future Reading Links
 
-    - [MongoDB Documentation](https://docs.mongodb.com/)
-    - [Redis Documentation](https://redis.io/documentation)
-    - [Cassandra Documentation](https://cassandra.apache.org/doc/latest/)
-    - [Neo4j Documentation](https://neo4j.com/docs/)
-    - [AWS RDS Documentation](https://docs.aws.amazon.com/rds/index.html)
-    - [Azure SQL Database Documentation](https://docs.microsoft.com/en-us/azure/azure-sql/)
-    - [Google Cloud Spanner Documentation](https://cloud.google.com/spanner/docs)
-    - [Database Sharding Best Practices](https://www.digitalocean.com/community/tutorials/understanding-database-sharding)
-    - [Database Performance Tuning Guide](https://use-the-index-luke.com/)
-    - [Data Encryption Best Practices](https://www.owasp.org/index.php/Cryptographic_Storage_Cheat_Sheet)
-    - [GDPR Compliance Guide](https://gdpr.eu/)
-    - [HIPAA Compliance Guide](https://www.hhs.gov/hipaa/for-professionals/index.html)
+- [Designing Data-Intensive Applications by Martin Kleppmann](https://dataintensive.net/)
+- [Database Partitioning Techniques for Scalability](https://www.sqlshack.com/database-partitioning-introduction/)
+- [Sharding for Distributed Databases: Best Practices](https://www.mongodb.com/docs/manual/sharding/)
+- [Advanced Database Indexing Techniques](https://use-the-index-luke.com/)
+- [High-Performance Database Design - DigitalOcean](https://www.digitalocean.com/community/tutorials/high-performance-database-design)
+- [Data Encryption in Databases for Security - IBM Cloud](https://www.ibm.com/cloud/blog/encryption-in-databases)
+- [CAP Theorem and Distributed Databases - Medium](https://medium.com/distributed-computing-fundamentals/cap-theorem-plain-and-simple-267c96f3d80e)
+- [NoSQL Databases for Big Data Solutions](https://aws.amazon.com/nosql/)
+- [ACID vs BASE in Distributed Database Systems](https://www.sciencedirect.com/science/article/pii/S2405844022016920)
+- [Advanced Query Optimization Techniques - PostgreSQL Documentation](https://www.postgresql.org/docs/current/performance-tips.html)
+- [Eventual Consistency and Conflict Resolution - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.EventualConsistency.html)
+- [Role of Database Administrators in High-Performance Systems](https://www.redhat.com/en/topics/data-management/database-administration)
+- [Database Backup and Disaster Recovery Planning](https://www.sqlshack.com/disaster-recovery-and-backups/)
+- [Distributed SQL Databases: An Introduction](https://www.cockroachlabs.com/blog/what-is-distributed-sql/)
+- [Query Performance Insights with Query Profiling](https://www.databasestar.com/query-profiling/)

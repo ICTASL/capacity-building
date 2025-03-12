@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/1-2-beginne
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ## 1.2. Beginner Level: Front-end Design and Development - Your Foundation for Web Creation!
@@ -85,14 +88,11 @@ In this Beginner Level, we'll break down front-end development into manageable m
 
     ### Future Reading Links
 
-    To further expand your knowledge, here are some recommended readings:
-
-    - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-    - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-    - [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-    - [A List Apart - Articles on Web Design](https://alistapart.com/articles/)
-    - [Smashing Magazine - Front-end Development](https://www.smashingmagazine.com/category/front-end)
-    - [CSS-Tricks](https://css-tricks.com/)
-    - [WebAIM - Web Accessibility In Mind](https://webaim.org/)
-    - [Google Web Fundamentals](https://developers.google.com/web/fundamentals)
+- [Effective UI/UX Design Principles for Front-End Developers](https://www.keitaro.com/insights/2024/06/11/effective-ui-ux-design-principles-for-front-end-developers/)
+- [Modern Front-End Design: 18 Essential Principles for 2024](https://www.index.dev/blog/top-front-end-design-principles-for-software-developers-2024)
+- [7 Fundamental User Experience (UX) Design Principles](https://www.uxdesigninstitute.com/blog/ux-design-principles/)
+- [Future Readings on Basic UI/UX Principles for Front-end Development](https://bing.com/search?q=Future+Readings+on+Basic+UI%2fUX+Principles+for+Front-end+Development)
+- [Introduction to Mobile-First Design](https://www.smashingmagazine.com/2018/12/guidelines-for-mobile-first-design/)
+- [Accessibility in UI/UX Design](https://www.a11yproject.com/)
+- [Typography and Color Theory in Web Design](https://www.webdesignerdepot.com/2021/03/typography-and-color-theory-in-web-design/)
 

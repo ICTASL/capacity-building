@@ -5,6 +5,9 @@ description: "Advanced DevOps and Cloud Native Infrastructure for DevOps and Ope
 permalink: /professionals\full_stack_development\digital-innovators\/4-4-1-advanced-devops-cloud-native-infra/
 lang: en
 ---
+* TOC
+{:toc}
+
 
 
 #### 4.4.1. Advanced DevOps and Cloud Native Infrastructure:  Cloud at Scale!
@@ -178,14 +181,26 @@ That completes **4.4.1. Advanced DevOps and Cloud Native Infrastructure!** You'v
 
 ### Future Reading Links
 
-  - [Kubernetes Documentation - Autoscaling](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/) - Official Kubernetes documentation on Horizontal Pod Autoscaling, covering concepts and configuration.
-  - [Istio Documentation - Service Mesh Concepts](https://istio.io/latest/docs/concepts/what-is-istio/) - Official Istio documentation explaining service mesh concepts and Istio's architecture and features.
-  - [Linkerd Documentation - What is Linkerd?](https://linkerd.io/2/overview/what-is-linkerd/) - Official Linkerd documentation providing an overview of Linkerd service mesh and its benefits.
-  - [CNCF Cloud Native Definition](https://github.com/cncf/toc/blob/main/DEFINITION.md) - Cloud Native Computing Foundation's official definition of cloud-native, outlining key characteristics.
-  - [AWS Well-Architected Framework - Multi-Cloud Lens](https://wa.aws.amazon.com/wellarchitected/2020-07-02T19-33-51/lenses/Multi-Cloud.en.html) - AWS guidance on architecting for multi-cloud environments within the AWS Well-Architected Framework.
-  - [Azure Cloud Adoption Framework - Multi-cloud strategy](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/multi-cloud) - Microsoft Azure's Cloud Adoption Framework documentation on developing and implementing a multi-cloud strategy.
-  - [Google Cloud - Multi-cloud and hybrid cloud solutions](https://cloud.google.com/solutions/multi-cloud) - Google Cloud's solutions and documentation related to multi-cloud and hybrid cloud deployments.
-  - [Service Mesh Patterns - by Bilgin Ibryam and Roland Huß](https://www.redhat.com/architect/patterns/service-mesh-patterns) - Red Hat Architect article discussing common patterns and use cases for service meshes.
-  - [Production-Ready Microservices: Building Standardized Systems Across an Engineering Organization (Book) - by Susan J. Fowler](https://www.oreilly.com/library/view/production-ready-microservices/9781492082897/) - Book focused on building and managing microservices in production, covering cloud-native principles and service meshes.
-  - [Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/) - Explore the Cloud Security Alliance website for resources, best practices, and research on cloud security, relevant to multi-cloud security strategies.
-
+- [DevOps for Cloud-Native Applications - Red Hat](https://www.redhat.com/en/topics/devops/cloud-native-devops)
+- [Building DevOps Processes at Scale - AWS DevOps](https://aws.amazon.com/devops/)
+- [Hybrid and Multi-Cloud DevOps Architecture - VMware](https://www.vmware.com/topics/cloud-native.html)
+- [Scaling DevOps with Kubernetes - Kubernetes Docs](https://kubernetes.io/docs/tutorials/)
+- [What is Cloud Native Infrastructure? - CNCF](https://www.cncf.io/)
+- [Infrastructure for Cloud-Native Applications - Microsoft Azure](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup/cloud-native-infrastructure)
+- [Architecting Cloud-Native Systems with Kubernetes](https://www.redhat.com/en/topics/containers/what-is-kubernetes)
+- [Serverless Infrastructure for Cloud-Native Apps - AWS Lambda](https://aws.amazon.com/lambda/)
+- [Event-Driven Architecture in Cloud-Native Systems - Google Cloud](https://cloud.google.com/solutions/event-driven-architecture)
+- [Terraform: Advanced Infrastructure Automation](https://developer.hashicorp.com/terraform/docs)
+- [Continuous Delivery for Cloud-Native Systems - GitLab](https://about.gitlab.com/solutions/cloud-native/)
+- [Service Mesh in Cloud-Native Infrastructure - Istio](https://istio.io/latest/docs/concepts/what-is-istio/)
+- [Kubernetes Operators for Automating Cloud-Native Workloads](https://kubernetes.io/docs/concepts/extend-kubernetes/operator/)
+- [DevSecOps in Cloud-Native Infrastructure - Snyk](https://snyk.io/)
+- [Building Resilient Cloud-Native Applications - Google SRE](https://sre.google/sre-book/)
+- [Chaos Engineering for Cloud Systems - Principles of Chaos](https://principlesofchaos.org/)
+- [Disaster Recovery for Multi-Cloud Environments - AWS](https://aws.amazon.com/disaster-recovery/)
+- [Full-Stack Observability in Cloud-Native Systems - Datadog](https://www.datadoghq.com/)
+- [Prometheus and Grafana for Monitoring Cloud-Native Applications](https://prometheus.io/docs/introduction/overview/)
+- [Distributed Tracing for Microservices - Jaeger](https://www.jaegertracing.io/)
+- [Scaling DevOps for Large Organizations - ThoughtWorks](https://www.thoughtworks.com/insights/devops)
+- [Cultural Shifts in Cloud-Native DevOps Teams](https://cloud.google.com/blog/topics/transform-your-work/how-to-drive-culture-change-with-devops/)
+- [Leading DevOps Teams: The Role of a DevOps Architect](https://www.pluralsight.com/blog/it-ops/devops-architect-role)

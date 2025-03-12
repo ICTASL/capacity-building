@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/4-3-interme
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ## 4.3. Intermediate Level: DevOps and Operations - Building Automated Pipelines and Managing Systems!
@@ -75,13 +78,21 @@ Welcome to the **Intermediate Level of DevOps and Operations**!  Congratulations
 
 ### Future Reading Links
 
--   [The Site Reliability Workbook: Practical Ways to Implement SRE](https://sre.google/workbook/table-of-contents/) - While targeting SRE, this workbook provides practical guidance applicable to intermediate DevOps, covering automation, monitoring, and incident response.
--   [DevOps for the Enterprise: A Practical Guide to Large-Scale DevOps](https://www.oreilly.com/library/view/devops-for-the/9781119086065/) - Focuses on enterprise-level DevOps, offering insights into scaling DevOps practices which are relevant as intermediate skills mature.
--   [Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling](https://www.oreilly.com/library/view/effective-devops-building/9781449337119/) - Emphasizes the cultural and collaborative aspects of DevOps, crucial for implementing intermediate-level workflows effectively.
--   [The DevOps 2.0 Toolkit: Automating the Continuous Software Delivery Pipeline with Containerization](https://www.amazon.com/DevOps-2-0-Toolkit-Automating-Containerization/dp/1537600658) - Focuses on building automated pipelines with containerization, directly relevant to intermediate CI/CD goals.
--   [Learning DevOps: The Complete Guide to Building a DevOps Culture](https://www.amazon.com/Learning-DevOps-Complete-Building-Culture/dp/1788835055) - A comprehensive guide to DevOps culture and practices, suitable for solidifying intermediate level understanding.
--   [Practical DevOps - by Joakim Verona](https://www.apress.com/gp/book/9781484241444) - A practical guide offering hands-on examples and real-world scenarios for implementing DevOps practices at an intermediate level.
--   [The Infrastructure as Code Cookbook: Infrastructure Management Using Chef, Puppet, Salt, Ansible and Terraform](https://www.packtpub.com/product/infrastructure-as-code-cookbook-infrastructure-management-using-chef-puppet-salt-ansible-and-terraform-second-edition/9781839217918) - A cookbook providing practical recipes for using IaC and CM tools, helpful for hands-on intermediate learning.
--   [Continuous Delivery Patterns and Anti-patterns](https://www.informit.com/articles/article.aspx?p=2758558) - Article discussing patterns and anti-patterns in Continuous Delivery, useful for refining CI/CD pipeline design at the intermediate stage.
--   [Monitoring in a DevOps Environment](https://www.bmc.com/blogs/devops-monitoring/) - Blog post discussing the specific considerations and best practices for monitoring within a DevOps context.
--   [Intermediate DevOps Engineer Learning Path -  Various Online Learning Platforms (Coursera, Udemy, A Cloud Guru etc.)] - Search for "Intermediate DevOps Learning Path" on online learning platforms to find curated courses and learning paths specifically designed for this level. (e.g., Coursera's Google DevOps Specialization, Udemy's DevOps Engineer Professional)
+
+- [Building Advanced CI/CD Pipelines - GitLab Docs](https://docs.gitlab.com/ee/ci/pipelines/)
+- [Jenkins Pipeline as Code: Advanced Guide](https://www.jenkins.io/doc/book/pipeline/)
+- [Integrating CI/CD with Kubernetes - Kubernetes Docs](https://kubernetes.io/docs/tasks/)
+- [GitOps: Automating Deployments with Git - Weaveworks](https://www.weave.works/technologies/gitops/)
+- [Terraform: Automating Infrastructure as Code - HashiCorp](https://developer.hashicorp.com/terraform/docs)
+- [Getting Started with Observability - New Relic](https://newrelic.com/platform/observability)
+- [Prometheus and Grafana for Monitoring and Metrics](https://prometheus.io/docs/introduction/overview/)
+- [Distributed Tracing with Jaeger](https://www.jaegertracing.io/)
+- [Implementing Logging Best Practices with ELK Stack](https://www.elastic.co/what-is/elk-stack)
+- [Analyzing Metrics and Logs for System Health - Splunk](https://www.splunk.com/en_us/resources/what-is-splunk.html)
+- [Best Practices for Container Orchestration - Red Hat](https://www.redhat.com/en/technologies/cloud-computing/openshift/what-is-kubernetes)
+- [Advanced Ansible Playbooks for Automation](https://docs.ansible.com/ansible/latest/user_guide/playbooks.html)
+- [Role of Site Reliability Engineering (SRE) in DevOps](https://sre.google/introduction/)
+- [Scaling DevOps Pipelines for Large Systems - ThoughtWorks](https://www.thoughtworks.com/)
+- [Understanding Chaos Engineering for System Resilience](https://principlesofchaos.org/)
+- [Blue-Green and Canary Deployments: CI/CD Strategies](https://martinfowler.com/bliki/BlueGreenDeployment.html)
+- [Automated Testing in CI/CD Pipelines - Sauce Labs](https://saucelabs.com/)

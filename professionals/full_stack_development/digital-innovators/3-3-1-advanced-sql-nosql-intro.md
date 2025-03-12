@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/3-3-1-advan
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 #### 3.3.1. Advanced SQL and Introduction to NoSQL:  More Tools for Your Data Belt!
@@ -159,8 +162,24 @@ That's **3.3.1. Advanced SQL and Introduction to NoSQL!** You've significantly l
 
 ### Future Reading Links
 
-- [Advanced SQL Query Techniques](https://www.sqlshack.com/advanced-sql-query-techniques/)
-- [Indexing Best Practices](https://use-the-index-luke.com/)
-- [Introduction to NoSQL Databases](https://www.mongodb.com/nosql-explained)
-- [Comparing SQL and NoSQL Databases](https://www.dataversity.net/comparing-sql-nosql-databases/)
-- [Database Performance Tuning Guide](https://www.red-gate.com/simple-talk/sql/performance/sql-server-performance-tuning-using-wait-statistics-the-basics/)
+- [Mastering SQL Joins: A Complete Guide](https://www.databasestar.com/sql-joins/)
+- [Advanced SQL Query Techniques - Mode](https://mode.com/sql-tutorial/advanced-sql/)
+- [SQL Window Functions Explained - DataCamp](https://www.datacamp.com/tutorial/sql-window-functions-tutorial)
+- [Common Table Expressions (CTEs) in SQL - LearnSQL](https://learnsql.com/blog/sql-common-table-expressions-ctes/)
+- [Recursive Queries in SQL](https://www.geeksforgeeks.org/introduction-to-recursive-queries/)
+- [SQL Query Performance Optimization - SQLShack](https://www.sqlshack.com/sql-query-optimization-techniques/)
+- [Partitioning in SQL Databases for Performance](https://www.sqlshack.com/database-partitioning-introduction/)
+- [Exploring Stored Procedures and Triggers - TutorialsPoint](https://www.tutorialspoint.com/sql/sql-stored-procedures.htm)
+- [Dynamic SQL: When and How to Use It](https://www.geeksforgeeks.org/dynamic-sql/)
+- [What is NoSQL? A Beginner's Guide - MongoDB](https://www.mongodb.com/nosql-explained)
+- [Comparing SQL and NoSQL Databases - AWS](https://aws.amazon.com/nosql/)
+- [Introduction to Document-Oriented Databases - Couchbase](https://www.couchbase.com/resources/what-is-a-document-oriented-database)
+- [Key-Value Databases Explained](https://www.datastax.com/blog/key-value-databases)
+- [Working with Columnar Databases - Apache Cassandra Docs](https://cassandra.apache.org/doc/latest/)
+- [Graph Databases: An Introduction - Neo4j](https://neo4j.com/graph-databases/)
+- [CAP Theorem and Its Implications for NoSQL - IBM](https://www.ibm.com/cloud/learn/cap-theorem)
+- [Getting Started with MongoDB Atlas](https://www.mongodb.com/atlas)
+- [How to Build NoSQL Data Models - DZone](https://dzone.com/articles/how-to-build-nosql-data-models)
+- [NoSQL Use Cases and Best Practices](https://www.thoughtworks.com/insights/blog/nosql-data-modeling-techniques)
+
+These resources will guide you through advanced SQL techniques, such as optimizing queries, using window functions, and exploring stored procedures. Meanwhile, the NoSQL section introduces you to alternative database technologies, including document-oriented, key-value, columnar, and graph databases. Let me know if you'd like

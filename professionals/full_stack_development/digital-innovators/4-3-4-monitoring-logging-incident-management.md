@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/4-3-4-monit
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 #### 4.3.4. Monitoring, Logging, and Incident Management:  Keeping a Watchful Eye and Responding Like a Pro!
 
@@ -166,13 +169,23 @@ Congratulations! You've completed **4.3.4. Monitoring, Logging, and Incident Man
 
 ### Future Reading Links
 
--   [Prometheus Documentation - Getting Started](https://prometheus.io/docs/prometheus/latest/getting_started/) - Official Prometheus documentation for getting started with monitoring using Prometheus.
--   [Grafana Documentation - Getting Started](https://grafana.com/docs/grafana/latest/getting-started/) - Official Grafana documentation to learn how to create dashboards and visualize metrics with Grafana.
--   [The ELK Stack Guide - Elasticsearch, Logstash, Kibana](https://www.elastic.co/guide/en/elastic/ ELK stack overview and guide from Elastic, the creators of Elasticsearch, Logstash, and Kibana.
--   [Google SRE Book - Monitoring Distributed Systems](https://sre.google/sre-book/monitoring-distributed-systems/) - Chapter from the Google SRE Book on principles and practices for monitoring complex distributed systems effectively.
--   [Effective Monitoring and Alerting - Grafana Labs](https://grafana.com/go/ebooks/effective-monitoring-alerting/) - Ebook from Grafana Labs on designing effective monitoring and alerting strategies.
--   [Incident Response at Google - SRE Book](https://sre.google/sre-book/incident-response/) - Chapter from the Google SRE Book detailing Google's approach to incident response and management.
--   [Practical Alerting - by Rob Ewaschuk (ex-Google SRE)](https://docs.google.com/document/d/199PzUmdW3rMWGcq9vgTCn12YwLrkMwH_-Fvfz_E4F-Y/edit) - In-depth guide to practical alerting strategies and best practices by a former Google SRE.
--   [Honeycomb.io Blog - Observability Articles](https://www.honeycomb.io/blog/categories/observability/) - Blog articles on observability concepts, practices, and tools from Honeycomb.io, a company focused on observability solutions.
--   [Cloud Logging Services Compared: AWS vs. GCP vs. Azure](https://logz.io/learn/comparisons/cloud-logging-aws-vs-azure-vs-gcp/) - Comparison article of cloud logging services from major cloud providers, helping to understand different managed logging solutions.
--   [Post-Incident Reviews - Learning from Failure - by John Allspaw](https://www.adaptivecapacitylabs.com/2022/01/18/post-incident-reviews-learning-from-failure/) - Article by John Allspaw, a pioneer in blameless postmortems, discussing the benefits of learning from failures through post-incident reviews.
+
+- [Introduction to Monitoring and Observability - New Relic](https://newrelic.com/platform/observability)
+- [Prometheus and Grafana: Monitoring Best Practices](https://prometheus.io/docs/introduction/overview/)
+- [Comprehensive Guide to Cloud Monitoring - AWS](https://aws.amazon.com/cloudwatch/)
+- [Kubernetes Monitoring with Prometheus - Kubernetes Docs](https://kubernetes.io/docs/tasks/debug-application-cluster/resource-metrics-pipeline/)
+- [Best Practices for System Monitoring and Metrics - Datadog](https://www.datadoghq.com/)
+- [What is Logging? A Beginner's Guide to Logs - Logz.io](https://logz.io/learn/observability/logging/)
+- [The ELK Stack: Centralized Logging with Elasticsearch, Logstash, and Kibana](https://www.elastic.co/what-is/elk-stack)
+- [Structured Logging Best Practices - Dev.to](https://dev.to/structured-logging/)
+- [Introduction to Fluentd: Log Aggregation for Cloud-Native Systems](https://www.fluentd.org/)
+- [Analyzing Logs for Insights - Splunk Docs](https://www.splunk.com/en_us/resources/what-is-splunk.html)
+- [What is Incident Management? - Atlassian](https://www.atlassian.com/incident-management)
+- [Blameless Postmortems: Best Practices - Google SRE](https://sre.google/sre-book/postmortem-culture/)
+- [Incident Response and Management with PagerDuty](https://www.pagerduty.com/why-pagerduty/)
+- [Runbooks and Incident Playbooks Explained - FireHydrant](https://firehydrant.io/blog/runbooks-vs-playbooks-for-incident-management/)
+- [Incident Prioritization and Escalation Best Practices](https://devops.com/incident-management-and-escalation-best-practices/)
+- [Automating Incident Detection and Response - Dynatrace](https://www.dynatrace.com/solutions/incident-management/)
+- [Service-Level Objectives (SLOs) and Error Budgets - Google SRE](https://sre.google/sre-book/service-level-objectives/)
+- [Using AI/ML for Anomaly Detection and Incident Prediction](https://towardsdatascience.com/ml-and-ai-for-anomaly-detection-in-it-operations-d49d2290b22c)
+- [Chaos Engineering for Resilience - Principles of Chaos](https://principlesofchaos.org/)

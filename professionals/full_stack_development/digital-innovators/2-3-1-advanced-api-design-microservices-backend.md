@@ -6,6 +6,10 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-3-1-advan
 lang: en
 ---
 
+* TOC
+{:toc}
+
+
 ### 2.3.1. Advanced API Design and Microservices:
 
 #### 2.3.1.1. REST API Enhancements, Versioning, and Documentation (Swagger/OpenAPI)
@@ -171,14 +175,17 @@ This project will bridge the gap between beginner-level API building and more so
 
 ### Future Readings:
 
-1. [Designing Data-Intensive Applications by Martin Kleppmann](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-2. [The Twelve-Factor App by Heroku](https://12factor.net/)
-3. [Building Microservices by Sam Newman](https://www.oreilly.com/library/view/building-microservices/9781491950340/)
-4. [RESTful Web Services: The Basics by IBM Developer](https://developer.ibm.com/articles/ws-restful/)
-5. [GraphQL: A Practical Guide with Examples by Marc-Andre Giroux](https://www.pragprog.com/titles/mggraphql/graphql/)
-6. [Microservices Patterns by Chris Richardson](https://www.manning.com/books/microservices-patterns)
-7. [API Design Patterns by JJ Geewax](https://www.oreilly.com/library/view/api-design-patterns/9781617295850/)
-8. [REST API Design Rulebook by Mark Masse](https://www.oreilly.com/library/view/rest-api-design/9781449317904/)
-9. [GraphQL in Action by Samer Buna](https://www.manning.com/books/graphql-in-action)
-10. [Site Reliability Engineering by Niall Richard Murphy, Betsy Beyer, Chris Jones, and Jennifer Petoff](https://sre.google/sre-book/table-of-contents/)
+- [Advanced API Design Patterns and Future Trends](https://link.springer.com/chapter/10.1007/979-8-8688-0309-3_10)
+- [Advanced Microservices: A Hands-on Approach to Microservice Infrastructure](https://link.springer.com/book/10.1007/978-1-4842-2887-6)
+- [Patterns for API Design - Microservice API Patterns](https://www.microservice-api-patterns.org/introduction)
+- [Ultimate Guide to REST API Versioning Techniques](https://moldstud.com/articles/p-ultimate-guide-to-rest-api-versioning-techniques)
+- [Versioning a REST API - Baeldung](https://www.baeldung.com/rest-versioning)
+- [What is API versioning? Benefits, types & best practices - Postman](https://www.postman.com/api-platform/api-versioning/)
+- [Using GraphQL for Microservices Architecture: A Case Study](https://codezup.com/using-graphql-for-microservices-architecture-a-case-study/)
+- [Building Microservices Architecture Using GraphQL and ASP.NET 7 Core](https://www.codemag.com/Article/2307051/Building-Microservices-Architecture-Using-GraphQL-and-ASP.NET-7-Core)
+- [GraphQL and Microservices: A Practical Approach to API Integration](https://codezup.com/graphql-and-microservices-a-practical-approach-to-api-integration/)
+- [Microservices API Design: Creating Modular and Scalable APIs](https://moldstud.com/articles/p-microservices-api-design-creating-modular-and-scalable-apis)
+- [How Microservices And APIs Can Make Your Company Modular - Forbes](https://www.forbes.com/councils/forbestechcouncil/2022/02/17/how-microservices-and-apis-can-make-your-company-modular/)
+- [Build Microservice Architecture (MSA) REST API using Flask](https://www.topcoder.com/thrive/articles/build-microservice-architecture-msa-rest-api-using-the-using-flask)
+
 

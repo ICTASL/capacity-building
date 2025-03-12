@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/2-3-interme
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ## 2.3. Intermediate Level: Back-end Design and Development - Building Robust Server-Side Applications!
@@ -75,14 +78,17 @@ Welcome to the **Intermediate Level of Back-end Design and Development**!  Congr
 
     ### Future Reading Links
 
-      - [Express.js Guide](https://expressjs.com/en/guide/routing.html)
-      - [Django Documentation](https://docs.djangoproject.com/en/stable/)
-      - [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
-      - [REST API Tutorial](https://restfulapi.net/)
-      - [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-      - [MySQL Documentation](https://dev.mysql.com/doc/)
-      - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
-      - [JWT Introduction](https://jwt.io/introduction/)
-      - [OAuth 2.0 and OpenID Connect](https://auth0.com/docs/protocols/oauth2)
-      - [Microservices.io](https://microservices.io/)
-      - [Building Microservices by Sam Newman](https://www.oreilly.com/library/view/building-microservices/9781491950340/)
+- [Intermediate Back-End Development with Node.js & MongoDB](https://www.classcentral.com/course/intermediate-back-end-development-with-nodejs-mon-278457)
+- [Crafting Robust RESTful APIs: Best Practices](https://restfulapi.net/)
+- [Building Scalable Back-End Systems - DigitalOcean](https://www.digitalocean.com/community/tutorials/building-scalable-back-end-systems)
+- [Intermediate API Design: Authentication and Performance Optimization](https://auth0.com/blog/api-design-best-practices/)
+- [Database Optimization Techniques: Query Performance Tuning](https://www.sqlshack.com/query-performance-tuning/)
+- [Mastering Asynchronous Programming in Node.js](https://nodesource.com/blog/mastering-asynchronous-programming-nodejs)
+- [Building and Securing GraphQL APIs - Apollo Docs](https://www.apollographql.com/docs/)
+- [Implementing OAuth 2.0 for API Authentication](https://oauth.net/2/)
+- [Integration of Microservices Architecture - Martin Fowler](https://martinfowler.com/articles/microservices.html)
+- [NoSQL Databases: A Beginner's Guide - MongoDB](https://www.mongodb.com/learn/nosql)
+- [Docker for Back-End Development - Getting Started](https://docs.docker.com/get-started/)
+- [Serverless Architecture Patterns and Practices](https://aws.amazon.com/serverless/)
+- [Error Handling and Monitoring in Backend Systems](https://rollbar.com/guides/backend-error-monitoring/)
+- [Intermediate PostgreSQL Techniques for Developers](https://wiki.postgresql.org/wiki/Main_Page)

@@ -6,6 +6,9 @@ permalink: /professionals\full_stack_development\digital-innovators\/3-3-2-orms-
 lang: en
 ---
 
+* TOC
+{:toc}
+
 
 
 ### 3.3.2. ORMs and Data Abstraction:  Making Database Work Easier and Safer!
@@ -190,8 +193,15 @@ That's **3.3.2. ORMs and Data Abstraction!** You've now learned how ORMs simplif
 
 ### Future Reading Links
 
-- [Sequelize Documentation](https://sequelize.org/master/)
-- [Hibernate ORM Documentation](https://hibernate.org/orm/documentation/)
-- [SQLAlchemy Documentation](https://docs.sqlalchemy.org/en/14/)
-- [ACID Transactions Explained](https://www.ibm.com/docs/en/db2-for-zos/11?topic=transactions-acid-properties)
-- [OWASP SQL Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html)
+- [Object-Relational Mappers (ORMs) - Full Stack Python](https://www.fullstackpython.com/object-relational-mappers-orms.html)
+- [What are ORMs and How Do They Work? - iTechnolabs](https://itechnolabs.ca/what-are-orms/)
+- [Introduction to Object-Relational Mappers (ORMs) - DEV Community](https://dev.to/sebastiandevelops/introduction-to-object-relational-mappers-orms-3goo)
+- [Understanding ORMs and Their Benefits - DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-orms-and-their-benefits)
+- [SQLAlchemy ORM Tutorial for Beginners](https://docs.sqlalchemy.org/en/14/orm/tutorial.html)
+- [Django ORM: A Beginner's Guide](https://docs.djangoproject.com/en/stable/topics/db/queries/)
+- [Hibernate ORM: Getting Started](https://hibernate.org/orm/documentation/)
+- [Advantages and Disadvantages of ORMs - GeeksforGeeks](https://www.geeksforgeeks.org/advantages-and-disadvantages-of-orms/)
+- [Data Abstraction in Databases - TutorialsPoint](https://www.tutorialspoint.com/data_abstraction_in_dbms.htm)
+- [ORMs vs Raw SQL: When to Use Each](https://www.freecodecamp.org/news/orm-vs-raw-sql-when-to-use-each/)
+- [Best Practices for Using ORMs in Applications](https://www.baeldung.com/hibernate-best-practices)
+- [Exploring Advanced ORM Features - SQLAlchemy Docs](https://docs.sqlalchemy.org/en/14/orm/extensions.html)

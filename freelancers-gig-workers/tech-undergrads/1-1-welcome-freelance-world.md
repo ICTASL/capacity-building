@@ -64,3 +64,32 @@ In summary, "1.1 Welcome to the Freelance World" is a critical introductory sect
 **Contextualize and Legitimize:**  Place freelancing within the broader gig economy and, crucially, within the specific Sri Lankan context, acknowledging both opportunities and challenges.
 
 
+
+### **GPT Prompts**
+
+1. "List the top freelancing platforms where Sri Lankan graduates can start earning."
+2. "Draft an introductory email for a new freelance client in the tech industry."
+3. "Explain how technology graduates in Sri Lanka can upskill for global freelancing opportunities."
+4. "Generate a step-by-step guide for setting up a freelance profile on platforms like Upwork or Fiverr."
+5. "Write tips for managing freelance payments efficiently in Sri Lanka."
+6. "Explain how Sri Lanka's gig economy is evolving with the rise of digital literacy."
+7. "Provide strategies for overcoming local challenges like internet access while freelancing."
+8. "List essential tools for freelance developers to work efficiently and collaborate with clients."
+9. "Outline how technology undergraduates can balance freelancing with academic responsibilities."
+10. "Write a brief proposal for a web development project tailored to a freelance job posting."
+
+
+### **Future Reading Links**
+
+- [Freelancing Platforms for Beginners - Fiverr Guide](https://www.fiverr.com/resources/guides)
+- [How to Start Freelancing in Sri Lanka - StartupX Foundry](https://startupxfoundry.com/blog/)
+- [Getting Started on Upwork: Tips and Tricks - Upwork Help Center](https://support.upwork.com/hc/en-us)
+- [The Gig Economy: What It Means for Sri Lanka - The Morning](https://www.themorning.lk/articles/q4VI3ypwaWrlLnH1Rykw)
+- [The Freelancer's Guide to Productivity Tools - Trello Blog](https://blog.trello.com/)
+- [Digital Payments and Freelance Work - Payoneer Blog](https://blog.payoneer.com/)
+- [Improving Digital Literacy in Sri Lanka - UNESCO](https://en.unesco.org/)
+- [Tech Skills in Demand for Freelancers - HackerRank Blog](https://blog.hackerrank.com/)
+- [Remote Work Challenges for Freelancers in Sri Lanka - Economy Next](https://economynext.com/)
+- [Balancing Freelancing and Studies - Medium](https://medium.com/)
+- [Local Freelance Opportunities in Sri Lanka - Work.lk](https://www.work.lk/)
+- [Freelancing Success Stories in Sri Lanka - Daily FT](https://www.ft.lk/)
