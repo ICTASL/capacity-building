@@ -2,7 +2,7 @@
 layout: resource
 title: "Full Stack, Cloud Native, and Secure Development Curriculum"
 description: "A comprehensive curriculum guiding you from front-end to DevOps, emphasizing cloud-native and secure development practices for building modern applications."
-permalink: professionals/full_stack_development/digital-innovators/
+permalink: professionals/full_stack_development/
 ---
 
 * TOC
