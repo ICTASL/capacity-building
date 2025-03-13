@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 REM --- Configuration ---
-set "baseFolder=professionals\full_stack_development\digital-innovators\"
+set "baseFolder=professionals/full_stack_development"
 set "layout=resource"
 set "lang=en"
 

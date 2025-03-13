@@ -23,6 +23,8 @@ main:
   - title: "Professionals"
     url: "/professionals/"
     children:
+      - title: "Full stack Development"
+        url: "/professionals/full_stack_development/"
       - title: "Software Security"
         url: "/professionals/software-security/"
   #     - title: "IT Professionals"
@@ -118,12 +120,6 @@ main:
   #       url: "/collections/employability-readiness-assessment/"
   #     - title: "Certification & Verification"
   #       url: "/collections/certification-verification-model/"
-  - title: "Full stack Development"
-    url: "/professionals/full_stack_development/digital-innovators/"
-    children:
-      - title: "Digital Innovators"
-        url: "/professionals/full_stack_development/digital-innovators/"
-
   # - title: "About"
   #   url: "/pages/about/"
   # - title: "Contact"
