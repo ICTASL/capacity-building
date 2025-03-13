@@ -5,6 +5,8 @@ main:
   - title: "Students"
     url: "/students/"
     children:
+      - title: "Career Guidance"
+        url: " /students/career_guidance/career_paths/"
       - title: "AI Aptitude"
         url: "/students/ai-aptitude/"
       - title: "Digital Literacy"
