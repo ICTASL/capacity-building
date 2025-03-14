@@ -5,6 +5,8 @@ description: "Introduction to Career Paths in the Software Industry"
 permalink: /students/career_guidance/career_paths/1-Introduction/
 lang: en
 ---
+* TOC
+{:toc}
 
 # 1. Introduction :  Unlock Your Future in the Limitless World of Software
 

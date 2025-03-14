@@ -5,6 +5,8 @@ description: "Deep Dive into Various Software Industry Roles"
 permalink: /students/career_guidance/career_paths/3-Deep_Dive_into_Software_Industry_Roles/
 lang: en
 ---
+* TOC
+{:toc}
 
 # 3. Deep Dive into Software Industry Roles :  Your Personalized Career Roadmap
 

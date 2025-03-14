@@ -6,6 +6,10 @@ permalink: /students/career_guidance/career_paths/2-Foundational_Skills/
 lang: en
 ---
 
+* TOC
+{:toc}
+
+
 # 2. Foundational Skills : Your Launchpad to a Software Career
 
 Welcome to the exciting world of software! As you explore different career paths, you'll find that while each role is unique, they all stand on a common ground: **a set of foundational skills that are like the secret ingredients to success in the software industry.**  Think of these as your essential superpowers!  Let's break down these crucial skills in a way that's easy to understand and super helpful for you as you begin your journey.
