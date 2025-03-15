@@ -26,5 +26,7 @@ Welcome to the **Digital Library for Digital Sri Lanka**. This repository hosts 
    bundle install
    bundle exec jekyll serve
 
+[Jekyll Command Line Usage](https://jekyllrb.com/docs/usage/)
+
 Visit http://127.0.0.1:4000/capacity-building/ to view the site locally.
 
