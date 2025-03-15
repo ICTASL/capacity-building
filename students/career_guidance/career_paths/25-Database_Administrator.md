@@ -5,13 +5,7 @@ description: "Career Path for a Database Administrator"
 permalink: /students/career_guidance/career_paths/25-Database_Administrator/
 lang: en
 ---
----
-layout: resource
-title: "25. Database Administrator"
-description: "Career Path for a Database Administrator"
-permalink: /students/career_guidance/career_paths/25-Database_Administrator/
-lang: en
----
+
 * TOC
 {:toc}
 
@@ -220,3 +214,27 @@ methodologies, cloud database security best practices, and hybrid cloud database
 * **Data Governance and Data Management Strategy (Database Focused):**  Contributing to the development and implementation of enterprise-wide data governance frameworks and data management strategies, specifically related to database management, data quality, data security, and data lifecycle management within database systems.
 * **Innovation and Database Technology Adoption Leadership (Organization Wide):** Evaluating and recommending new database technologies, DBMS features, database management tools, and database architecture approaches to improve the organization's database capabilities, enhance data performance, security, and operational efficiency, and driving innovation in database technology adoption across the company.
 * **Database Budget and Resource Strategy (Database Infrastructure and Teams):**  Developing and managing budgets for database infrastructure, database tools, DBMS licenses, and DBA teams, optimizing resource allocation for database projects, and making strategic decisions about database technology investments to maximize database effectiveness, business impact, and ROI for database initiatives.
+
+## GPT Prompts
+1. "Describe the role of a Database Administrator, focusing on their responsibilities in database design, maintenance, and security."
+2. "Develop a roadmap for becoming a Database Administrator, including key certifications such as Oracle DBA, Microsoft SQL Server, and PostgreSQL."
+3. "Create a guide for building a strong portfolio as a DBA, showcasing database optimization projects, backup and recovery plans, and data security implementations."
+4. "Write an article comparing relational and non-relational databases, discussing the role of a DBA in managing each type."
+5. "Analyze the career progression paths for DBAs, highlighting roles such as Junior DBA, Database Architect, and Data Engineering Manager."
+6. "Explore common specializations for Database Administrators, such as cloud database management, database performance optimization, and database security."
+7. "Generate a list of essential tools and technologies for Database Administrators, including MySQL, MongoDB, Oracle Database, and AWS RDS."
+8. "Draft a blog post titled 'The Future of Database Administration: Trends in Cloud Computing, Automation, and Big Data.'"
+9. "Discuss how DBAs can transition into roles like Data Engineer, Solutions Architect, or Systems Administrator, emphasizing transferable skills."
+10. "Create a step-by-step tutorial on setting up a high-availability database system using PostgreSQL or MySQL."
+
+## Future Reading Links
+1. [Oracle Database Documentation](https://docs.oracle.com/en/database/): Comprehensive guides for Oracle database management.
+2. [Microsoft SQL Server Documentation](https://learn.microsoft.com/en-us/sql/sql-server/): Learn about managing databases using SQL Server.
+3. [PostgreSQL Documentation](https://www.postgresql.org/docs/): Official tutorials for PostgreSQL database management.
+4. [MongoDB University](https://university.mongodb.com/): Courses for learning NoSQL database management.
+5. [AWS Relational Database Service (RDS)](https://aws.amazon.com/rds/): Tutorials for managing cloud-hosted databases on AWS.
+6. [Kaggle Datasets](https://www.kaggle.com/datasets): Practice database management with real-world datasets.
+7. [Coursera - Database Management Courses](https://www.coursera.org): Courses on database technologies and concepts.
+8. [Udemy - Database Administration](https://www.udemy.com/topic/database-administration/): Paid courses on DBA skills and certifications.
+9. [SQLCourse](https://www.sqlcourse.com/): Free tutorials for mastering SQL, a core skill for DBAs.
+10. [GitHub - Database Management Projects](https://github.com/topics/database): Explore open-source database projects for hands-on experience.

@@ -207,3 +207,27 @@ Certifications focused on IT support, customer service, and specific product kno
 * **Knowledge Management Strategy and Self-Service Enablement (Customer Empowerment):**  Developing and implementing knowledge management strategies to empower customers with self-service resources, improve knowledge base content quality and accessibility, and reduce reliance on direct support interactions through effective self-help options.
 * **Support Tool and Technology Strategy and Innovation (Support Technology Stack):** Evaluating and recommending new support technologies, ticketing systems, remote support solutions, knowledge base platforms, and driving innovation in support toolsets and automation to improve support efficiency, customer experience, and support team capabilities.
 * **Support Budget and Resource Strategy (Support Teams and Infrastructure):**  Developing and managing budgets for support teams, support infrastructure, support tools, and support training, optimizing resource allocation for support operations, and making strategic decisions about support technology investments to maximize support effectiveness, customer satisfaction, and ROI for support initiatives across the organization.
+
+## GPT Prompts
+1. "Describe the role and responsibilities of a Support Engineer, emphasizing their ability to troubleshoot technical issues, assist customers, and document solutions effectively."
+2. "Develop a roadmap for aspiring Customer Success Engineers, detailing key certifications (e.g., ITIL, Salesforce Certified Administrator) and essential customer management skills."
+3. "Create a guide for building a strong portfolio as a Support Engineer, showcasing customer issue resolutions, technical documentation, and workflow improvements."
+4. "Write an article comparing the roles of a Support Engineer and a Customer Success Engineer, focusing on the balance between technical problem-solving and proactive client engagement."
+5. "Analyze career progression paths for Support Engineers, exploring opportunities to advance into Senior Support Engineer, Technical Account Manager, or Customer Success Manager roles."
+6. "Generate a list of must-know tools for Support Engineers, such as Zendesk, Salesforce, JIRA, and remote desktop software, and explain their importance in day-to-day operations."
+7. "Draft a blog post titled 'The Future of Support and Customer Success: Trends in AI Chatbots, Self-Service Portals, and Proactive Issue Resolution.'"
+8. "Explore potential specializations within Support and Customer Success, such as SaaS product support, cloud solutions, or enterprise client management."
+9. "Discuss the skills and strategies needed for transitioning from Support or Customer Success roles into careers like Solutions Architect, Product Manager, or DevOps Engineer."
+10. "Create a tutorial for documenting a technical issue and its resolution, emphasizing clarity, reproducibility, and maintaining a customer-centric tone."
+
+## Future Reading Links
+1. [Zendesk Support Training](https://support.zendesk.com/): Resources for mastering Zendesk tools and workflows.
+2. [Salesforce Trailhead](https://trailhead.salesforce.com/): Free courses for Salesforce certifications and customer relationship management skills.
+3. [ITIL Foundation Certification](https://www.axelos.com/certifications/itil-certifications): Learn IT Service Management principles applicable to support roles.
+4. [LinkedIn Learning - Customer Success and Support Courses](https://www.linkedin.com/learning/): Courses covering technical support, customer success, and client management.
+5. [Coursera - Technical Support Fundamentals](https://www.coursera.org): A beginner-friendly course to understand the basics of technical support.
+6. [JIRA Documentation](https://www.atlassian.com/software/jira/guides): Learn to manage support tickets and collaborate with development teams.
+7. [HubSpot Academy - Customer Success Training](https://academy.hubspot.com/): Resources for building customer success strategies.
+8. [CompTIA A+ Certification](https://www.comptia.org/certifications/a): A widely recognized certification for IT support fundamentals.
+9. [Medium - Customer Success Blog](https://medium.com/tag/customer-success): Insights, tips, and stories from industry professionals.
+10. [ServiceNow Training](https://docs.servicenow.com/): Tutorials for using ServiceNow for IT support and service management.

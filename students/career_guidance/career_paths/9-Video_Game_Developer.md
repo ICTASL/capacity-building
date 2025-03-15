@@ -204,3 +204,29 @@ lang: en
 * **Innovation and Prototyping of New Game Technologies:**  Exploring and prototyping new technologies and techniques to enhance game quality, efficiency, or enable new gameplay possibilities.
 * **Process Improvement and Pipeline Optimization:**  Identifying areas for improvement in game development pipelines, proposing and implementing process optimizations to enhance team productivity and game quality.
 * **Cross-Project Technical Knowledge Sharing:**  Sharing technical knowledge and best practices across multiple game projects within a studio, building internal technical expertise and reusable solutions.
+
+
+## GPT Prompts
+1. "Describe the responsibilities of a Video Game Developer, highlighting the differences between game programming, design, and art roles."
+2. "Create a guide for aspiring Video Game Developers, covering the educational pathways, tools, and software required to get started in the industry."
+3. "Generate a detailed roadmap to build a strong portfolio for Video Game Development, including sample projects like creating a 2D game using Unity or Unreal Engine."
+4. "Write an article comparing game development specializations, such as Game Design, Game Programming, and Game Art, and outline potential career paths for each."
+5. "Explore the transition paths for Video Game Developers to roles in AR/VR Development, focusing on transferable skills and additional training needed."
+6. "Analyze the career progression for a Video Game Developer, from an entry-level programmer to roles like Lead Developer or Creative Director."
+7. "Draft a blog post titled 'The Future of Video Game Development: Trends in AI, Blockchain, and Virtual Reality.'"
+8. "Develop a step-by-step tutorial for creating a small game using popular engines like Unity or Unreal, suitable for beginners."
+9. "List and explain the soft skills (e.g., teamwork, problem-solving) and technical skills (e.g., proficiency in C++, Unity) needed for success in game development."
+10. "Outline the key contributions of senior Video Game Developers, including mentorship, leadership in development, and strategic input on game design."
+
+## Future Reading Links
+1. [Unity Learn](https://learn.unity.com/): Tutorials and resources for mastering game development using Unity.
+2. [Unreal Engine Documentation](https://docs.unrealengine.com/): Comprehensive guides for creating games with Unreal Engine.
+3. [Gamasutra - The Art & Business of Making Games](https://www.gamasutra.com/): Blogs and resources from industry professionals.
+4. [Game Development on GitHub](https://github.com/topics/game-development): Open-source game projects to learn from and contribute to.
+5. [GameMaker Studio Tutorials](https://www.yoyogames.com/learn): Beginner-friendly tutorials for creating 2D games.
+6. [Blender Documentation](https://docs.blender.org/): Learn 3D modeling and animation for game assets.
+7. [Coursera Game Development Specialization](https://www.coursera.org/specializations/game-development): Courses on game development and design.
+8. [Reddit - r/gamedev](https://www.reddit.com/r/gamedev/): A community-driven forum for tips, discussions, and resources.
+9. [Stack Overflow - Game Development](https://gamedev.stackexchange.com/): Q&A platform tailored to game development challenges.
+10. [ArtStation](https://www.artstation.com/): A platform to showcase game art portfolios and connect with industry professionals.
+
