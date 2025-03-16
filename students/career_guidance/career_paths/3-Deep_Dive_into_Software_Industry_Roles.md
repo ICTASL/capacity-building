@@ -5,6 +5,8 @@ description: "Deep Dive into Various Software Industry Roles"
 permalink: /students/career_guidance/career_paths/3-Deep_Dive_into_Software_Industry_Roles/
 lang: en
 ---
+* TOC
+{:toc}
 
 # 3. Deep Dive into Software Industry Roles :  Your Personalized Career Roadmap
 
@@ -56,3 +58,39 @@ For each of these roles, we'll use a **Role Template** to break down the essenti
 Remember those **foundational skills** we just discussed?  They are the bedrock for *all* of these roles! As you explore each role, think about how those core skills are applied and specialized in different ways.
 
 Ready to find your perfect fit in the software industry? Let's start exploring!
+
+### **GPT Prompts**
+
+1. "Explain the daily responsibilities and skills required for a Full Stack Developer."
+2. "Write a beginner’s roadmap for becoming a Data Scientist, including key tools and resources."
+3. "Describe how a DevOps Engineer bridges development and operations, with examples of their impact."
+4. "Generate a guide to starting a career as a Video Game Developer, from education to portfolio tips."
+5. "Explain the role of a Product Manager in translating business needs into technical solutions."
+6. "Write a comparison of Backend Developer vs. Full Stack Developer roles, focusing on their scope."
+7. "Draft strategies for transitioning from a Software Tester to a Quality Assurance Engineer."
+8. "List the steps and tools needed to specialize in Cybersecurity as an IT professional."
+9. "Generate tips for combining creativity and technology in Technical Marketing roles."
+10. "Describe career progression for a Machine Learning Engineer and emerging opportunities in AI."
+11. "Explain how a Business Analyst collaborates with developers to deliver impactful solutions."
+12. "Draft a guide for exploring Web Developer roles, covering frontend, backend, and full stack pathways."
+13. "List the transferable skills from a Support Engineer role to transitioning into Product Management."
+14. "Describe the responsibilities of an Engineering Manager and how they mentor teams."
+15. "Generate insights on the importance of SecOps Engineers in secure software development cycles."
+
+
+### **Future Reading Links**
+
+- [Comprehensive Guide to Full Stack Development - Medium](https://medium.com/)
+- [Pathways to Becoming a Data Scientist - Towards Data Science](https://towardsdatascience.com/)
+- [What Does a DevOps Engineer Do? - Atlassian Blog](https://www.atlassian.com/)
+- [Tips for Aspiring Video Game Developers - Gamasutra](https://www.gamedeveloper.com/)
+- [Roles and Responsibilities of a Product Manager - Mind the Product](https://www.mindtheproduct.com/)
+- [Backend Development Essentials - GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [How to Build a Career in Cybersecurity - EC-Council Blog](https://blog.eccouncil.org/)
+- [Introduction to Technical Marketing - HubSpot Blog](https://blog.hubspot.com/)
+- [Career Growth in Machine Learning Engineering - Toptal Insights](https://www.toptal.com/)
+- [Key Traits of an Effective Business Analyst - BA Times](https://www.batimes.com/)
+- [Breaking into Web Development - Codecademy Blog](https://www.codecademy.com/)
+- [How to Transition into Product Management - Product School](https://productschool.com/)
+- [The Responsibilities of an Engineering Manager - LeadDev](https://leaddev.com/)
+- [The Role of SecOps in Modern Development - Medium](https://medium.com/)

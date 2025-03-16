@@ -31,6 +31,8 @@ This index provides an easy-to-navigate, structured overview of the numerous car
 * [Backend Developer](./21-Backend_Developer/)
 * [Web Developer](./15-Web_Developer/)
 * [Mobile Developer](./12-Mobile_Developer/)
+* [Software Engineer](./11-Software_Engineer/)
+
 
 ## Data Focused Roles
 
@@ -39,6 +41,7 @@ This index provides an easy-to-navigate, structured overview of the numerous car
 * [Business Intelligence Developer](./22-Business_Intelligence_Developer/)
 * [Database Administrator](./25-Database_Administrator/)
 * [Machine Learning Engineer](./14-Machine_Learning_Engineer/)
+* [Video Game Developer](./9-Video_Game_Developer/)
 
 ## Infrastructure and Operations Roles
 
