@@ -83,7 +83,7 @@ Business Analysis certifications are highly regarded and can significantly enhan
 
 * **Typical Entry-Level Job Titles:** Junior Business Analyst, Associate Business Analyst, Business Analyst Intern, Business Systems Analyst (entry-level), Analyst - Business Analysis, Requirements Analyst, Entry-Level IT Business Analyst.
 * **Common Responsibilities:**  Assisting senior Business Analysts with requirements gathering, documenting meeting minutes, creating basic process flows, conducting research, performing data analysis under supervision, creating presentations, supporting user acceptance testing, and learning Business Analysis methodologies and tools. Entry-level roles are focused on building foundational Business Analysis skills and supporting more experienced BAs on projects.
-* **Expected Initial Salary Ranges:** Entry-level salaries for Business Analysts are generally in line with other entry-level professional roles in business and IT. In the US, starting salaries for Junior Business Analysts can range from $55,000 to $80,000+ per year, depending on location, industry, company size, and the specific role requirements. Salaries vary geographically and by industry.
+* **Expected Initial Salary Ranges:** Entry-level salaries for Business Analysts are generally in line with other entry-level professional roles in business and IT. In the US, starting salaries for Junior Business Analysts can range from 16,205,750 LKR to 23,572,000 LKR + per year, depending on location, industry, company size, and the specific role requirements. Salaries vary geographically and by industry.
 
 ### Portfolio Building Tips:
 

@@ -83,7 +83,7 @@ lang: en
 
 **Common Responsibilities:** Assisting senior systems engineers with system maintenance and administration tasks, monitoring system performance, troubleshooting basic system issues, configuring servers under supervision, performing routine system checks, documenting system configurations, providing technical support to internal users related to systems issues. Entry-level roles focus on learning system administration fundamentals and gaining hands-on experience in a managed environment.
 
-**Expected Initial Salary Ranges:** Entry-level salaries for Systems Administrators/Engineers vary depending on location, company size, and industry. In the US, starting salaries can range from $50,000 to $70,000 per year. Certifications and specific technical skills (like Linux administration or cloud knowledge) can influence entry-level pay.
+**Expected Initial Salary Ranges:** Entry-level salaries for Systems Administrators/Engineers vary depending on location, company size, and industry. In the US, starting salaries can range from 14,732,500 LKR to 20,625,500 LKR per year. Certifications and specific technical skills (like Linux administration or cloud knowledge) can influence entry-level pay.
 
 ### Portfolio Building Tips:
 

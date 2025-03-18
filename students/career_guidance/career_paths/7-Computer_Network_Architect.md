@@ -77,7 +77,7 @@ lang: en
 
 **Common Responsibilities:** Assisting senior engineers with network implementation and maintenance tasks, monitoring network performance, troubleshooting basic network issues, configuring network devices under supervision, documenting network configurations, and providing technical support to end-users related to networking.
 
-**Expected Initial Salary Ranges:** Entry-level salaries for Network Engineers/Technicians vary depending on location, company size, and industry. In the US, starting salaries can range from $55,000 to $75,000 per year. Certifications and specific skills can influence entry-level pay.
+**Expected Initial Salary Ranges:** Entry-level salaries for Network Engineers/Technicians vary depending on location, company size, and industry. In the US, starting salaries can range from 16,281,100 LKR to 22,201,500 LKR per year. Certifications and specific skills can influence entry-level pay.
 
 ### Portfolio Building Tips:
 

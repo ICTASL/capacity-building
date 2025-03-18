@@ -74,7 +74,7 @@ lang: en
 
 **Common Responsibilities:** Implementing basic gameplay features, writing code under supervision, fixing bugs, assisting senior developers, creating prototypes, learning engine and tools, participating in code reviews, documenting work. Entry-level roles are heavily focused on learning and building foundational skills under mentorship.
 
-**Expected Initial Salary Ranges:** Entry-level salaries in game development can vary based on location, studio size, game type, and cost of living.  Generally, in the US, starting salaries for Junior Game Programmers can range from $50,000 to $75,000 per year.  In regions with lower cost of living or for smaller studios, it might be lower.  Passion and portfolio quality are often as important as salary expectations at the entry level to break into the competitive game industry.
+**Expected Initial Salary Ranges:** Entry-level salaries in game development can vary based on location, studio size, game type, and cost of living.  Generally, in the US, starting salaries for Junior Game Programmers can range from 14,732,500 LKR to 22,098,750 LKR per year.  In regions with lower cost of living or for smaller studios, it might be lower.  Passion and portfolio quality are often as important as salary expectations at the entry level to break into the competitive game industry.
 
 ### Portfolio Building Tips:
 

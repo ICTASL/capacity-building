@@ -89,7 +89,7 @@ lang: en
 
 **Common Responsibilities:** Writing code under supervision, implementing specific software modules or features, fixing bugs, conducting unit tests, participating in code reviews, assisting senior developers with tasks, learning codebase and development processes, documenting code. Entry-level roles are focused on learning, skill development, and contributing to smaller parts of larger projects.
 
-**Expected Initial Salary Ranges:** Entry-level salaries for Software Engineers are generally competitive, reflecting the high demand for software development skills. In the US, starting salaries can range from $60,000 to $90,000+ per year, depending on location, company size, industry, and specific skills and technologies.  Salaries can vary significantly geographically and by specialization.
+**Expected Initial Salary Ranges:** Entry-level salaries for Software Engineers are generally competitive, reflecting the high demand for software development skills. In the US, starting salaries can range from 17,679,000 LKR to 26,518,500 LKR per year, depending on location, company size, industry, and specific skills and technologies.  Salaries can vary significantly geographically and by specialization.
 
 ### Portfolio Building Tips:
 
