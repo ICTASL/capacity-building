@@ -89,7 +89,7 @@ lang: en
 
 * **Typical Entry-Level Job Titles:** Junior Web Developer, Associate Web Developer, Web Developer Intern, Frontend Developer Intern, Backend Developer Intern, Web Developer Trainee, Junior Frontend Developer, Junior Backend Developer.
 * **Common Responsibilities:** Writing HTML, CSS, and JavaScript code for website features, implementing UI components based on designs, writing basic backend code under supervision, assisting senior developers with tasks, fixing frontend bugs, conducting basic testing, learning codebase and development processes, documenting code, working on smaller website modules or features. Entry-level roles focus on building foundational web development skills and contributing to parts of larger web projects.
-* **Expected Initial Salary Ranges:** Entry-level salaries for Web Developers are generally competitive, especially in areas with high tech demand. In the US, starting salaries for Junior Web Developers can range from $55,000 to $80,000+ per year, depending on location, company size, industry, and specific skills (e.g., framework knowledge). Salaries can vary significantly geographically.
+* **Expected Initial Salary Ranges:** Entry-level salaries for Web Developers are generally competitive, especially in areas with high tech demand. In the US, starting salaries for Junior Web Developers can range from 16,205,750 LKR to 23,572,000 LKR + per year, depending on location, company size, industry, and specific skills (e.g., framework knowledge). Salaries can vary significantly geographically.
 
 ### Portfolio Building Tips:
 

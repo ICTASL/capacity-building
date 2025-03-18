@@ -82,7 +82,7 @@ lang: en
 
 **Common Responsibilities:** Assisting senior cloud engineers in deploying and managing cloud resources, learning cloud services and tools, monitoring cloud environments, troubleshooting basic cloud issues, documenting cloud configurations, providing cloud support, and participating in cloud projects under guidance.
 
-**Expected Initial Salary Ranges:** Entry-level Cloud Engineer salaries are competitive, reflecting the demand for cloud skills. In the US, starting salaries can range from $70,000 to $95,000 per year, varying with location, company, and specific skills and certifications. Cloud certifications often positively impact starting salaries.
+**Expected Initial Salary Ranges:** Entry-level Cloud Engineer salaries are competitive, reflecting the demand for cloud skills. In the US, starting salaries can range from 20,625,500 LKR to 28,000,000 LKR per year, varying with location, company, and specific skills and certifications. Cloud certifications often positively impact starting salaries.
 
 ### Portfolio Building Tips:
 

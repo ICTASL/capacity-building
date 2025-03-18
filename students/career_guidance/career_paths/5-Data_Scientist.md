@@ -76,7 +76,7 @@ lang: en
 
 **Common Responsibilities:** Assisting senior data scientists with data collection and cleaning, conducting exploratory data analysis, building and evaluating basic models, creating visualizations and reports, supporting data-driven projects.
 
-**Expected Initial Salary Ranges:**  Entry-level salaries can vary widely depending on location, company size, and industry. Generally, in the US, starting salaries for Junior Data Scientists can range from $60,000 to $90,000 per year. In other regions, adjust based on local market conditions and cost of living. (It's important to provide a general range and advise students to research specific geographic areas).
+**Expected Initial Salary Ranges:**  Entry-level salaries can vary widely depending on location, company size, and industry. Generally, in the US, starting salaries for Junior Data Scientists can range from 17,683,800 LKR to 26,525,700 LKR. per year. In other regions, adjust based on local market conditions and cost of living. (It's important to provide a general range and advise students to research specific geographic areas).
 
 ### Portfolio Building Tips:
 

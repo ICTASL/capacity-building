@@ -81,7 +81,7 @@ lang: en
 
 **Common Responsibilities:** Writing code for specific app features, implementing UI components, fixing bugs, conducting basic testing on mobile devices, assisting senior mobile developers, learning mobile platform SDKs and development tools, working on smaller app modules, contributing to code reviews, documenting code. Entry-level roles are focused on learning mobile development fundamentals and gaining practical experience within a team environment.
 
-**Expected Initial Salary Ranges:** Entry-level salaries for Mobile Developers are generally competitive due to high demand. In the US, starting salaries for Junior Mobile Developers can range from $65,000 to $95,000 per year, depending on location, company size, platform specialization (iOS, Android), and specific skills. Geographic location and cost of living significantly influence salary ranges.
+**Expected Initial Salary Ranges:** Entry-level salaries for Mobile Developers are generally competitive due to high demand. In the US, starting salaries for Junior Mobile Developers can range from 19,142,500 LKR to 28,000,000 LKR per year, depending on location, company size, platform specialization (iOS, Android), and specific skills. Geographic location and cost of living significantly influence salary ranges.
 
 ### Portfolio Building Tips:
 

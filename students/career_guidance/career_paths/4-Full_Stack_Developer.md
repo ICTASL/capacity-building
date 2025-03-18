@@ -79,9 +79,9 @@ lang: en
 
 **Expected Initial Salary Ranges:**
 * Varies greatly by location and company. Generalized ranges could be:
-    * US: $50,000 - $80,000 per year (depending on location and experience).
-    * Europe: €30,000 - €50,000 per year (Western Europe, varies greatly in Eastern Europe).
-    * India: ₹3 LPA - ₹6 LPA (major metro areas).
+    * US: LKR: 14,801,000 - 23,681,600 per year (depending on location and experience).
+    * Europe: LKR: 9,669,240 - 16,115,400 per year (Western Europe, varies greatly in Eastern Europe).
+    * India: LKR: 1,026,132 - 2,052,264 (major metro areas).
     * *Note: These are very generalized estimates. Research local market conditions is crucial.*
 
 ### Portfolio Building Tips:

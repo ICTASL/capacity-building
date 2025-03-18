@@ -85,7 +85,7 @@ lang: en
 
 **Common Responsibilities:** Executing test cases (manual and automated), reporting defects, assisting senior QA engineers in test planning, learning testing methodologies and tools, creating basic test scripts, participating in test execution and defect triage. Entry-level roles focus on learning the fundamentals of software testing and gaining hands-on experience.
 
-**Expected Initial Salary Ranges:** Entry-level QA salaries can vary depending on location, company size, and industry. In the US, starting salaries for Junior QA Testers/Engineers can range from $50,000 to $70,000 per year. Certifications and any prior technical experience (even if not directly in QA) can influence entry-level pay.
+**Expected Initial Salary Ranges:** Entry-level QA salaries can vary depending on location, company size, and industry. In the US, starting salaries for Junior QA Testers/Engineers can range from 14,736,500 LKR to 20,631,100 LKR per year. Certifications and any prior technical experience (even if not directly in QA) can influence entry-level pay.
 
 ### Portfolio Building Tips:
 

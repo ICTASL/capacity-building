@@ -80,7 +80,7 @@ lang: en
 
 **Common Responsibilities:** Assisting senior DevOps engineers in automating tasks, writing scripts, managing infrastructure as code, setting up monitoring, troubleshooting build and deployment issues, participating in on-call rotations, documenting processes.
 
-**Expected Initial Salary Ranges:** Entry-level salaries for DevOps Engineers are generally competitive due to the high demand. In the US, starting salaries can range from $70,000 to $100,000 per year, depending on location, company, and specific skills. In other regions, adjust according to local market conditions.
+**Expected Initial Salary Ranges:** Entry-level salaries for DevOps Engineers are generally competitive due to the high demand. In the US, starting salaries can range from 20,625,500 LKR to 29,465,000 LKR per year, depending on location, company, and specific skills. In other regions, adjust according to local market conditions.
 
 ### Portfolio Building Tips:
 
