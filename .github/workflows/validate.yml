@@ -1,0 +1,62 @@
+name: 🔍 Validate Jekyll Site
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    # Run weekly validation on Sundays at 2 AM UTC
+    - cron: '0 2 * * 0'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 📥 Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: 💎 Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.2
+        bundler-cache: true
+        
+    - name: 🔧 Install dependencies
+      run: |
+        bundle install
+        
+    - name: 🏗️ Build Jekyll site
+      run: |
+        bundle exec jekyll build
+        
+    - name: ✅ Run build validation
+      run: |
+        chmod +x scripts/validate-build.sh
+        ./scripts/validate-build.sh
+        
+    - name: 🔗 Run link validation
+      run: |
+        chmod +x scripts/validate-links.sh
+        ./scripts/validate-links.sh
+        
+    - name: 📝 Run content validation
+      run: |
+        chmod +x scripts/validate-content.sh
+        ./scripts/validate-content.sh
+        
+    - name: 🚀 Deploy to GitHub Pages (if main branch)
+      if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site
+        
+    - name: 📊 Upload build artifacts
+      if: failure()
+      uses: actions/upload-artifact@v3
+      with:
+        name: jekyll-build-logs
+        path: _site/
+        retention-days: 7
